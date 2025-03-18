@@ -265,7 +265,7 @@ class TestCargarBonsaiDeArchivo(unittest.TestCase):
             ["7", False, True, ["10", "0"]],
             ["8", True, False, ["0", "11"]],
             ["9", False, False, ["16", "17"]],
-            ["10", True, True, ["20", "21"]],
+            ["10", True, True, ["0", "0"]],
             ["11", False, False, ["12", "13"]],
             ["12", True, False, ["0", "14"]],
             ["13", True, False, ["0", "15"]],
