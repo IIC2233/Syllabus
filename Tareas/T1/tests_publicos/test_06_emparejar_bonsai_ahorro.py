@@ -55,7 +55,7 @@ class TestEmparejarBonsaiAhorro(unittest.TestCase):
             ["1", True, False, ["3", "2"]],
             ["2", False, False, ["0", "4"]],
             ["3", False, False, ["5", "0"]],
-            ["4", True, True, ["6", "0"]],
+            ["4", True, False, ["6", "0"]],
             ["5", False, True, ["0", "0"]],
             ["6", True, True, ["0", "0"]]
         ]
@@ -64,7 +64,7 @@ class TestEmparejarBonsaiAhorro(unittest.TestCase):
             ["1", True, False, ["3", "2"]],
             ["2", False, False, ["0", "4"]],
             ["3", False, False, ["5", "0"]],
-            ["4", True, True, ["6", "0"]],
+            ["4", True, False, ["6", "0"]],
             ["5", False, True, ["0", "0"]],
             ["6", True, True, ["0", "0"]]
         ]

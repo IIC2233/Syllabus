@@ -19,3 +19,9 @@
 20/03 Tercera actualización:
 
 - Se modificó el test 04 de `test_06_emparejar_bonsai_ahorro.py` ([Issue #28](https://github.com/IIC2233/Syllabus/issues/28))
+
+21/03 Cuarta actualización:
+
+- Se modifica el test 01 de `test_06_emparejar_bonsai_ahorro.py` ([Issue #53](https://github.com/IIC2233/Syllabus/issues/53))
+
+- 
