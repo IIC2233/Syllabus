@@ -24,4 +24,4 @@
 
 - Se modifica el test 01 de `test_06_emparejar_bonsai_ahorro.py` ([Issue #53](https://github.com/IIC2233/Syllabus/issues/53))
 
-- 
+- Se modifica el test 09 de `test_04_es_simetrico.py` ([Issue #49](https://github.com/IIC2233/Syllabus/issues/49))

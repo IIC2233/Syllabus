@@ -385,7 +385,6 @@ class TestEsSimetrico(unittest.TestCase):
             ["49", True, False, ["0", "0"]]
         ]
 
-
         bonsai = Bonsai("Otto", 69, 69, estructura_inicial)
         respuesta_estudiante = dccortaramas.es_simetrico(bonsai)
         estructura_estudiante = bonsai.estructura
@@ -530,7 +529,7 @@ class TestEsSimetrico(unittest.TestCase):
             ["19", True, False, ["0", "0"]],
             ["20", True, False, ["0", "0"]],
             ["21", True, False, ["0", "0"]],
-            ["22", True, False, ["0", "0"]],
+            ["22", True, False, ["24", "0"]],
             ["23", True, True, ["0", "0"]],
             ["24", False, False, ["28", "29"]],
             ["25", False, True, ["26", "27"]],
@@ -578,7 +577,7 @@ class TestEsSimetrico(unittest.TestCase):
             ["19", True, False, ["0", "0"]],
             ["20", True, False, ["0", "0"]],
             ["21", True, False, ["0", "0"]],
-            ["22", True, False, ["0", "0"]],
+            ["22", True, False, ["24", "0"]],
             ["23", True, True, ["0", "0"]],
             ["24", False, False, ["28", "29"]],
             ["25", False, True, ["26", "27"]],
