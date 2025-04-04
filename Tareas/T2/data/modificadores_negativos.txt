@@ -1,0 +1,7 @@
+Termitas;0;-0.3;0
+Zancudos;0;0;-100
+Hongo Parasitario;0;-0.2;-50
+Gusano Minador;-30;0;0
+Moho Gris;0;-0.4;-100
+Avispas Asesinas;-20;-0.1;-80
+Ácaros Chupadores;0;0;-200

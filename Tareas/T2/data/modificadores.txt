@@ -1,0 +1,19 @@
+Flor;0;0;50;50
+Flor Dorada;0;0.05;60;75
+Panal de Abejas;30;0;10;150
+Nido de Pajaros;100;-0.1;0;200
+Espinas Afiladas;25;0;0;100
+Savia Curativa;0;0;150;150
+Hoja de Roble;0;0.15;0;120
+Veneno Lento;20;-0.05;0;90
+Escudo de Corteza;0;0.25;200;250
+Aguijón Venenoso;40;-0.1;0;150
+Néctar Dulce;0;0;300;300
+Espora Tóxica;10;-0.15;-50;50
+Raíces Profundas;0;0.2;100;180
+Látigo de Zarzas;35;0;0;120
+Fruto Energético;0;0;500;500
+Hojas Doradas;0;0.3;0;250
+Polen Alergénico;15;-0.1;-30;70
+Corteza Reflejante;0;0.4;0;350
+Semilla Explosiva;100;-0.5;-200;400
