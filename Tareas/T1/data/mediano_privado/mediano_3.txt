@@ -1,0 +1,13 @@
+1,T,F,Dos;3
+2,T,T,4;5
+3,F,T,Seis;7
+4,F,F,8;Nueve
+5,F,T,10;0
+Seis,T,F,Once;Doce
+7,T,T,0;Trece
+8,F,F,0;0
+Nueve,T,T,0;0
+10,T,F,0;0
+Once,F,T,0;0
+Doce,F,T,0;0
+Trece,F,T,0;0

@@ -1,0 +1,7 @@
+5,T,T,0;Seis
+Mama,T,F,0;4
+1,T,F,Mama;Papa
+4,F,F,0;0
+Papa,F,T,5;0
+7,F,F,0;0
+Seis,T,F,7;0

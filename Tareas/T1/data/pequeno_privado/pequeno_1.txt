@@ -1,0 +1,5 @@
+1,T,F,True;False
+True,F,T,T;0
+False,T,F,0;F
+F,F,F,0;0
+T,T,T,0;0

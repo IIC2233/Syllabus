@@ -1,0 +1,13 @@
+1,T,F,Abuela;TioAbuelo
+Abuela,T,T,Hijo;Hija
+TioAbuelo,F,T,Primo;Prima
+Hijo,F,F,Nieta;Nieto
+Hija,F,T,Nieta_2;Nieto_2
+Primo,T,F,0;0
+Prima,T,T,0;0
+Nieta,F,F,BisNieto;BisNieta
+Nieto,T,T,0;0
+Nieto_2,T,F,0;0
+Nieta_2,F,F,0;0
+BisNieto,F,T,0;0
+BisNieta,F,T,0;0
