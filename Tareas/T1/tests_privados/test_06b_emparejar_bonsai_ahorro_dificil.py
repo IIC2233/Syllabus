@@ -967,33 +967,13 @@ class TestEmparejarBonsaiAhorroDificil(unittest.TestCase):
 
         estructura_estudiante = bonsai.estructura
         valor_esperado = True
-        precio_esperado = 31
+        precio_esperado = 30
 
-        v_1 = [
-            ["Quitar Nodo", "57"], ["Quitar Nodo", "56"], ["Quitar Nodo", "15"],
-            ["Quitar Nodo", "14"], ["Modificar Flor", "18"], [
-                "Modificar Flor", "11"],
-            ["Modificar Flor", "12"]]
-
-        v_2 = [
-            ["Quitar Nodo", "57"], ["Quitar Nodo", "56"], ["Quitar Nodo", "15"],
-            ["Quitar Nodo", "14"], ["Modificar Flor", "19"], [
-                "Modificar Flor", "11"],
-            ["Modificar Flor", "12"]]
-
-        v_3 = [
-            ["Quitar Nodo", "57"], ["Quitar Nodo", "56"], ["Quitar Nodo", "15"],
-            ["Quitar Nodo", "14"], ["Modificar Flor", "18"], [
-                "Modificar Flor", "11"],
-            ["Modificar Flor", "10"]]
-
-        v_4 = [
-            ["Quitar Nodo", "57"], ["Quitar Nodo", "56"], ["Quitar Nodo", "15"],
-            ["Quitar Nodo", "14"], ["Modificar Flor", "19"], [
-                "Modificar Flor", "11"],
-            ["Modificar Flor", "10"]]
-
-        sols = [v_1, v_2, v_3, v_4]
+        v_1 = [['Quitar Nodo', '12'], ['Quitar Nodo', '10'], ['Modificar Flor', '11'],
+                ['Modificar Flor', '19'], ['Quitar Nodo', '56'], ['Quitar Nodo', '14'], 
+                ['Quitar Nodo', '57']]
+        
+        sols = [v_1]
         lista_estudiante_set = set(map(tuple, lista_estudiante))
         sols_sets = [set(map(tuple, solucion)) for solucion in sols]
 

@@ -25,3 +25,7 @@
 - Se modifica el test 01 de `test_06_emparejar_bonsai_ahorro.py` ([Issue #53](https://github.com/IIC2233/Syllabus/issues/53))
 
 - Se modifica el test 09 de `test_04_es_simetrico.py` ([Issue #49](https://github.com/IIC2233/Syllabus/issues/49))
+
+9/05 Quinta actualización:
+
+- Se modifica el test 07 de `test_06b_emparejar_bonsai_ahorro_dificil`, se actualiza la solución a la solución correcta (tests privados)
