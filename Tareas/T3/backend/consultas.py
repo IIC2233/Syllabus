@@ -83,7 +83,7 @@ def valor_orden(generador_productos: Generator,
 def proveedores_segun_precio_productos(
     generador_productos: Generator,
     generador_proveedores: Generator,
-    generador_provedor_producto: Generator,
+    generador_proveedor_producto: Generator,
     precio: float
 ) -> list:
     pass
