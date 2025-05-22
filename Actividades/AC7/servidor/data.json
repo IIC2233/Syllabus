@@ -1,0 +1,22 @@
+{
+    "Pablo": {
+        "Dani": 14000.0,
+        "Cristian": 33000.0
+    },
+    "Lucas": {
+        "Dani": 14000.0,
+        "Cristian": 36000.0,
+        "Paqui": 2000.0
+    },
+    "Dani": {
+        "Fran": 1250.0,
+        "Cristian": 33000.0
+    },
+    "Fran": {
+        "Dani": 10000.0,
+        "Cristian": 33000.0
+    },
+    "Paqui": {
+        "Cristian": 33000.0
+    }
+}
