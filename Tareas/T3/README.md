@@ -25,3 +25,16 @@
         - Se adaptó la solución `solution/test_10.py` para calzar con los nuevos datos.
         - Se adaptó la solución `solution/test_16.py` para calzar con los nuevos datos.
         - Se adaptaron las descripciones de algunos tests para que calcen con lo que el test verifica.
++ Viernes 23 de mayo: Se actualizan los *links* de los datos y tests publicos. Ocurren los siguientes cambios:
+
+    * Datos:
+        - Se corrigió el error de que se encuentren productos asociados en `proveedores_productos.csv` pero no se encuentren en `productos.csv`.
+        - Se verificó que todos los productos que aparecen en `ordenes_items.csv` aparezcan en `productos.csv`.
+        - Puede ser que aparezcan productos en `productos.csv` que posean un `identificador_del_proveedor`, pero que no aparezcan en el archivo `proveedores_productos.csv` -> Esto NO es un error. Asuman que el proveedor que vende dicho producto no está en ese dataset.
+        - Puede ser que aparezcan proveedores en `proveedores.csv` que posean un `nombre_proveedor`, pero que no aparezcan en el archivo `proveedores_productos.csv` -> Esto NO es un error. Asuman que el proveedor no vende productos en dicho dataset.
+
+    * Tests Públicos:
+        - Se adaptó el test `test_03_proveedores_por_estado_carga_datos.py` para que ahora se verifique el orden en que se retornan los datos, no solo que los datos sean correctos. Sigan el orden que menciona el enunciado.
+        - Se adaptó el test `test_00_cargar_datos.py` para que calze con las nuevas versiones de los archivos que se subieron.
+        - Se adaptó la solución `test_10.py` para que calze con las nuevas versiones de los archivos que se subieron.
+        - Se adaptó la solución `test_16.py` para que calze con las nuevas versiones de los archivos que se subieron.
