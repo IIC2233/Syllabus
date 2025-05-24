@@ -27,6 +27,10 @@
         - Se adaptaron las descripciones de algunos tests para que calcen con lo que el test verifica.
 + Viernes 23 de mayo: Se actualizan los *links* de los datos y tests publicos. Ocurren los siguientes cambios:
 
+    * Enunciado:
+        - Se corrigió la descripción de la función `producto_mas_popular`. Ahora esta dice "Si se produce un empate en popularidad entre dos
+        productos, se debe realizar un desempate según el atributo `id_base_datos`, ordenándolos de manera **descendiente**".
+
     * Datos:
         - Se corrigió el error de que se encuentren productos asociados en `proveedores_productos.csv` pero no se encuentren en `productos.csv`.
         - Se verificó que todos los productos que aparecen en `ordenes_items.csv` aparezcan en `productos.csv`.
@@ -36,5 +40,10 @@
     * Tests Públicos:
         - Se adaptó el test `test_03_proveedores_por_estado_carga_datos.py` para que ahora se verifique el orden en que se retornan los datos, no solo que los datos sean correctos. Sigan el orden que menciona el enunciado.
         - Se adaptó el test `test_00_cargar_datos.py` para que calze con las nuevas versiones de los archivos que se subieron.
+        - Se adaptó el test `test_07_cargar_datos.py` para que calze con la modificación del enunciado.
+        - Se adaptó el test `test_07_correctitud.py` para incluir un caso relacionado a la modificación del enunciado.
+        - Se adaptó el test `test_15_modificar_estados_ordenes_dirigidas_al_estado_correctitud.py` para que calze con el enunciado, el cual menciona que: "Retorna un generador con instancias de `Ordenes` correspondientes a usuarios que poseen una dirección dentro del estado de Estados Unidos entregado (estado), donde los estados de orden son modificados de acuerdo a lo indicado por el diccionario de transición de estados (cambio_estados_ordenes).".
+        - Se adaptó el test `test_16_agrupar_items_por_maximo_pedido_carga_datos.py` para que la fecha_actual siempre calce.
         - Se adaptó la solución `test_10.py` para que calze con las nuevas versiones de los archivos que se subieron.
+        - Se adaptó la solución `test_15.py` para que calze con la nueva adaptación de su test.
         - Se adaptó la solución `test_16.py` para que calze con las nuevas versiones de los archivos que se subieron.
