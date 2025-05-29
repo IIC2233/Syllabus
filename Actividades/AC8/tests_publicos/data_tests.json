@@ -1,0 +1,51 @@
+[
+    {
+        "nombre_banco": "BancoDCC",
+        "n_cuenta": 12345678,
+        "saldo": 150000,
+        "transacciones": [
+            {
+                "titulo": "Salgo base",
+                "monto": 150000,
+                "tipo": "ingreso"
+            }
+        ]
+    },
+    {
+        "nombre_banco": "PepaBank",
+        "n_cuenta": 98765432,
+        "saldo": 50000,
+        "transacciones": [
+            {
+                "titulo": "Salgo base",
+                "monto": 1000000,
+                "tipo": "ingreso"
+            },
+            {
+                "titulo": "Lechuga",
+                "monto": 2000,
+                "tipo": "gasto"
+            },
+            {
+                "titulo": "Gusanos",
+                "monto": 5000,
+                "tipo": "gasto"
+            },
+            {
+                "titulo": "Ajuste saldo",
+                "monto": 993000,
+                "tipo": "gasto"
+            },
+            {
+                "titulo": "Ajuste saldo",
+                "monto": 70000,
+                "tipo": "ingreso"
+            },
+            {
+                "titulo": "Transferencia Luna (10101010)",
+                "monto": 20000,
+                "tipo": "gasto"
+            }
+        ]
+    }
+]
