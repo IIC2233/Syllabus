@@ -1,0 +1,41 @@
+<!-- Todo el contenido de la página va contenido en el tag html -->
+<!DOCTYPE html>
+<html>
+  <!-- El tag head usualmente contiene metadata necesaria para la página:
+   título de la página que irá en el browser, link a la hoja de scripts y estilos, etc. -->
+  <head>
+    <title>Mi página personal</title>
+    <link rel="stylesheet" href="style.css" />
+    <script type="text/javascript" src="script.js"></script>
+  </head>
+
+  <!-- El tag body contiene lo que se verá en el cuerpo de la página. -->
+  <body>
+    <h1 class="titulo">Bienvenidos a mi página</h1>
+
+    <h2 class="subtitulo">Esto es un subtítulo</h2>
+
+    <div>
+      Esto es un div, los contenedores más básicos del HTML.
+
+      <p>
+        Dentro puedo poner párrafos
+        <span class="enfasis">y seccionar porciones de texto</span>
+      </p>
+    </div>
+
+    <div>
+      <p>Y hasta puedo poner imágenes o gifs...</p>
+      <div>
+        <img src="https://c.tenor.com/CFdra48UnKIAAAAd/tenor.gif" />
+      </div>
+    </div>
+
+    <div>
+      <div>Y si quiero elementos interactivos, también existen:</div>
+      <button onclick="apretarBoton()">Presióname</button>
+    </div>
+
+    <div id="footer">PD: ¿sabías que el fondo animado es sólo CSS?</div>
+  </body>
+</html>

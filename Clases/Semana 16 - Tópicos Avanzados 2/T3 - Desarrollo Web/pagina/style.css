@@ -1,0 +1,60 @@
+/* Aquí decimos que las siguientes reglas aplicaran al tag body en general. */
+body {
+  /* Gradiente del fondo */
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  height: 100vh;
+
+  /* El ancho del contenido de la página tomará 80% del total de ella
+   y estará centrado */
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+
+  /* Pongo un espacio vertical entre los límites de la página y el contenido */
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* Esto hace que la gradiente se mueva */
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Cualquier tag de este listado tendrá su texto centrado y usala la siguiente familia de fuentes */
+h1,
+h2,
+div {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+/* Cualquier elemento con esta clase asignada tendra este tamaño de fuente y un underline*/
+.titulo {
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+.subtitulo {
+  font-size: 30px;
+}
+
+/* Los elementos de esta clase tendrán texto en itálica y negrita*/
+.enfasis {
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* El elemento con id footer tendrá un espacio de 20 pixeles arriba.*/
+#footer {
+  margin-top: 20px;
+}
