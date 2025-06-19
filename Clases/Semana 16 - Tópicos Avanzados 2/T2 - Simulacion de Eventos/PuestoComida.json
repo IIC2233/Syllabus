@@ -1,0 +1,102 @@
+[
+    {
+        "nombre": "Empanadas Marcianas",
+        "productos": [
+            {
+                "nombre": "Mercurio",
+                "precio": 3000,
+                "stock": 50
+            },
+            {
+                "nombre": "Venus",
+                "precio": 3500,
+                "stock": 50
+            },
+            {
+                "nombre": "Marte",
+                "precio": 3000,
+                "stock": 50
+            },
+            {
+                "nombre": "Júpiter",
+                "precio": 3500,
+                "stock": 50
+            },
+            {
+                "nombre": "Saturno",
+                "precio": 3000,
+                "stock": 80
+            },
+            {
+                "nombre": "Urano",
+                "precio": 3800,
+                "stock": 40
+            }
+        ]
+    },
+    {
+        "nombre": "Completología",
+        "productos": [
+            {
+                "nombre": "Pancho",
+                "precio": 2000,
+                "stock": 100
+            },
+            {
+                "nombre": "Luco",
+                "precio": 3000,
+                "stock": 100
+            },
+            {
+                "nombre": "Italiano",
+                "precio": 3500,
+                "stock": 120
+            },
+            {
+                "nombre": "Dinámico",
+                "precio": 3500,
+                "stock": 100
+            },
+            {
+                "nombre": "Especial M&M",
+                "precio": 3800,
+                "stock": 100
+            }
+        ]
+    },
+    {
+        "nombre": "Hand-Rororoll",
+        "productos": [
+            {
+                "nombre": "Kanikama",
+                "precio": 2800,
+                "stock": 30
+            },
+            {
+                "nombre": "Pollo tereyaki",
+                "precio": 3500,
+                "stock": 30
+            },
+            {
+                "nombre": "Pollo apanado",
+                "precio": 3500,
+                "stock": 30
+            },
+            {
+                "nombre": "Camarón",
+                "precio": 3500,
+                "stock": 30
+            },
+            {
+                "nombre": "Camarón apanado",
+                "precio": 4000,
+                "stock": 20
+            },
+            {
+                "nombre": "Atún",
+                "precio": 4000,
+                "stock": 20
+            }
+        ]
+    }
+]
