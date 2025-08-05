@@ -1,0 +1,49 @@
+# La idea de un archivo .gitignore es ignorar todos los archivos que son innecesarios para las 
+# demás personas que participan en un proyecto. Por ejemplo, en el caso de *.DS_STORE, esta 
+# carpeta es innecesaria para otros usuarios porque coresponde a una personalización de uno de 
+# los miembros y es posible que los demás ni siquiera tengan el mismo sistema operativo.
+
+
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Un par de definiciones importantes primero:
+# * Bytecode es el formato intermedio entre código en Python e instrucciones para tu computador. Tu
+# 	código se convierte a bytecode y es el bytecode lo que tu PC lee para ejecutar las operaciones
+
+# __pycache__/ es la carpeta generada cuando tu computador quiere ejecutar el código y lo traduce
+# a bytecode (Fuente: https://stackoverflow.com/a/16869074)
+__pycache__/
+# Se ignoran 3 archivos, los de extensión *.pyc, *.pyo y *.pyd 
+# * *.pyc se crean cuando un archivo *.py se importa (nuevamente es la representación en bytecode)
+# * *.pyo similar a *.pyc, pero son la versión optimizada de bytecode
+# * *.pyd es una versión específica que se da en Windows
+# (Fuente: https://stackabuse.com/differences-between-pyc-pyd-and-pyo-python-files/)
+*.py[cod]
+# Es como *.pyc, pero se crea al usar cierto traductor de Python a código de máquina (Jython)
+# (Fuente: https://stackoverflow.com/q/4655454)
+*$py.class
+
+# --------------------------------------------
+# Jupyter notebooks
+# --------------------------------------------
+# Cuando se ejecuta un jupyter notebook y guardamos cambios manualmente, jupyter se encarga de
+# almacenar los cambios en esta carpeta, para poder contener múltiples versiones. Sin embargo, no
+# es necesario hacer seguimiento de esto a través de git, ya que hacemos seguimiento al *.ipynb
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --------------------------------------------
+# Interfaces gráficas
+# --------------------------------------------
+# Al usar una interfaz de JetBrains (PyCharm) se crea esta carpeta con archivos internos
+# (Fuente: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839-How-to-manage-projects-under-Version-Control-Systems)
+*.idea
+
+# --------------------------------------------
+# Sistemas operativos
+# --------------------------------------------
+# Archivos creados por MAC OS X en cualquier directorio para contener íconos y fondos
+# (Fuente: https://hardzone.es/2015/07/28/osx-ficheros-ds_store-como-eliminar-y-evitar-que-aparezcan/)
+*.DS_STORE
