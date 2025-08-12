@@ -17,7 +17,7 @@
 Puedes ver los `Syllabus` de los semestres anteriores en:
 | | |
 | - | - |
-| [2025-1](https://github.com/IIC2233/Syllabus-2024-2) | |
+| [2025-1](https://github.com/IIC2233/Syllabus-2025-1) | |
 | [2024-1](https://github.com/IIC2233/Syllabus-2024-1) | [2024-2](https://github.com/IIC2233/Syllabus-2024-2) |
 | [2023-1](https://github.com/IIC2233/Syllabus-2023-1) | [2023-2](https://github.com/IIC2233/Syllabus-2023-2) |
 | [2022-1](https://github.com/IIC2233/syllabus-2022-1) | [2022-2](https://github.com/IIC2233/Syllabus-2022-2) |
