@@ -1,0 +1,3 @@
+2
+tablero06.txt
+tablero08.txt

@@ -1,0 +1,8 @@
+7
+tablero_test_06_3.txt
+tablero_test_06_1.txt
+tablero_grande.txt
+tablero_test_06_6.txt
+tablero_test_06_2.txt
+tablero_test_06_4.txt
+tablero_test_06_5.txt

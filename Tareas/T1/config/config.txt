@@ -1,0 +1,7 @@
+6
+tablero0.txt
+tablero1.txt
+tablero2.txt
+tablero3.txt
+tablero4.txt
+tablero10.txt

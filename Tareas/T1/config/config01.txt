@@ -1,0 +1,6 @@
+5
+tablero01.txt
+tablero02.txt
+tablero03.txt
+tablero04.txt
+tablero10.txt

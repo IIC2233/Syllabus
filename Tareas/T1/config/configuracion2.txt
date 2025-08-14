@@ -1,0 +1,3 @@
+2
+tablero_test_06_1.txt
+tablero_test_06_2.txt
