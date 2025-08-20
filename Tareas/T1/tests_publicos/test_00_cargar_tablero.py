@@ -1,9 +1,10 @@
-import unittest
+import unittest, sys, os
 
 from tablero import Tablero
 
 from tests_publicos.timeout_function import timeout
 
+sys.stdout = open(os.devnull, 'w')
 N_SECOND = 10
 
 class TestCargarTablero(unittest.TestCase):

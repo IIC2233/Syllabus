@@ -6,3 +6,4 @@
 
 14/08 Se sube la tarea al Syllabus
 
+20/08 Subidos tests tests 03, 06, 08.
