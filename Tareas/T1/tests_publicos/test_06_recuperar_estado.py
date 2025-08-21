@@ -21,7 +21,6 @@ class TestRecuperaEstado(unittest.TestCase):
         Un archivo con tablero simple
         """
         juego = DCCasillas("usuario_1", "configuracion1.txt")
-        juego.cargar_configuracion()
         recupera = juego.recuperar_estado()
         usuario = juego.usuario
         tableros = juego.tableros
