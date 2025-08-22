@@ -63,7 +63,7 @@ class TestGuardarEstado(unittest.TestCase):
     def test_02_guardar_estado_True_3(self):
         """
         Verifica que se guarde correctamente el archivo, devuelva True.
-        Ademas evalua el puntaje y movimientos.
+Agregando puntaje y movimientos.
         """
 
         config = "config01.txt"
@@ -88,7 +88,7 @@ class TestGuardarEstado(unittest.TestCase):
     def test_03_guardar_estado_True_4(self):
         """
         Verifica que se guarde correctamente el archivo, devuelva True.
-        Ademas evalua el puntaje y movimientos.
+        Agregando puntaje y movimientos.
         """
 
         config = "config01.txt"
@@ -113,7 +113,7 @@ class TestGuardarEstado(unittest.TestCase):
     def test_04_guardar_estado_True_5(self):
         """
         Verifica que se guarde correctamente el archivo, devuelva True.
-        Ademas evalua el puntaje y movimientos.
+        Agregando puntaje y movimientos.
         Evalua distintos cambios en las casillas.
         """
 
@@ -149,7 +149,7 @@ class TestGuardarEstado(unittest.TestCase):
     def test_05_guardar_estado_True_6(self):
         """
         Verifica que se guarde correctamente el archivo, devuelva True.
-        Ademas evalua el puntaje y movimientos.
+        Agregando puntaje y movimientos.
         Evalua distintos cambios en las casillas
         """
 
@@ -170,16 +170,16 @@ class TestGuardarEstado(unittest.TestCase):
         self.assertTrue(path.exists(ruta_esperada), "No existe el archivo")
         self.assertTrue(resultado_estudiante, "Debe retornar True")
 
-        dccasillas_estudiante.tableros[2].tablero[0][3] = "X" + dccasillas_estudiante.tableros[4].tablero[0][3]
-        dccasillas_estudiante.tableros[2].tablero[1][2] = "X" + dccasillas_estudiante.tableros[4].tablero[1][2]
-        dccasillas_estudiante.tableros[2].tablero[2][1] = "X" + dccasillas_estudiante.tableros[4].tablero[2][1]
-        dccasillas_estudiante.tableros[2].tablero[0][0] = "X" + dccasillas_estudiante.tableros[4].tablero[0][0]
+        dccasillas_estudiante.tableros[2].tablero[0][3] = "X" + dccasillas_estudiante.tableros[2].tablero[0][3]
+        dccasillas_estudiante.tableros[2].tablero[1][2] = "X" + dccasillas_estudiante.tableros[2].tablero[1][2]
+        dccasillas_estudiante.tableros[2].tablero[2][1] = "X" + dccasillas_estudiante.tableros[2].tablero[1][1]
+        dccasillas_estudiante.tableros[2].tablero[0][0] = "X" + dccasillas_estudiante.tableros[2].tablero[0][0]
 
         resultado_estudiante = dccasillas_estudiante.guardar_estado()
 
-        dccasillas_estudiante.tableros[2].tablero[0][3] = dccasillas_estudiante.tableros[4].tablero[0][3].replace("X","")
-        dccasillas_estudiante.tableros[2].tablero[1][2] = "X" + dccasillas_estudiante.tableros[4].tablero[1][2].replace("X","")
-        dccasillas_estudiante.tableros[2].tablero[2][1] = "X" + dccasillas_estudiante.tableros[4].tablero[2][1].replace("X","")
+        dccasillas_estudiante.tableros[2].tablero[0][3] = dccasillas_estudiante.tableros[2].tablero[0][3].replace("X","")
+        dccasillas_estudiante.tableros[2].tablero[1][2] = dccasillas_estudiante.tableros[2].tablero[1][2].replace("X","")
+        dccasillas_estudiante.tableros[2].tablero[1][1] = dccasillas_estudiante.tableros[2].tablero[1][1].replace("X","")
 
         resultado_estudiante = dccasillas_estudiante.guardar_estado()
 
