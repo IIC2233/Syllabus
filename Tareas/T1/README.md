@@ -9,3 +9,6 @@
 20/08 Subidos tests tests 03, 06, 08.
 
 20/08 arreglos archivos .txt con mal formato, arreglo detalle en tests 05 y 06.
+
+21/08 Fix en test 05 y archivos de config asociados.
+
