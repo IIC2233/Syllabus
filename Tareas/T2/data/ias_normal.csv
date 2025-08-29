@@ -1,0 +1,4 @@
+nombre,vida_maxima,ataque,descripcion,probabilidad_especial,velocidad
+Crok,409,56,"Experto en dividir políticamente a tu mazo sobre debates de computación. Su habilidad especial hace que tus cartas cuestionen si Python es el mejor lenguaje para Programación Avanzada, provocando que dos cartas aleatorias se rebelen y no ataquen ni defiendan por 3 rondas",0.7,0.5
+CowPilot,420,41,"Experto en copiar y plagiar código sin citar. Su habilidad especial es reemplazar dos cartas aleatorias de tu mazo activo por copias idénticas de otra diferente, resultando en tres instancias idénticas de una misma carta en tu mazo",0.6,0.5
+CatGPT,484,49,"IA líder de DCCatástrofe, experto en manipulación y chantaje. Su habilidad especial es crear una conexión emocional artificial con tu mazo, lo cual provoca que los multiplicadores de ataque y defensa de tus cartas activas se reduzcan a 0.65",0.5,0.4
