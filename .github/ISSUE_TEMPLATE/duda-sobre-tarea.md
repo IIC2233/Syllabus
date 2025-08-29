@@ -2,7 +2,7 @@
 name: Duda sobre tarea
 about: Duda relacionada con la tarea actual
 title: ''
-labels: Tarea 1
+labels: Tarea 2
 assignees: ''
 
 ---
@@ -14,7 +14,7 @@ assignees: ''
 
 * [ ] Leí las reglas del foro (https://github.com/IIC2233/Syllabus/wiki/3.-Reglas-del-foro-(issues)).
 * [ ] Revisé el compilado de dudas de la tarea y no encontré una *issue* similar a la mía (https://github.com/IIC2233/Syllabus/issues/8).
-* [ ] Mi duda no se trata sobre una librería o *built-in*, ya que eso se pregunta en la *issue* creada para ello ([click aquí para ir a esa _issue_](https://github.com/IIC2233/Syllabus/issues/9)).
+* [ ] Mi duda no se trata sobre una librería o *built-in*, ya que eso se pregunta en la *issue* creada para ello ([click aquí para ir a esa _issue_](https://github.com/IIC2233/Syllabus/issues/124)).
 * [ ] De ser necesario, colocaré código simple que permita explicar mi problema o duda, ya que compartir código de esta evaluación puede ser considerado una falta a la ética.
 
 ### Duda
