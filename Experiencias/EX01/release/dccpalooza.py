@@ -7,7 +7,7 @@ from random import random, choice
 class DCCPalooza:
 
     def __init__(self):
-        self.artista_actual = ''
+        self.artista_actual = None
         self.__dia = 1
         self.line_up = []
         self.cant_publico = PUBLICO_INICIAL

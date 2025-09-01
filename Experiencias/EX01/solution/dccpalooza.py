@@ -7,7 +7,7 @@ from random import random, choice
 class DCCPalooza:
 
     def __init__(self):
-        self.artista_actual = ''
+        self.artista_actual = None
         self.__dia = 1
         self.line_up = []
         self.cant_publico = PUBLICO_INICIAL
@@ -50,7 +50,7 @@ class DCCPalooza:
             if self.dia <= 3:
                 print(f'Ha comenzado el día {self.dia} en DCCPalooza')
 
-    # Ejecuta un evento en caso de que se cumpla la porbabilidad
+    # Ejecuta un evento en caso de que se cumpla la probabilidad
     def ejecutar_evento(self):
         if random() < self.prob_evento:
             lista_eventos = ["Lluvia", "Terremoto", "Ola de calor"]
