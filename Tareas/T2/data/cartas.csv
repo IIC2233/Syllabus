@@ -1,19 +1,19 @@
 nombre,tipo,vida_maxima,multiplicador_defensa,precio,probabilidad_especial,ataque,multiplicador_ataque,descripcion_habilidad
-Duendes,tropa,80,0.7,5,0.3,10,1.0,"Por cada unidad de daño que hacen en una ronda, dan la misma cantidad de oro al jugador"
-P.E.P.P.A.,tropa,200,0.9,15,0.2,30,1.2,"Cuando ataca, se sana en un CURE_PEPPA% de su vida máxima"
-Montapatos,tropa,120,0.6,10,0.4,30,1.0,"Es una carta muy rápida, por lo que agregarlo en tu mazo hará que sí o sí el jugador ataque primero a la IA"
-Antimuros IngUC,tropa,60,0.5,8,0.3,40,1.3,Tiene poca vida pero un daño considerable. Cuando ataca se elimina del mazo automáticamente
-Caballero,tropa,200,1.0,15,0.4,20,0.9,La mejor carta. Es muy resistente y tiene un daño decente. Aumenta la defensa de las demás tropas en un DEF_CAB%
-Maldecidor Duende,tropa,100,0.7,12,0.3,25,1.1,"Transforma las alucinaciones de la IA en duendes. Realiza su ataque propio, y después un segundo ataque correspondiente a la mitad del ataque de la IA"
+Duendes,tropa,80,0.7,5,1.0,10,1.0,"Por cada unidad de daño que hacen en una ronda, dan la misma cantidad de oro al jugador"
+P.E.P.P.A.,tropa,200,0.9,15,1.0,30,1.2,"Cuando ataca, se sana en un CURE_PEPPA% de su vida máxima"
+Montapatos,tropa,120,0.6,10,1.0,30,1.0,"Es una carta muy rápida, por lo que agregarlo en tu mazo hará que sí o sí el jugador ataque primero a la IA"
+Antimuros IngUC,tropa,60,0.5,8,1.0,40,1.3,Tiene poca vida pero un daño considerable. Cuando ataca se elimina del mazo automáticamente
+Caballero,tropa,200,1.0,15,1.0,20,0.9,La mejor carta. Es muy resistente y tiene un daño decente. Aumenta la defensa de las demás tropas en un DEF_CAB%
+Maldecidor Duende,tropa,100,0.7,12,1.0,25,1.1,"Transforma las alucinaciones de la IA en duendes. Realiza su ataque propio, y después un segundo ataque correspondiente a la mitad del ataque de la IA"
 Escuadrón de Esqueletos,tropa,90,0.6,11,0.35,22,1.0,Tiene una probabilidad PROB_LARRY_GOD% de causar cinco veces su daño base y una probabilidad PROB_LARRY_MID% de morir instantáneamente al recibir un ataque
 Bárbaros,tropa,150,0.8,13,0.25,28,1.1,"Carta con poder acumulativo. Cada vez que ataca y sobrevive en una ronda, tiene una probabilidad de PROB_BARB% de aumentar permanentemente su ataque en POWER_UP_BARB%"
 Espíritu Ígneo,tropa,70,0.5,7,0.35,35,1.2,"Carta bastante frágil, pero con una probabilidad PROB_FIRE% de pasar desapercibido (no recibir daño)"
 Globo,tropa,110,0.6,9,0.3,15,0.9,"Al morir, tiene una probabilidad PROB_GLOBO% de dejar una bomba que causa un daño de DANO_BOMBA a la IA"
-Cañón,estructura,300,1.2,12,0.3,0,0,"Esta estructura reduce las defensas de la IA en un CANNON_ABILITY%, haciendo que sea más vulnerable a los ataques de las tropas"
+Cañón,estructura,300,1.2,12,1.0,0,0,"Esta estructura reduce las defensas de la IA en un CANNON_ABILITY%, haciendo que sea más vulnerable a los ataques de las tropas"
 Torre DIE,estructura,250,1.1,14,0.25,0,0,"Esta carta es un préstamo de un profesor del DIE. Electrocuta a la IA, aplicando una probabilidad del DIE_PROB% de que la IA no ataque"
-Recolector de Agua,estructura,150,0.9,10,0.2,0,0,"Esta carta recolecta agua que te permitirá desplegar otra tropa. Si muere, se reemplaza por una tropa aleatoria que esté en tu colección"
-Horno,estructura,180,1.0,11,0.2,0,0,"Esta estructura, al morir, se reemplaza por un Espíritu Ígneo. No es mucho, pero si te quedaste sin cartas te puede salvar"
+Recolector de Agua,estructura,150,0.9,10,1.0,0,0,"Esta carta recolecta agua que te permitirá desplegar otra tropa. Si muere, se reemplaza por una tropa aleatoria que esté en tu colección"
+Horno,estructura,180,1.0,11,1.0,0,0,"Esta estructura, al morir, se reemplaza por un Espíritu Ígneo. No es mucho, pero si te quedaste sin cartas te puede salvar"
 Lápida,estructura,200,1.2,13,0.25,0,0,Tiene una probabilidad PROB_LAPIDA% de no recibir daño del enemigo
-Cuartel de Bárbaros,estructura,220,1.0,15,0.2,0,0,"Cuando esta estructura muere, se reemplaza por Bárbaros"
-Torre Bomba,estructura,170,0.8,9,0.35,0,0,Esta estructura deja una bomba al morir que causa un daño DANO_BOMBA
-Cuartel de Duendes,estructura,160,0.9,8,0.3,0,0,Esta estructura se reemplaza por Duendes al morir
+Cuartel de Bárbaros,estructura,220,1.0,15,1.0,0,0,"Cuando esta estructura muere, se reemplaza por Bárbaros"
+Torre Bomba,estructura,170,0.8,9,1.0,0,0,Esta estructura deja una bomba al morir que causa un daño DANO_BOMBA
+Cuartel de Duendes,estructura,160,0.9,8,1.0,0,0,Esta estructura se reemplaza por Duendes al morir
