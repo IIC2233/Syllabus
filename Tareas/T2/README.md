@@ -9,3 +9,5 @@
 04/09 Se corrige sección de menú principal en la sección de menús, se suben los README
 
 05/09 Se corrigen probabilidades especiales de cartas para mantener consistencia con descripciones de habilidades
+
+10/09 Se corrige el multiplicador de ataque de torre bomba y el de defensa de las IAs para poder recibir este daño
