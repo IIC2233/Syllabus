@@ -17,4 +17,3 @@ Lápida,estructura,200,1.2,13,0.25,0,0,Tiene una probabilidad PROB_LAPIDA% de no
 Cuartel de Bárbaros,estructura,220,1.0,15,1.0,0,0,"Cuando esta estructura muere, se reemplaza por Bárbaros"
 Torre Bomba,estructura,170,0.8,9,1.0,0,1.0,Esta estructura deja una bomba al morir que causa un daño DANO_BOMBA
 Cuartel de Duendes,estructura,160,0.9,8,1.0,0,0,Esta estructura se reemplaza por Duendes al morir
-
