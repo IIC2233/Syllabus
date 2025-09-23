@@ -1,0 +1,101 @@
+id,nombre,apellido,año de nacimiento,planeta natal,fecha de registro,puntos de lealtad,ultima ubicación conocida
+IMP-0001,Lysa,Andor,10041,Alderaan,10079-05-04,68,Cato Neimoidia
+IMP-0002,Tali,Walker,10058,Yavin 4,10058-03-05,52,Bespin
+IMP-0003,Nara,Kade,10045,Nevarro,10083-02-20,0,Kessel
+IMP-0004,Galen,Shard,10063,Tatooine,10089-02-22,2,Chandrila
+IMP-0005,Juno,Morne,10031,Naboo,10033-08-27,43,Mon Cala
+IMP-0006,Sora,Zar,10047,Mon Cala,10082-01-13,55,Felucia
+IMP-0007,Beck,Doss,10045,Lothal,10049-08-17,47,Hoth
+IMP-0008,Nix,Skywalker,10049,Coruscant,10054-03-24,84,Bespin
+IMP-0009,Oren,Kade,10046,Tatooine,10050-07-03,73,Hoth
+IMP-0010,Nyra,Rendar,10047,Atollon,10074-11-12,79,Jedha
+IMP-0011,Ryn,Grell,10058,Tatooine,10058-11-10,92,Bespin
+IMP-0012,Keel,Salomon,10053,Tatooine,10054-03-18,96,Alderaan
+IMP-0013,Kael,Kestis,10043,Mandalore,10082-04-01,87,Bespin
+IMP-0014,Sera,Morne,10059,Ryloth,10059-02-20,45,Chandrila
+IMP-0015,Aila,Ordo,10057,Malastare,10057-09-13,88,Yavin 4
+IMP-0016,Ryn,Rendar,10039,Alderaan,10041-08-02,53,Hoth
+IMP-0017,Daro,Rendar,10048,Yavin 4,10049-07-03,47,Sullust
+IMP-0018,Nara,Ordo,10030,Sullust,10035-01-25,68,Mustafar
+IMP-0019,Ria,Terik,10057,Jedha,10059-07-12,43,Mon Cala
+IMP-0020,Sora,Ren,10049,Atollon,10053-07-14,58,Hoth
+IMP-0021,Tara,Dray,10043,Geonosis,10048-12-24,58,Mandalore
+IMP-0022,Voss,Rendar,10052,Ryloth,10087-09-17,43,Jedha
+IMP-0023,Nix,Syndulla,10047,Malastare,10049-04-19,54,Kashyyyk
+IMP-0024,Nix,Kaid,10055,Nevarro,10090-05-13,10,Chandrila
+IMP-0025,Tycho,Rauk,10069,Alderaan,10094-04-09,10,Kessel
+IMP-0026,Vex,Storm,10053,Sullust,10082-09-05,93,Hosnian Prime
+IMP-0027,Ryn,Rendar,10058,Iego,10062-08-11,64,Mon Cala
+IMP-0028,Zane,Kyne,10068,Chandrila,10072-10-16,15,Iego
+IMP-0029,Lysa,Fenn,10064,Geonosis,10066-11-28,55,Felucia
+IMP-0030,Vera,Shard,10044,Corellia,10045-03-13,48,Raxus Secundus
+IMP-0031,Nix,Sunrider,10057,Cato Neimoidia,10058-09-13,37,Hosnian Prime
+IMP-0032,Mira,Omiir,10064,Ryloth,10068-06-02,75,Alderaan
+IMP-0033,Finn,Korr,10044,Chandrila,10079-04-21,56,Yavin 4
+IMP-0034,Kade,Mox,10056,Dantooine,10061-08-17,63,Kuat
+IMP-0035,Lysa,Tyne,10061,Coruscant,10099-11-16,68,Kashyyyk
+IMP-0036,Korin,Zar,10056,Tatooine,10057-06-28,76,Coruscant
+IMP-0037,Korin,Vos,10040,Kessel,10044-05-23,41,Mandalore
+IMP-0038,Finn,Adana,10052,Yavin 4,10052-05-10,45,Mustafar
+IMP-0039,Voss,Kestis,10059,Bespin,10062-11-06,34,Mon Cala
+IMP-0040,Sora,Kade,10041,Tatooine,10045-04-10,58,Nevarro
+IMP-0041,Juno,Wex,10047,Iego,10086-10-18,74,Mon Cala
+IMP-0042,Sora,Viz,10049,Tatooine,10052-07-26,7,Mandalore
+IMP-0043,Kade,Morne,10060,Malastare,10063-09-12,17,Naboo
+IMP-0044,Tycho,Skara,10044,Jedha,10044-04-07,3,Naboo
+IMP-0045,Jax,Bane,10047,Lothal,10051-01-02,89,Kuat
+IMP-0046,Juno,Tyne,10041,Dantooine,10043-11-21,65,Hosnian Prime
+IMP-0047,Tara,Fenn,10067,Ryloth,10070-04-14,84,Jedha
+IMP-0048,Voss,Vale,10051,Cato Neimoidia,10054-02-16,17,Yavin 4
+IMP-0049,Rook,Syndulla,10059,Chandrila,10098-06-18,56,Mon Cala
+IMP-0050,Sora,Dray,10040,Coruscant,10041-07-02,96,Kuat
+IMP-0051,Rex,Quell,10047,Scarif,10052-02-25,49,Raxus Secundus
+IMP-0052,Sana,Salomon,10058,Yavin 4,10098-03-28,100,Mon Cala
+IMP-0053,Aila,Kerr,10053,Kashyyyk,10082-04-15,84,Mandalore
+IMP-0054,Ryn,Tano,10047,Cato Neimoidia,10075-08-23,85,Kuat
+IMP-0055,Korin,Dray,10056,Chandrila,10057-04-08,85,Kuat
+IMP-0056,Kira,Ordo,10070,Ryloth,10072-06-22,100,Alderaan
+IMP-0057,Keel,Tano,10050,Kessel,10077-02-08,56,Mon Cala
+IMP-0058,Tali,Voss,10050,Cato Neimoidia,10054-11-28,53,Jedha
+IMP-0059,Tali,Andor,10053,Kuat,10054-07-02,44,Raxus Secundus
+IMP-0060,Galen,Voss,10037,Scarif,10041-01-21,48,Sullust
+IMP-0061,Sana,Solo,10044,Iego,10044-12-20,51,Sullust
+IMP-0062,Nero,Jarrus,10054,Tatooine,10090-07-25,83,Florrum
+IMP-0063,Tali,Grell,10039,Corellia,10064-05-24,86,Felucia
+IMP-0064,Dax,Salomon,10047,Ryloth,10047-03-23,34,Florrum
+IMP-0065,Mira,Viz,10048,Tatooine,10050-06-05,51,Florrum
+IMP-0066,Nira,Sunrider,10046,Corellia,10050-02-22,62,Kuat
+IMP-0067,Juno,Organa,10063,Jedha,10068-05-15,81,Kuat
+IMP-0068,Mira,Kyne,10048,Bespin,10087-07-27,23,Felucia
+IMP-0069,Zane,Rook,10056,Atollon,10087-04-01,50,Jedha
+IMP-0070,Sana,Grell,10054,Atollon,10055-07-27,89,Lothal
+IMP-0071,Mira,Omiir,10042,Mustafar,10046-01-21,91,Felucia
+IMP-0072,Tycho,Adana,10041,Florrum,10045-11-11,18,Mustafar
+IMP-0073,Ria,Vor,10056,Atollon,10057-07-07,54,Geonosis
+IMP-0074,Nero,Terik,10053,Chandrila,10079-09-08,74,Yavin 4
+IMP-0075,Tycho,Vale,10062,Ryloth,10065-12-18,57,Sullust
+IMP-0076,Aila,Shard,10047,Nevarro,10081-12-01,67,Kashyyyk
+IMP-0077,Kira,Walker,10060,Scarif,10086-07-26,49,Sullust
+IMP-0078,Nyra,Tyne,10053,Ryloth,10056-07-22,61,Scarif
+IMP-0079,Korin,Skara,10054,Mandalore,10083-12-22,46,Iego
+IMP-0080,Nix,Bane,10062,Chandrila,10064-07-28,67,Bespin
+IMP-0081,Tali,Ordo,10052,Alderaan,10052-10-20,97,Florrum
+IMP-0082,Vex,Ardan,10052,Jedha,10084-11-26,53,Yavin 4
+IMP-0083,Teya,Vor,10039,Kessel,10042-06-21,97,Hoth
+IMP-0084,Kade,Quell,10035,Yavin 4,10037-04-06,6,Kuat
+IMP-0085,Aren,Syndulla,10054,Alderaan,10056-07-22,84,Coruscant
+IMP-0086,Nira,Organa,10046,Jedha,10083-03-17,97,Mustafar
+IMP-0087,Lumi,Wex,10050,Atollon,10055-09-16,77,Chandrila
+IMP-0088,Leto,Vext,10048,Naboo,10051-03-08,88,Yavin 4
+IMP-0089,Sora,Terik,10055,Florrum,10055-03-05,87,Mustafar
+IMP-0090,Ryn,Solo,10043,Yavin 4,10044-09-21,64,Raxus Secundus
+IMP-0091,Jax,Zar,10051,Scarif,10087-11-17,58,Jedha
+IMP-0092,Nero,Morne,10048,Tatooine,10051-07-11,54,Sullust
+IMP-0093,Leto,Ordo,10042,Scarif,10045-08-01,91,Sullust
+IMP-0094,Daro,Salomon,10049,Tatooine,10050-12-18,60,Ryloth
+IMP-0095,Aren,Kerr,10053,Dantooine,10053-03-05,55,Malastare
+IMP-0096,Rook,Morne,10062,Geonosis,10062-06-21,45,Cato Neimoidia
+IMP-0097,Beck,Kenobi,10047,Tatooine,10049-04-26,71,Florrum
+IMP-0098,Zane,Wex,10051,Mandalore,10091-09-14,8,Kuat
+IMP-0099,Tycho,Tyne,10061,Alderaan,10063-12-14,50,Florrum
+IMP-0100,Nero,Dray,10047,Nevarro,10050-02-07,88,Florrum
