@@ -1,0 +1,4 @@
+3
+tablero17.txt
+tablero18.txt
+tablero21.txt

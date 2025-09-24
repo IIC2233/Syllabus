@@ -1,0 +1,3 @@
+2
+t6.txt
+tablero0.txt

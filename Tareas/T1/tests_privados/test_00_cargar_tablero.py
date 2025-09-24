@@ -146,10 +146,54 @@ class TestCargartablero(unittest.TestCase):
         
         self.assertIsNotNone(tablero_estudiante.tablero)
         self.assertListEqual(tablero_esperado, tablero_estudiante.tablero)
-
+        
 
     @timeout(N_SECOND)
     def test_06_cargar_tablero(self):
+        """
+        Carga un tablero 5x5 con 0's al inicio del numero
+        """
+
+        tablero_esperado = [
+            ["1", "27", ".", "3", ".", "43"],
+            [".", "1", "2", "52", ".", "4"],
+            ["91", "86", "1", "2", ".", "100"],
+            ["2", ".", "30", ".", ".", "3"],
+            ["33", "4", "3", "5", ".", "."],
+            [".", "7", ".", "9", "13", "."]
+        ]
+
+        tablero_estudiante = Tablero()
+        tablero_estudiante.cargar_tablero("tablero22.txt")
+        
+        self.assertIsNotNone(tablero_estudiante.tablero)
+        self.assertListEqual(tablero_esperado, tablero_estudiante.tablero)
+        
+
+    @timeout(N_SECOND)
+    def test_07_cargar_tablero(self):
+        """
+        Carga un tablero 6x9 con 0's al inicio del numero
+        """
+
+        tablero_esperado = [
+            ["1", "2", "3", ".", "1", "42", ".", "3", "12", "9"],
+            [".", "1", "2", "3", "1", "22", "1", ".", "15", "0"],
+            ["2", ".", "37", "1", "2", ".", "2", "1", "11", "17"],
+            ["3", "1", ".", "2", "1", "13", "2", ".", "12", "7"],
+            ["2", ".", "1", "3", ".", "12", "1", "2", "11", "4"],
+            ["8", "5", "9", "91", "4", "9", "6", "6", ".", "."],
+            ["23", "4", "5", "6", "78", "9", "30", ".", "44", "."]
+        ]
+        tablero_estudiante = Tablero()
+        tablero_estudiante.cargar_tablero("tablero23.txt")
+        
+        self.assertIsNotNone(tablero_estudiante.tablero)
+        self.assertListEqual(tablero_esperado, tablero_estudiante.tablero)
+        
+
+    @timeout(N_SECOND)
+    def test_08_cargar_tablero(self):
         """
         Carga un tablero 6x4 todo vacio
         """
@@ -170,7 +214,7 @@ class TestCargartablero(unittest.TestCase):
         
 
     @timeout(N_SECOND)
-    def test_07_cargar_tablero(self):
+    def test_09_cargar_tablero(self):
         """
         Carga un tablero 6x6 todo del mismo numero
         """
@@ -191,7 +235,7 @@ class TestCargartablero(unittest.TestCase):
     
     
     @timeout(N_SECOND)
-    def test_08_cargar_tablero(self):
+    def test_10_cargar_tablero(self):
         """
         Carga un tablero 4x7 con filas y columnas objetivos de 0's
         """
