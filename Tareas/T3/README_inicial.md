@@ -1,4 +1,4 @@
-# Tarea 3: Ddepartamento de las Colecciones del Cosmos 🌌
+# Tarea 3: Departamento de las Colecciones del Cosmos 🌌
 
 
 Un buen ```README.md``` puede marcar una gran diferencia en la facilidad con la que corregimos una tarea, y consecuentemente cómo funciona su programa, por lo en general, entre más ordenado y limpio sea éste, mejor será 
