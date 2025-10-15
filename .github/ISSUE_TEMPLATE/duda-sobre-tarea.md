@@ -2,7 +2,7 @@
 name: Duda sobre tarea
 about: Duda relacionada con la tarea actual
 title: ''
-labels: Tarea 2
+labels: Tarea 3
 assignees: ''
 
 ---
