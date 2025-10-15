@@ -382,7 +382,7 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
             ),
             PlanetaMineral(
                 id_planeta=3,
-                id_mineral=103,
+                id_mineral=104,
                 cantidad_disponible=3211.98,
                 pureza=0.12
             ),
