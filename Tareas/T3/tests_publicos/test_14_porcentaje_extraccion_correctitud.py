@@ -62,10 +62,10 @@ class TestPorcentajeExtraccion(unittest.TestCase):
         tupla_esperada = (cantidad, cantidad)
         tupla_esperada = (round(tupla_esperada[0], 2), round(tupla_esperada[1], 2))
 
-        g_mis = [mision for mision in lista_mision_mineral]
-        g_planetas = [planeta for planeta in lista_planetas_mineral]
+        g_mis = (mision_mineral for mision_mineral in lista_mision_mineral)
+        g_planetas = (planeta for planeta in lista_planetas_mineral)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = porcentaje_extraccion(g_t, g_mis, g_planetas, mision)
 
@@ -125,11 +125,11 @@ class TestPorcentajeExtraccion(unittest.TestCase):
         tupla_esperada = (cantidad, cantidad/2)
         tupla_esperada = (round(tupla_esperada[0], 2), round(tupla_esperada[1], 2))
 
-        g_mis = [mision_mineral for mision_mineral in lista_mision_mineral]
+        g_mis = (mision_mineral for mision_mineral in lista_mision_mineral)
 
-        g_planetas = [planeta for planeta in lista_planetas_mineral]
+        g_planetas = (planeta for planeta in lista_planetas_mineral)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = porcentaje_extraccion(g_t, g_mis, g_planetas, mision)
         tupla_estudiante = (round(resultado_estudiante[0], 2), round(resultado_estudiante[1], 2))
@@ -196,10 +196,10 @@ class TestPorcentajeExtraccion(unittest.TestCase):
         tupla_esperada = (porcentaje, porcentaje)
         tupla_esperada = (round(tupla_esperada[0], 2), round(tupla_esperada[1], 2))
 
-        g_mis = [mision_mineral for mision_mineral in lista_mision_mineral]
-        g_planetas = [planeta for planeta in lista_planetas_mineral]
+        g_mis = (mision_mineral for mision_mineral in lista_mision_mineral)
+        g_planetas = (planeta for planeta in lista_planetas_mineral)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = porcentaje_extraccion(g_t, g_mis, g_planetas, mision)
         tupla_estudiante = (round(resultado_estudiante[0], 2), round(resultado_estudiante[1], 2))
@@ -268,10 +268,10 @@ class TestPorcentajeExtraccion(unittest.TestCase):
         tupla_esperada = (cantidad, cantidad/2)
         tupla_esperada = (round(tupla_esperada[0], 2), round(tupla_esperada[1], 2))
 
-        g_mis = [mision_mineral for mision_mineral in lista_mision_mineral]
-        g_planetas = [planeta for planeta in lista_planetas_mineral]
+        g_mis = (mision_mineral for mision_mineral in lista_mision_mineral)
+        g_planetas = (planeta for planeta in lista_planetas_mineral)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = porcentaje_extraccion(g_t, g_mis, g_planetas, mision)
 
@@ -364,10 +364,10 @@ class TestPorcentajeExtraccion(unittest.TestCase):
         tupla_esperada = (total, total/4)
         tupla_esperada = (round(tupla_esperada[0], 2), round(tupla_esperada[1], 2))
 
-        g_mis = [mision_mineral for mision_mineral in lista_mision_mineral]
-        g_planetas = [planeta for planeta in lista_planetas_mineral]
+        g_mis = (mision_mineral for mision_mineral in lista_mision_mineral)
+        g_planetas = (planeta for planeta in lista_planetas_mineral)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = porcentaje_extraccion(g_t, g_mis, g_planetas, mision)
 
@@ -440,10 +440,10 @@ class TestPorcentajeExtraccion(unittest.TestCase):
 
         tupla_esperada = (0.0, 0.0)
 
-        g_mis = [mision_mineral for mision_mineral in lista_mision_mineral]
-        g_planetas = [planeta for planeta in lista_planetas_mineral]
+        g_mis = (mision_mineral for mision_mineral in lista_mision_mineral)
+        g_planetas = (planeta for planeta in lista_planetas_mineral)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = porcentaje_extraccion(g_t, g_mis, g_planetas, mision)
         tupla_estudiante = (round(resultado_estudiante[0], 2), round(resultado_estudiante[1], 2))

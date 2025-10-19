@@ -56,9 +56,9 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         lista_esperada = [("Marte", 1, 3211.98)]
 
-        generador_planetas = [planeta for planeta in lista_planetas]
+        generador_planetas = (planeta for planeta in lista_planetas)
 
-        generador_minerales = [mineral for mineral in lista_minerales]
+        generador_minerales = (mineral for mineral in lista_minerales)
 
         resultado_estudiante = disponibilidad_por_planeta(
             generador_minerales, generador_planetas, 101)
@@ -122,9 +122,9 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         lista_esperada = [("Marte", 1, 211.98), ("Tierra", 2, 100.98)]
 
-        generador_planetas = [planeta for planeta in lista_planetas]
+        generador_planetas = (planeta for planeta in lista_planetas)
 
-        generador_minerales = [mineral for mineral in lista_minerales]
+        generador_minerales = (mineral for mineral in lista_minerales)
 
         resultado_estudiante = disponibilidad_por_planeta(
             generador_minerales, generador_planetas, 101)
@@ -188,9 +188,9 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         lista_esperada = [("Marte", 1, 88325.98), ("Tierra", 2, 0.0)]
 
-        generador_planetas = [planeta for planeta in lista_planetas]
+        generador_planetas = (planeta for planeta in lista_planetas)
 
-        generador_minerales = [mineral for mineral in lista_minerales]
+        generador_minerales = (mineral for mineral in lista_minerales)
 
         resultado_estudiante = disponibilidad_por_planeta(
             generador_minerales, generador_planetas, 100)
@@ -242,9 +242,9 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         lista_esperada = [("Marte", 1, 581394.98), ("Tierra", 2, 100.98)]
 
-        generador_planetas = [planeta for planeta in lista_planetas]
+        generador_planetas = (planeta for planeta in lista_planetas)
 
-        generador_minerales = [mineral for mineral in lista_minerales]
+        generador_minerales = (mineral for mineral in lista_minerales)
 
         resultado_estudiante = disponibilidad_por_planeta(
             generador_minerales, generador_planetas, 101)
@@ -315,9 +315,9 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         lista_esperada = [("Marte", 1, 3211.98), ("Tierra", 2, 100.98), ("Mercurio", 3, 0.0)]
 
-        generador_planetas = [planeta for planeta in lista_planetas]
+        generador_planetas = (planeta for planeta in lista_planetas)
 
-        generador_minerales = [mineral for mineral in lista_minerales]
+        generador_minerales = (mineral for mineral in lista_minerales)
 
         resultado_estudiante = disponibilidad_por_planeta(
             generador_minerales, generador_planetas, 103)
@@ -416,9 +416,9 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
             ("Marte", 1, 1234.56), ("Tierra", 2, 0.0), ("Mercurio", 3, 22.33),
             ("Venus", 4, 0.0), ("Saturno", 5, 2025.02)]
 
-        generador_planetas = [planeta for planeta in lista_planetas]
+        generador_planetas = (planeta for planeta in lista_planetas)
 
-        generador_minerales = [mineral for mineral in lista_minerales]
+        generador_minerales = (mineral for mineral in lista_minerales)
 
         resultado_estudiante = disponibilidad_por_planeta(
             generador_minerales, generador_planetas, 103)

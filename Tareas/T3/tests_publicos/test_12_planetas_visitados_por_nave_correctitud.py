@@ -65,11 +65,11 @@ class TestPlanetasVisitadosPorNave(unittest.TestCase):
 
         lista_esperada = [("N-1", "Marte", 1)]
 
-        g_mis = [mision for mision in lista_misiones]
+        g_mis = (mision for mision in lista_misiones)
 
-        g_planetas = [planeta for planeta in lista_planetas]
+        g_planetas = (planeta for planeta in lista_planetas)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = planetas_visitados_por_nave(g_planetas, g_mis, g_t)
 
@@ -143,11 +143,11 @@ class TestPlanetasVisitadosPorNave(unittest.TestCase):
 
         lista_esperada = [("N-1", "Miércole", 1), ("N-1", "Agua", 2)]
 
-        g_mis = [mision for mision in lista_misiones]
+        g_mis = (mision for mision in lista_misiones)
 
-        g_planetas = [planeta for planeta in lista_planetas]
+        g_planetas = (planeta for planeta in lista_planetas)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = planetas_visitados_por_nave(g_planetas, g_mis, g_t)
 
@@ -238,11 +238,11 @@ class TestPlanetasVisitadosPorNave(unittest.TestCase):
 
         lista_esperada = [("N-1", "Mercurio", 3), ("N-2", "Venus", 4)]
 
-        g_mis = [mision for mision in lista_misiones]
+        g_mis = (mision for mision in lista_misiones)
 
-        g_planetas = [planeta for planeta in lista_planetas]
+        g_planetas = (planeta for planeta in lista_planetas)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = planetas_visitados_por_nave(g_planetas, g_mis, g_t)
 
@@ -303,11 +303,11 @@ class TestPlanetasVisitadosPorNave(unittest.TestCase):
 
         lista_esperada = [("N-1", None, None)]
 
-        g_mis = [mision for mision in lista_misiones]
+        g_mis = (mision for mision in lista_misiones)
 
-        g_planetas = [planeta for planeta in lista_planetas]
+        g_planetas = (planeta for planeta in lista_planetas)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = planetas_visitados_por_nave(g_planetas, g_mis, g_t)
 
@@ -406,11 +406,11 @@ class TestPlanetasVisitadosPorNave(unittest.TestCase):
 
         lista_esperada = [("N-1", "Saturno", 5), ("N-2", "Saturno", 5), ("N-3", None, None)]
 
-        g_mis = [mision for mision in lista_misiones]
+        g_mis = (mision for mision in lista_misiones)
 
-        g_planetas = [planeta for planeta in lista_planetas]
+        g_planetas = (planeta for planeta in lista_planetas)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = planetas_visitados_por_nave(g_planetas, g_mis, g_t)
 
@@ -477,11 +477,11 @@ class TestPlanetasVisitadosPorNave(unittest.TestCase):
 
         lista_esperada = [("H0L4", "Tierra-0", 542)]
 
-        g_mis = [mision for mision in lista_misiones]
+        g_mis = (mision for mision in lista_misiones)
 
-        g_planetas = [planeta for planeta in lista_planetas]
+        g_planetas = (planeta for planeta in lista_planetas)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = planetas_visitados_por_nave(g_planetas, g_mis, g_t)
 

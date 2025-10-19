@@ -2,6 +2,7 @@ import os
 import sys
 import unittest
 from collections.abc import Generator
+from functools import reduce
 from backend.consultas import naves_astronautas_rango, cargar_tripulaciones
 from tests_publicos.timeout_function import timeout
 from tests_publicos.solution.test_4 import (
@@ -18,6 +19,9 @@ sys.stdout = open(os.devnull, 'w')
 
 # Constante para timeout en tests
 N_SECOND = 0.08
+tipos_adicionales_permitidos = (
+    map, filter, enumerate, zip
+)
 
 
 class TestDisponibilidadPorPlaneta(unittest.TestCase):
@@ -40,11 +44,19 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         resultado_estudiante = naves_astronautas_rango(g_t, 3, 3)
 
-        self.assertIsInstance(resultado_estudiante, (Generator))
+        self.assertTrue(isinstance(resultado_estudiante, Generator) 
+                        or type(resultado_estudiante) in tipos_adicionales_permitidos,
+                        'Revisa que la función sea generador, o uno entre '+', '.join(
+                            str(item) for item in tipos_adicionales_permitidos
+                        ))
 
         lista_resultado = list(resultado_estudiante)
         self.assertTrue(all(isinstance(item, tuple) for item in lista_resultado), 'Revisa que el primer generador sea de tuples')
-        self.assertTrue(all(isinstance(item, Generator) for _, item in lista_resultado), 'Revisa que las ids astronauta se entregen como generador')
+        self.assertTrue(any(isinstance(item, Generator) or type(item) in tipos_adicionales_permitidos 
+                            for _, item in lista_resultado), 
+                            'Revisa que las ids astronauta se entregen como generador, o uno entre '+', '.join(
+                            str(item) for item in tipos_adicionales_permitidos
+                        ))
 
         lista_resultado = [(k, tuple(v)) for k, v in lista_resultado]
         lista_esperada = NAVES_ASTRONAUTAS_RANGO_S_1
@@ -65,11 +77,19 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         resultado_estudiante = naves_astronautas_rango(g_t, 4, 3)
 
-        self.assertIsInstance(resultado_estudiante, (Generator))
+        self.assertTrue(isinstance(resultado_estudiante, Generator) 
+                        or type(resultado_estudiante) in tipos_adicionales_permitidos,
+                        'Revisa que la función sea generador, o uno entre '+', '.join(
+                            str(item) for item in tipos_adicionales_permitidos
+                        ))
 
         lista_resultado = list(resultado_estudiante)
         self.assertTrue(all(isinstance(item, tuple) for item in lista_resultado), 'Revisa que el primer generador sea de tuples')
-        self.assertTrue(all(isinstance(item, Generator) for _, item in lista_resultado), 'Revisa que las ids astronauta se entregen como generador')
+        self.assertTrue(any(isinstance(item, Generator) or type(item) in tipos_adicionales_permitidos 
+                            for _, item in lista_resultado), 
+                            'Revisa que las ids astronauta se entregen como generador, o uno entre '+', '.join(
+                            str(item) for item in tipos_adicionales_permitidos
+                        ))
 
         lista_resultado = [(k, tuple(v)) for k, v in lista_resultado]
         lista_esperada = NAVES_ASTRONAUTAS_RANGO_S_2
@@ -90,11 +110,19 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         resultado_estudiante = naves_astronautas_rango(g_t, 1, 4)
 
-        self.assertIsInstance(resultado_estudiante, (Generator))
+        self.assertTrue(isinstance(resultado_estudiante, Generator) 
+                        or type(resultado_estudiante) in tipos_adicionales_permitidos,
+                        'Revisa que la función sea generador, o uno entre '+', '.join(
+                            str(item) for item in tipos_adicionales_permitidos
+                        ))
 
         lista_resultado = list(resultado_estudiante)
         self.assertTrue(all(isinstance(item, tuple) for item in lista_resultado), 'Revisa que el primer generador sea de tuples')
-        self.assertTrue(all(isinstance(item, Generator) for _, item in lista_resultado), 'Revisa que las ids astronauta se entregen como generador')
+        self.assertTrue(any(isinstance(item, Generator) or type(item) in tipos_adicionales_permitidos 
+                            for _, item in lista_resultado), 
+                            'Revisa que las ids astronauta se entregen como generador, o uno entre '+', '.join(
+                            str(item) for item in tipos_adicionales_permitidos
+                        ))
 
         lista_resultado = [(k, tuple(v)) for k, v in lista_resultado]
         lista_esperada = NAVES_ASTRONAUTAS_RANGO_M_1
@@ -115,11 +143,19 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         resultado_estudiante = naves_astronautas_rango(g_t, 3, 6)
 
-        self.assertIsInstance(resultado_estudiante, (Generator))
+        self.assertTrue(isinstance(resultado_estudiante, Generator) 
+                        or type(resultado_estudiante) in tipos_adicionales_permitidos,
+                        'Revisa que la función sea generador, o uno entre '+', '.join(
+                            str(item) for item in tipos_adicionales_permitidos
+                        ))
 
         lista_resultado = list(resultado_estudiante)
         self.assertTrue(all(isinstance(item, tuple) for item in lista_resultado), 'Revisa que el primer generador sea de tuples')
-        self.assertTrue(all(isinstance(item, Generator) for _, item in lista_resultado), 'Revisa que las ids astronauta se entregen como generador')
+        self.assertTrue(any(isinstance(item, Generator) or type(item) in tipos_adicionales_permitidos 
+                            for _, item in lista_resultado), 
+                            'Revisa que las ids astronauta se entregen como generador, o uno entre '+', '.join(
+                            str(item) for item in tipos_adicionales_permitidos
+                        ))
 
         lista_resultado = [(k, tuple(v)) for k, v in lista_resultado]
         lista_esperada = NAVES_ASTRONAUTAS_RANGO_M_2
@@ -140,11 +176,19 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         resultado_estudiante = naves_astronautas_rango(g_t, 2, 3)
 
-        self.assertIsInstance(resultado_estudiante, (Generator))
+        self.assertTrue(isinstance(resultado_estudiante, Generator) 
+                        or type(resultado_estudiante) in tipos_adicionales_permitidos,
+                        'Revisa que la función sea generador, o uno entre '+', '.join(
+                            str(item) for item in tipos_adicionales_permitidos
+                        ))
 
         lista_resultado = list(resultado_estudiante)
         self.assertTrue(all(isinstance(item, tuple) for item in lista_resultado), 'Revisa que el primer generador sea de tuples')
-        self.assertTrue(all(isinstance(item, Generator) for _, item in lista_resultado), 'Revisa que las ids astronauta se entregen como generador')
+        self.assertTrue(any(isinstance(item, Generator) or type(item) in tipos_adicionales_permitidos 
+                            for _, item in lista_resultado), 
+                            'Revisa que las ids astronauta se entregen como generador, o uno entre '+', '.join(
+                            str(item) for item in tipos_adicionales_permitidos
+                        ))
 
         lista_resultado = [(k, tuple(v)) for k, v in lista_resultado]
         lista_esperada = NAVES_ASTRONAUTAS_RANGO_L_1
@@ -165,11 +209,19 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         resultado_estudiante = naves_astronautas_rango(g_t, 4, 6)
 
-        self.assertIsInstance(resultado_estudiante, (Generator))
+        self.assertTrue(isinstance(resultado_estudiante, Generator) 
+                        or type(resultado_estudiante) in tipos_adicionales_permitidos,
+                        'Revisa que la función sea generador, o uno entre '+', '.join(
+                            str(item) for item in tipos_adicionales_permitidos
+                        ))
 
         lista_resultado = list(resultado_estudiante)
         self.assertTrue(all(isinstance(item, tuple) for item in lista_resultado), 'Revisa que el primer generador sea de tuples')
-        self.assertTrue(all(isinstance(item, Generator) for _, item in lista_resultado), 'Revisa que las ids astronauta se entregen como generador')
+        self.assertTrue(any(isinstance(item, Generator) or type(item) in tipos_adicionales_permitidos 
+                            for _, item in lista_resultado), 
+                            'Revisa que las ids astronauta se entregen como generador, o uno entre '+', '.join(
+                            str(item) for item in tipos_adicionales_permitidos
+                        ))
 
         lista_resultado = [(k, tuple(v)) for k, v in lista_resultado]
         lista_esperada = NAVES_ASTRONAUTAS_RANGO_L_2

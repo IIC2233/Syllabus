@@ -101,8 +101,8 @@ def naves_pueden_llevar(generador_naves: Generator[Nave, None, None], generador_
 # Consultas 3 generadores
 
 def planetas_por_estadisticas(generador_mineral: Generator[Mineral, None, None], generador_planeta_mineral: Generator[PlanetaMineral, None, None], 
-                              generador_planeta: Generator[Planeta, None, None], moles_elemento_min: int, 
-                              concentracion_molar_min: int, densidad_min: int) -> Generator[Planeta, None, None]:
+                              generador_planeta: Generator[Planeta, None, None], moles_elemento_min: float, 
+                              concentracion_molar_min: float, densidad_min: float) -> Generator[Planeta, None, None]:
     pass
 
 def ganancias_potenciales_por_planeta(generador_minerales: Generator[Mineral, None, None], generador_planeta_mineral: Generator[PlanetaMineral, None, None], 

@@ -62,11 +62,11 @@ class TestMineralPorNave(unittest.TestCase):
         ]
 
         lista_esperada = [("N-1", 22.33)]
-        g_mis = [mision for mision in lista_misiones]
+        g_mis = (mision for mision in lista_misiones)
 
-        g_min = [mineral for mineral in lista_minerales]
+        g_min = (mineral for mineral in lista_minerales)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = mineral_por_nave(g_t, g_mis, g_min)
 
@@ -134,11 +134,11 @@ class TestMineralPorNave(unittest.TestCase):
 
         lista_esperada = [("N-1", 22.33 + 2356.54)]
 
-        g_mis = [mision for mision in lista_misiones]
+        g_mis = (mision for mision in lista_misiones)
 
-        g_min = [mineral for mineral in lista_minerales]
+        g_min = (mineral for mineral in lista_minerales)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = mineral_por_nave(g_t, g_mis, g_min)
 
@@ -206,11 +206,11 @@ class TestMineralPorNave(unittest.TestCase):
 
         lista_esperada = [("N-1", 1236.123), ("N-2", 4124.22)]
 
-        g_mis = [mision for mision in lista_misiones]
+        g_mis = (mision for mision in lista_misiones)
 
-        g_min = [mineral for mineral in lista_minerales]
+        g_min = (mineral for mineral in lista_minerales)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = mineral_por_nave(g_t, g_mis, g_min)
 
@@ -264,11 +264,11 @@ class TestMineralPorNave(unittest.TestCase):
 
         lista_esperada = [("N-1", 2356.54 + 5253.2)]
 
-        g_mis = [mision for mision in lista_misiones]
+        g_mis = (mision for mision in lista_misiones)
 
-        g_min = [mineral for mineral in lista_minerales]
+        g_min = (mineral for mineral in lista_minerales)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = mineral_por_nave(g_t, g_mis, g_min)
 
@@ -327,11 +327,11 @@ class TestMineralPorNave(unittest.TestCase):
 
         lista_esperada = [("N-1", 0.0), ("N-2", 134138.12), ("N-3", 0.0)]
 
-        g_mis = [mision for mision in lista_misiones]
+        g_mis = (mision for mision in lista_misiones)
 
-        g_min = [mineral for mineral in lista_minerales]
+        g_min = (mineral for mineral in lista_minerales)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = mineral_por_nave(g_t, g_mis, g_min)
 
@@ -404,11 +404,11 @@ class TestMineralPorNave(unittest.TestCase):
 
         lista_esperada = [("N-1", 0.0), ("N-314", 0.0)]
 
-        g_mis = [mision for mision in lista_misiones]
+        g_mis = (mision for mision in lista_misiones)
 
-        g_min = [mineral for mineral in lista_minerales]
+        g_min = (mineral for mineral in lista_minerales)
 
-        g_t = [tripulacion for tripulacion in lista_tripulacion]
+        g_t = (tripulacion for tripulacion in lista_tripulacion)
 
         resultado_estudiante = mineral_por_nave(g_t, g_mis, g_min)
 
