@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "nombre": "bulbasaur",
+    "tipos": [
+      "planta",
+      "veneno"
+    ],
+    "stats": {
+      "hp": 70,
+      "atk": 49,
+      "spd": 45
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "ivysaur",
+    "tipos": [
+      "planta",
+      "veneno"
+    ],
+    "stats": {
+      "hp": 92,
+      "atk": 62,
+      "spd": 50
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "venusaur",
+    "tipos": [
+      "planta",
+      "veneno"
+    ],
+    "stats": {
+      "hp": 122,
+      "atk": 82,
+      "spd": 50
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "charmander",
+    "tipos": [
+      "fuego"
+    ],
+    "stats": {
+      "hp": 61,
+      "atk": 52,
+      "spd": 65
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "charmeleon",
+    "tipos": [
+      "fuego"
+    ],
+    "stats": {
+      "hp": 87,
+      "atk": 64,
+      "spd": 80
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "squirtle",
+    "tipos": [
+      "agua"
+    ],
+    "stats": {
+      "hp": 77,
+      "atk": 48,
+      "spd": 43
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "wartortle",
+    "tipos": [
+      "agua"
+    ],
+    "stats": {
+      "hp": 99,
+      "atk": 63,
+      "spd": 58
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "blastoise",
+    "tipos": [
+      "agua"
+    ],
+    "stats": {
+      "hp": 129,
+      "atk": 83,
+      "spd": 52
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "pikachu",
+    "tipos": [
+      "eléctrico"
+    ],
+    "stats": {
+      "hp": 55,
+      "atk": 55,
+      "spd": 95
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "jigglypuff",
+    "tipos": [
+      "normal",
+      "hada"
+    ],
+    "stats": {
+      "hp": 125,
+      "atk": 45,
+      "spd": 20
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "meowth",
+    "tipos": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 58,
+      "atk": 45,
+      "spd": 90
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "psyduck",
+    "tipos": [
+      "agua"
+    ],
+    "stats": {
+      "hp": 74,
+      "atk": 52,
+      "spd": 55
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "machop",
+    "tipos": [
+      "lucha"
+    ],
+    "stats": {
+      "hp": 95,
+      "atk": 80,
+      "spd": 35
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "geodude",
+    "tipos": [
+      "roca",
+      "tierra"
+    ],
+    "stats": {
+      "hp": 90,
+      "atk": 80,
+      "spd": 20
+    }
+  },
+  {
+    "id": 15,
+    "nombre": "gastly",
+    "tipos": [
+      "fantasma",
+      "veneno"
+    ],
+    "stats": {
+      "hp": 45,
+      "atk": 35,
+      "spd": 80
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "gengar",
+    "tipos": [
+      "fantasma",
+      "veneno"
+    ],
+    "stats": {
+      "hp": 90,
+      "atk": 65,
+      "spd": 110
+    }
+  },
+  {
+    "id": 17,
+    "nombre": "onix",
+    "tipos": [
+      "roca",
+      "tierra"
+    ],
+    "stats": {
+      "hp": 115,
+      "atk": 45,
+      "spd": 70
+    }
+  },
+  {
+    "id": 18,
+    "nombre": "magikarp",
+    "tipos": [
+      "agua"
+    ],
+    "stats": {
+      "hp": 48,
+      "atk": 10,
+      "spd": 80
+    }
+  },
+  {
+    "id": 19,
+    "nombre": "gyarados",
+    "tipos": [
+      "agua",
+      "volador"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 125,
+      "spd": 81
+    }
+  },
+  {
+    "id": 20,
+    "nombre": "eevee",
+    "tipos": [
+      "normal"
+    ],
+    "stats": {
+      "hp": 80,
+      "atk": 55,
+      "spd": 55
+    }
+  },
+  {
+    "id": 21,
+    "nombre": "togepi",
+    "tipos": [
+      "hada"
+    ],
+    "stats": {
+      "hp": 68,
+      "atk": 20,
+      "spd": 20
+    }
+  },
+  {
+    "id": 22,
+    "nombre": "ampharos",
+    "tipos": [
+      "eléctrico"
+    ],
+    "stats": {
+      "hp": 133,
+      "atk": 75,
+      "spd": 55
+    }
+  },
+  {
+    "id": 23,
+    "nombre": "marill",
+    "tipos": [
+      "agua",
+      "hada"
+    ],
+    "stats": {
+      "hp": 95,
+      "atk": 20,
+      "spd": 40
+    }
+  },
+  {
+    "id": 24,
+    "nombre": "umbreon",
+    "tipos": [
+      "siniestro"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 65,
+      "spd": 65
+    }
+  },
+  {
+    "id": 25,
+    "nombre": "espeon",
+    "tipos": [
+      "psíquico"
+    ],
+    "stats": {
+      "hp": 95,
+      "atk": 65,
+      "spd": 110
+    }
+  },
+  {
+    "id": 26,
+    "nombre": "lugia",
+    "tipos": [
+      "psíquico",
+      "volador"
+    ],
+    "stats": {
+      "hp": 171,
+      "atk": 90,
+      "spd": 110
+    }
+  },
+  {
+    "id": 27,
+    "nombre": "ho-oh",
+    "tipos": [
+      "fuego",
+      "volador"
+    ],
+    "stats": {
+      "hp": 151,
+      "atk": 130,
+      "spd": 90
+    }
+  },
+  {
+    "id": 28,
+    "nombre": "treecko",
+    "tipos": [
+      "planta"
+    ],
+    "stats": {
+      "hp": 58,
+      "atk": 45,
+      "spd": 70
+    }
+  },
+  {
+    "id": 29,
+    "nombre": "torchic",
+    "tipos": [
+      "fuego"
+    ],
+    "stats": {
+      "hp": 65,
+      "atk": 60,
+      "spd": 45
+    }
+  },
+  {
+    "id": 30,
+    "nombre": "mudkip",
+    "tipos": [
+      "agua"
+    ],
+    "stats": {
+      "hp": 75,
+      "atk": 70,
+      "spd": 40
+    }
+  },
+  {
+    "id": 31,
+    "nombre": "mewtwo",
+    "tipos": [
+      "psíquico"
+    ],
+    "stats": {
+      "hp": 151,
+      "atk": 110,
+      "spd": 130
+    }
+  },
+  {
+    "id": 32,
+    "nombre": "rayquaza",
+    "tipos": [
+      "dragón",
+      "volador"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 150,
+      "spd": 95
+    }
+  },
+  {
+    "id": 33,
+    "nombre": "jirachi",
+    "tipos": [
+      "acero",
+      "psíquico"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 100,
+      "spd": 100
+    }
+  },
+  {
+    "id": 34,
+    "nombre": "deoxys",
+    "tipos": [
+      "psíquico"
+    ],
+    "stats": {
+      "hp": 75,
+      "atk": 150,
+      "spd": 150
+    }
+  },
+  {
+    "id": 35,
+    "nombre": "marshadow",
+    "tipos": [
+      "lucha",
+      "fantasma"
+    ],
+    "stats": {
+      "hp": 130,
+      "atk": 125,
+      "spd": 125
+    }
+  }
+]
