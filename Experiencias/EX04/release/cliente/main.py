@@ -26,7 +26,7 @@ class ClienteApi:
         url = self.base + '/eliminar'
         respuesta = requests.delete(url)
 
-        print(respuesta.status_code, respuesta.json().get('msg', ''))
+        print(respuesta.status_code)
         return True
 
     def iniciar_sesion(self, password: str) -> bool:
