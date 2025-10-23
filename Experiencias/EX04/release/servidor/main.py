@@ -36,7 +36,7 @@ def eliminar_usuario() -> Response:
     # TODO Parte 2.2: Para completar la solicitud hay 
     # que obtener el nombre desde el url.
     dccitas.eliminar_usuario(nombre)
-    return responder_json(200, msg='Usuario eliminado exitosamente')
+    return responder_json(204)
 
 
 @app.route('/iniciar_sesion', methods=['POST'])
