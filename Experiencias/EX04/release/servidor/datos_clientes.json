@@ -1,0 +1,82 @@
+{
+    "TaylorSwift": {
+        "nombre": "TaylorSwift",
+        "password": "Showgirl",
+        "coordenadas": [
+            40.334424,
+            -75.947936,
+            1.693489,
+            -16.03849
+        ]
+    },
+    "SabrinaCarpenter": {
+        "nombre": "SabrinaCarpenter",
+        "password": "Espresso",
+        "coordenadas": [
+            40.400869,
+            -75.248163,
+            21.5873,
+            -17.6259
+        ]
+    },
+    "Drake": {
+        "nombre": "Drake",
+        "password": "OneDance",
+        "coordenadas": [
+            43.768344,
+            -79.338919,
+            -1.740737,
+            1.728534
+        ]
+    },
+    "Jin": {
+        "nombre": "Jin",
+        "password": "TheAstronaut",
+        "coordenadas": [
+            37.387472,
+            126.927873,
+            29.4273,
+            24.3731
+        ]
+    },
+    "BrunoMars": {
+        "nombre": "BrunoMars",
+        "password": "LockedOutOfHeaven",
+        "coordenadas": [
+            21.305219,
+            -157.852123,
+            -2.241908,
+            -2.029638
+        ]
+    },
+    "Eminem": {
+        "nombre": "Eminem",
+        "password": "Without Me",
+        "coordenadas": [
+            39.768294,
+            -94.830165,
+            2.182814,
+            -2.127134
+        ]
+    },
+    "Kanye West": {
+        "nombre": "Kanye West",
+        "password": "Stronger",
+        "coordenadas": [
+            41.865974,
+            -87.682486,
+            -2.758956,
+            2.69456
+        ]
+    },
+    "石風呂": {
+        "nombre": "石風呂",
+        "password": "少年は教室がきらいだったのだ",
+        "coordenadas": [
+            34.698065,
+            135.525863,
+            0.96,
+            -0.61
+        ]
+    }
+}
