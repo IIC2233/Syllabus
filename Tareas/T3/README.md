@@ -13,3 +13,7 @@
 * Se edita enunciado y consultas.py para que función planetas_por_estadisticas reciba floats y no ints, para que sea consistente con los tests.
 * Se edita funciones de correctitud 7, 12, 13 y 14 para que se entreguen Generadores, para adicionalmente se pueda usar `next` con ellos.
 * Test 4: Se editan tests publicos para aceptar adicionalmente instancias de `map` y `filter`.
+
+24/10 Permitir mas soluciones
+* #285 test 14 carga de datos: Se permite una segunda fórmula, esta consiste en solo usar los minerales de la misión que están en el planeta para el nominador, y para el denominador usar todos los del planeta.
+* test 13 correctitud: ordenar tripulación por patente

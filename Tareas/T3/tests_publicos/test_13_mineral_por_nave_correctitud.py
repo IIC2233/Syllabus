@@ -193,14 +193,14 @@ class TestMineralPorNave(unittest.TestCase):
                 id_astronauta=1,
                 rango=5),
             Tripulacion(
-                id_equipo=2,
-                patente_nave="N-2",
-                id_astronauta=2,
-                rango=5),
-            Tripulacion(
                 id_equipo=1,
                 patente_nave="N-1",
                 id_astronauta=3,
+                rango=5),
+            Tripulacion(
+                id_equipo=2,
+                patente_nave="N-2",
+                id_astronauta=2,
                 rango=5)
         ]
 
@@ -314,14 +314,14 @@ class TestMineralPorNave(unittest.TestCase):
                 id_astronauta=3,
                 rango=5),
             Tripulacion(
-                id_equipo=3,
-                patente_nave="N-3",
-                id_astronauta=1,
-                rango=5),
-            Tripulacion(
                 id_equipo=2,
                 patente_nave="N-2",
-                id_astronauta=1,
+                id_astronauta=2,
+                rango=5),
+            Tripulacion(
+                id_equipo=3,
+                patente_nave="N-3",
+                id_astronauta=4,
                 rango=5),
         ]
 
@@ -398,7 +398,7 @@ class TestMineralPorNave(unittest.TestCase):
             Tripulacion(
                 id_equipo=2,
                 patente_nave="N-314",
-                id_astronauta=3,
+                id_astronauta=4,
                 rango=5)
         ]
 

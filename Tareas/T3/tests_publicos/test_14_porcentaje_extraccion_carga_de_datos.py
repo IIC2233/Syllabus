@@ -6,12 +6,18 @@ from backend.consultas import (
 from utilidades import Mision
 from tests_publicos.timeout_function import timeout
 from tests_publicos.solution.test_14 import (
-    PORCENTAJE_EXTRACCION_S_1,
-    PORCENTAJE_EXTRACCION_M_1,
-    PORCENTAJE_EXTRACCION_L_1,
-    PORCENTAJE_EXTRACCION_S_2,
-    PORCENTAJE_EXTRACCION_M_2,
-    PORCENTAJE_EXTRACCION_L_2
+    PORCENTAJE_EXTRACCION_S_1_A,
+    PORCENTAJE_EXTRACCION_M_1_A,
+    PORCENTAJE_EXTRACCION_L_1_A,
+    PORCENTAJE_EXTRACCION_S_2_A,
+    PORCENTAJE_EXTRACCION_M_2_A,
+    PORCENTAJE_EXTRACCION_L_2_A,
+    PORCENTAJE_EXTRACCION_S_1_B,
+    PORCENTAJE_EXTRACCION_M_1_B,
+    PORCENTAJE_EXTRACCION_L_1_B,
+    PORCENTAJE_EXTRACCION_S_2_B,
+    PORCENTAJE_EXTRACCION_M_2_B,
+    PORCENTAJE_EXTRACCION_L_2_B
 )
 
 sys.stdout = open(os.devnull, 'w')
@@ -26,6 +32,18 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
     def shortDescription(self):
         doc = self._testMethodDoc
         return doc or None
+
+    # función creada solo para este test
+    def assertAlmostEqualIn(self, respuesta, esperados):
+        try:
+            self.assertAlmostEqual(respuesta[0], esperados[0][0])
+            self.assertAlmostEqual(respuesta[1], esperados[0][1])
+        except AssertionError:
+            pass
+        else:
+            return
+        self.assertAlmostEqual(respuesta[0], esperados[1][0], msg=f"\n{' '*0x10}Los valores {respuesta} no son cercanos a alguno de los pares {esperados}")
+        self.assertAlmostEqual(respuesta[1], esperados[1][1], msg=f"\n{' '*0x10}Los valores {respuesta} no son cercanos a alguno de los pares {esperados}")
 
     @timeout(N_SECOND)
     def test_0(self):
@@ -60,13 +78,13 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         self.assertIsInstance(estudiante, tuple)
 
-        esperado = PORCENTAJE_EXTRACCION_S_1
+        esperado = [PORCENTAJE_EXTRACCION_S_1_A, PORCENTAJE_EXTRACCION_S_1_B]
 
-        lista_resultado = [round(estudiante[0], 2), round(estudiante[1], 2)]
+        print("Obtenido:", estudiante)
+        print("Esperados:", esperado)
 
-        lista_esperada = [round(esperado[0], 2), round(esperado[1], 2)]
-
-        self.assertCountEqual(lista_resultado, lista_esperada)
+        # ahora acepta ambas respuestas
+        self.assertAlmostEqualIn(estudiante, esperado)
 
     def test_1(self):
         """
@@ -100,13 +118,10 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         self.assertIsInstance(estudiante, tuple)
 
-        esperado = PORCENTAJE_EXTRACCION_S_2
+        esperado = [PORCENTAJE_EXTRACCION_S_2_A, PORCENTAJE_EXTRACCION_S_2_B]
 
-        lista_resultado = [round(estudiante[0], 2), round(estudiante[1], 2)]
-
-        lista_esperada = [round(esperado[0], 2), round(esperado[1], 2)]
-
-        self.assertCountEqual(lista_resultado, lista_esperada)
+        # ahora acepta ambas respuestas
+        self.assertAlmostEqualIn(estudiante, esperado)
 
     @timeout(N_SECOND)
     def test_2(self):
@@ -141,13 +156,10 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         self.assertIsInstance(estudiante, tuple)
 
-        esperado = PORCENTAJE_EXTRACCION_M_1
+        esperado = [PORCENTAJE_EXTRACCION_M_1_A, PORCENTAJE_EXTRACCION_M_1_B]
 
-        lista_resultado = [round(estudiante[0], 2), round(estudiante[1], 2)]
-
-        lista_esperada = [round(esperado[0], 2), round(esperado[1], 2)]
-
-        self.assertCountEqual(lista_resultado, lista_esperada)
+        # ahora acepta ambas respuestas
+        self.assertAlmostEqualIn(estudiante, esperado)
 
     @timeout(N_SECOND)
     def test_3(self):
@@ -182,13 +194,10 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         self.assertIsInstance(estudiante, tuple)
 
-        esperado = PORCENTAJE_EXTRACCION_M_2
+        esperado = [PORCENTAJE_EXTRACCION_M_2_A, PORCENTAJE_EXTRACCION_M_2_B]
 
-        lista_resultado = [round(estudiante[0], 2), round(estudiante[1], 2)]
-
-        lista_esperada = [round(esperado[0], 2), round(esperado[1], 2)]
-
-        self.assertCountEqual(lista_resultado, lista_esperada)
+        # ahora acepta ambas respuestas
+        self.assertAlmostEqualIn(estudiante, esperado)
 
     @timeout(N_SECOND)
     def test_4(self):
@@ -223,13 +232,10 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         self.assertIsInstance(estudiante, tuple)
 
-        esperado = PORCENTAJE_EXTRACCION_L_1
+        esperado = [PORCENTAJE_EXTRACCION_L_1_A, PORCENTAJE_EXTRACCION_L_1_B]
 
-        lista_resultado = [round(estudiante[0], 2), round(estudiante[1], 2)]
-
-        lista_esperada = [round(esperado[0], 2), round(esperado[1], 2)]
-
-        self.assertCountEqual(lista_resultado, lista_esperada)
+        # ahora acepta ambas respuestas
+        self.assertAlmostEqualIn(estudiante, esperado)
 
     @timeout(N_SECOND)
     def test_5(self):
@@ -263,10 +269,7 @@ class TestDisponibilidadPorPlaneta(unittest.TestCase):
 
         self.assertIsInstance(estudiante, tuple)
 
-        esperado = PORCENTAJE_EXTRACCION_L_2
+        esperado = [PORCENTAJE_EXTRACCION_L_2_A, PORCENTAJE_EXTRACCION_L_2_B]
 
-        lista_resultado = [round(estudiante[0], 2), round(estudiante[1], 2)]
-
-        lista_esperada = [round(esperado[0], 2), round(esperado[1], 2)]
-
-        self.assertCountEqual(lista_resultado, lista_esperada)
+        # ahora acepta ambas respuestas
+        self.assertAlmostEqualIn(estudiante, esperado)
