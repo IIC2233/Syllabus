@@ -61,7 +61,7 @@ class Server:
 
         try:
             while True:
-                operation, file_name = None, None
+                command, file_name = None, None
                 try:
                     # TODO: Recibir request
                     pass
@@ -79,25 +79,25 @@ class Server:
                         {"type": "error", "mensaje": "Data del JSON enviado inválida."}), client_socket)
                     continue
 
-                if operation == 'carga':
+                if command == 'carga':
                     # TODO: Manejar operación
                     pass
 
-                elif operation == 'descarga':
+                elif command == 'descarga':
                     # TODO: Manejar operación
                     pass
 
-                elif operation == 'listar_usuarios':
+                elif command == 'listar_usuarios':
                     # TODO: Manejar operación
                     pass
 
-                elif operation == 'mensaje_directo':
+                elif command == 'mensaje_directo':
                     # TODO: Manejar operación
                     pass
 
                 else:
                     self.send_data(json.dumps(
-                        {"type": "error", "mensaje": f"Operación '{operation}' no reconocida."}), client_socket)
+                        {"type": "error", "mensaje": f"Operación '{command}' no reconocida."}), client_socket)
 
         finally:
             print(f"Cerrando conexión y limpiando socket para {addr} (Usuario: {local_username})")

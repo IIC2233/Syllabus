@@ -9,7 +9,7 @@ import base64
 COMMANDS_INFO = [
     ("lista", "Ver usuarios conectados"),
     ("msg <usuario> <mensaje>", "Enviar mensaje directo"),
-    ("subir <ruta_archivo>", "Subir un archivo al servidor"),
+    ("carga <ruta_archivo>", "Subir un archivo al servidor"),
     ("descargar <nombre_archivo>", "Descargar un archivo del servidor"),
     ("quit", "Salir"),
 ]
@@ -232,13 +232,13 @@ if __name__ == '__main__':
                 else:
                     print("Uso: msg <usuario> <mensaje>")
 
-            elif comando == 'subir' and len(partes) > 1:
+            elif comando == 'carga' and len(partes) > 1:
                 client.mandar_solicitud_archivo("carga", partes[1])
 
             elif comando == 'descargar' and len(partes) > 1:
                 client.mandar_solicitud_archivo("descarga", partes[1])
 
-            elif comando in ['msg', 'subir', 'descargar']:
+            elif comando in ['msg', 'carga', 'descargar']:
                 print(f"Comando '{comando}' incompleto. Revisa el uso.")
 
             else:
