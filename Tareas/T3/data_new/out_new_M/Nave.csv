@@ -1,0 +1,101 @@
+patente,material,tamano,capacidad_astronautas,capacidad_minerales,autonomia
+N-001,Acero Inoxidable,S,9,1860.53,122.08
+N-002,Grafeno,L,8,1308.38,123.32
+N-003,Acero Inoxidable,XL,4,820.83,174.74
+N-004,Titanio,L,6,281.72,215.11
+N-005,Grafeno,M,2,1007.31,87.66
+N-006,Compósito,M,9,306.97,90.15
+N-007,Aluminio,M,2,793.1,49.94
+N-008,Acero Inoxidable,XL,5,1025.33,225.85
+N-009,Grafeno,L,3,1216.97,225.94
+N-010,Acero Inoxidable,S,10,1379.43,148.21
+N-011,Titanio,L,2,1735.16,49.93
+N-012,Titanio,S,5,956.22,30.66
+N-013,Aluminio,S,7,696.07,113.03
+N-014,Aluminio,XL,6,1883.34,140.99
+N-015,Grafeno,XL,7,1425.67,209.63
+N-016,Compósito,XL,10,542.89,97.43
+N-017,Titanio,S,4,1662.33,115.92
+N-018,Aluminio,S,2,700.34,80.72
+N-019,Titanio,M,5,1541.58,106.81
+N-020,Grafeno,XL,2,1726.07,78.08
+N-021,Compósito,XL,7,691.88,92.09
+N-022,Compósito,L,5,139.22,104.83
+N-023,Grafeno,S,3,1006.09,166.79
+N-024,Aluminio,M,10,1638.54,127.51
+N-025,Grafeno,XL,10,177.73,140.99
+N-026,Compósito,M,7,1976.61,135.64
+N-027,Acero Inoxidable,L,4,855.06,240.68
+N-028,Compósito,M,4,188.03,124.41
+N-029,Grafeno,M,6,724.55,209.98
+N-030,Aluminio,L,6,1681.83,178.83
+N-031,Compósito,M,2,925.8,216.59
+N-032,Grafeno,L,6,702.66,136.67
+N-033,Compósito,S,2,590.01,67.09
+N-034,Titanio,XL,8,1702.66,205.6
+N-035,Compósito,L,10,1116.89,224.64
+N-036,Grafeno,S,6,1308.5,65.25
+N-037,Aluminio,M,7,1951.91,48.97
+N-038,Compósito,XL,2,1681.78,83.97
+N-039,Grafeno,M,6,1751.82,51.74
+N-040,Compósito,S,8,1999.92,224.54
+N-041,Acero Inoxidable,M,2,681.05,104.81
+N-042,Aluminio,M,7,1071.54,107.95
+N-043,Acero Inoxidable,XL,8,1410.79,210.98
+N-044,Grafeno,L,4,399.99,156.6
+N-045,Grafeno,S,6,364.94,234.39
+N-046,Compósito,XL,5,962.64,74.26
+N-047,Grafeno,XL,2,1928.86,72.09
+N-048,Aluminio,S,7,1647.9,46.4
+N-049,Acero Inoxidable,L,7,361.39,176.92
+N-050,Titanio,L,7,874.86,214.32
+N-051,Aluminio,S,10,1885.51,12.62
+N-052,Aluminio,S,7,959.28,176.86
+N-053,Aluminio,M,6,1054.88,61.29
+N-054,Grafeno,XL,6,685.39,113.0
+N-055,Grafeno,M,2,1034.34,53.05
+N-056,Compósito,S,5,1129.33,28.78
+N-057,Compósito,S,2,1194.24,86.54
+N-058,Acero Inoxidable,L,5,467.54,104.41
+N-059,Aluminio,L,3,1369.51,163.6
+N-060,Acero Inoxidable,S,5,535.28,33.04
+N-061,Titanio,XL,7,143.07,46.78
+N-062,Grafeno,M,4,914.74,239.48
+N-063,Titanio,S,4,557.58,229.3
+N-064,Titanio,M,6,1479.07,39.78
+N-065,Compósito,XL,4,426.51,119.92
+N-066,Aluminio,L,9,301.42,44.02
+N-067,Grafeno,S,7,453.99,232.72
+N-068,Acero Inoxidable,L,6,1453.94,112.44
+N-069,Titanio,M,7,511.06,96.08
+N-070,Grafeno,L,7,220.29,171.69
+N-071,Aluminio,S,8,1867.95,153.46
+N-072,Aluminio,L,6,1380.34,234.42
+N-073,Compósito,L,9,1021.78,195.05
+N-074,Grafeno,S,10,516.05,45.33
+N-075,Aluminio,M,8,525.56,176.96
+N-076,Grafeno,L,9,1417.96,238.56
+N-077,Aluminio,L,6,457.33,137.77
+N-078,Aluminio,S,6,1341.92,26.76
+N-079,Compósito,M,9,1694.94,35.57
+N-080,Titanio,M,9,1832.92,187.37
+N-081,Aluminio,S,6,714.1,112.24
+N-082,Aluminio,XL,9,332.31,247.9
+N-083,Aluminio,M,3,905.76,128.2
+N-084,Compósito,S,2,1851.38,192.88
+N-085,Grafeno,L,10,391.16,12.23
+N-086,Grafeno,XL,6,1776.06,133.46
+N-087,Grafeno,XL,6,562.22,215.4
+N-088,Titanio,L,9,1667.44,217.79
+N-089,Titanio,M,5,1219.25,69.36
+N-090,Acero Inoxidable,M,5,1664.36,133.53
+N-091,Titanio,XL,8,1712.37,35.39
+N-092,Compósito,L,2,1502.37,17.5
+N-093,Acero Inoxidable,L,6,1428.88,191.5
+N-094,Grafeno,L,8,556.82,232.09
+N-095,Acero Inoxidable,S,9,929.91,131.35
+N-096,Compósito,S,4,1320.05,92.34
+N-097,Acero Inoxidable,XL,7,1401.33,23.55
+N-098,Acero Inoxidable,L,5,1329.75,234.11
+N-099,Acero Inoxidable,L,3,1003.93,161.46
+N-100,Aluminio,L,4,987.4,154.61

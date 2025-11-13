@@ -1,0 +1,1001 @@
+patente,material,tamano,capacidad_astronautas,capacidad_minerales,autonomia
+N-001,Titanio,S,3,605.35,77.06
+N-002,Acero Inoxidable,L,9,1000.16,12.68
+N-003,Aluminio,M,8,1255.5,211.36
+N-004,Aluminio,L,8,421.14,243.41
+N-005,Titanio,S,8,251.59,47.2
+N-006,Titanio,M,8,1176.82,156.46
+N-007,Titanio,M,7,1915.83,204.28
+N-008,Aluminio,XL,8,368.33,69.13
+N-009,Acero Inoxidable,L,4,1494.31,57.17
+N-010,Compósito,M,2,1690.99,167.04
+N-011,Grafeno,M,8,974.6,27.87
+N-012,Compósito,L,2,156.93,249.14
+N-013,Acero Inoxidable,S,7,1576.02,193.66
+N-014,Acero Inoxidable,L,5,1953.47,183.61
+N-015,Acero Inoxidable,L,9,747.48,44.39
+N-016,Compósito,L,3,217.66,209.7
+N-017,Acero Inoxidable,M,6,1023.59,185.71
+N-018,Compósito,M,4,1821.64,210.87
+N-019,Grafeno,L,10,1601.19,220.36
+N-020,Acero Inoxidable,XL,7,404.38,88.6
+N-021,Compósito,L,10,680.95,208.68
+N-022,Acero Inoxidable,S,4,1483.02,121.0
+N-023,Aluminio,M,5,1933.05,88.36
+N-024,Compósito,L,10,1941.01,185.46
+N-025,Aluminio,XL,6,1528.72,109.64
+N-026,Titanio,L,10,1970.3,85.84
+N-027,Aluminio,XL,2,885.29,212.22
+N-028,Acero Inoxidable,S,5,345.32,44.39
+N-029,Compósito,L,4,323.71,167.2
+N-030,Grafeno,M,3,514.47,36.85
+N-031,Acero Inoxidable,L,5,820.97,219.73
+N-032,Compósito,M,3,1871.99,40.43
+N-033,Titanio,L,7,1608.78,133.48
+N-034,Compósito,M,9,1358.91,155.37
+N-035,Acero Inoxidable,S,10,216.24,121.57
+N-036,Grafeno,S,4,1571.45,72.38
+N-037,Acero Inoxidable,XL,7,609.32,109.97
+N-038,Compósito,L,2,1366.39,182.63
+N-039,Acero Inoxidable,L,2,1512.92,241.91
+N-040,Titanio,M,5,667.72,64.03
+N-041,Compósito,M,5,1304.69,45.62
+N-042,Grafeno,M,8,1469.55,166.64
+N-043,Compósito,L,5,990.81,184.73
+N-044,Compósito,M,5,1135.8,67.23
+N-045,Acero Inoxidable,S,5,553.3,153.8
+N-046,Acero Inoxidable,S,7,1577.82,25.51
+N-047,Titanio,L,9,755.13,99.68
+N-048,Grafeno,XL,8,1712.37,20.43
+N-049,Grafeno,L,8,870.28,76.83
+N-050,Aluminio,L,8,452.26,78.53
+N-051,Aluminio,M,2,262.49,159.22
+N-052,Aluminio,S,8,274.48,133.2
+N-053,Compósito,M,7,1570.36,106.0
+N-054,Titanio,XL,8,855.68,206.63
+N-055,Acero Inoxidable,L,5,1431.75,155.46
+N-056,Titanio,M,4,1977.08,147.66
+N-057,Acero Inoxidable,XL,2,1745.33,226.46
+N-058,Acero Inoxidable,XL,9,734.9,133.38
+N-059,Acero Inoxidable,XL,8,133.95,41.93
+N-060,Aluminio,S,5,1902.67,190.67
+N-061,Acero Inoxidable,L,9,1693.61,97.8
+N-062,Compósito,S,2,1026.3,160.94
+N-063,Titanio,XL,5,814.26,233.36
+N-064,Acero Inoxidable,M,8,1103.45,154.87
+N-065,Acero Inoxidable,S,8,1689.06,195.14
+N-066,Aluminio,L,6,515.87,79.03
+N-067,Compósito,S,5,148.3,146.8
+N-068,Compósito,M,10,620.08,141.59
+N-069,Aluminio,S,10,1134.91,94.19
+N-070,Acero Inoxidable,S,9,344.63,135.12
+N-071,Titanio,S,6,896.96,66.27
+N-072,Acero Inoxidable,M,2,455.34,95.74
+N-073,Acero Inoxidable,XL,6,1698.89,168.39
+N-074,Compósito,S,9,435.03,103.96
+N-075,Acero Inoxidable,M,8,489.55,146.71
+N-076,Titanio,L,8,1833.94,101.29
+N-077,Aluminio,M,2,1362.54,145.68
+N-078,Grafeno,XL,2,1627.25,216.9
+N-079,Acero Inoxidable,S,6,707.64,29.92
+N-080,Aluminio,XL,10,1197.97,239.74
+N-081,Acero Inoxidable,L,5,1351.06,91.4
+N-082,Acero Inoxidable,XL,2,1599.77,230.26
+N-083,Acero Inoxidable,L,10,1628.45,149.88
+N-084,Aluminio,S,4,868.51,78.43
+N-085,Acero Inoxidable,S,6,1220.18,144.54
+N-086,Compósito,S,6,834.34,112.37
+N-087,Titanio,S,3,117.77,196.76
+N-088,Compósito,XL,2,1283.63,72.8
+N-089,Grafeno,XL,3,944.32,217.66
+N-090,Aluminio,S,8,1222.14,90.93
+N-091,Grafeno,S,4,1766.42,206.24
+N-092,Aluminio,XL,5,506.36,22.46
+N-093,Titanio,S,10,811.23,179.59
+N-094,Acero Inoxidable,M,10,285.64,161.78
+N-095,Acero Inoxidable,S,3,303.52,217.66
+N-096,Titanio,S,7,1878.71,205.39
+N-097,Aluminio,S,9,1078.23,196.51
+N-098,Compósito,XL,2,1034.46,72.04
+N-099,Acero Inoxidable,XL,4,1247.29,191.71
+N-100,Acero Inoxidable,M,4,652.87,240.28
+N-1000,Grafeno,XL,6,547.84,232.75
+N-101,Titanio,L,3,1661.8,240.55
+N-102,Titanio,L,8,974.09,39.75
+N-103,Compósito,XL,5,844.82,93.4
+N-104,Acero Inoxidable,XL,7,1148.84,120.26
+N-105,Compósito,XL,3,1896.84,15.16
+N-106,Grafeno,L,6,1846.91,34.56
+N-107,Titanio,M,2,1254.87,174.04
+N-108,Aluminio,L,8,598.25,53.19
+N-109,Grafeno,M,3,1173.3,190.94
+N-110,Acero Inoxidable,S,6,490.5,62.55
+N-111,Aluminio,M,4,456.9,161.26
+N-112,Aluminio,XL,9,1916.72,68.01
+N-113,Aluminio,M,8,1536.27,123.99
+N-114,Aluminio,XL,4,1334.41,88.62
+N-115,Aluminio,L,6,950.26,86.75
+N-116,Titanio,XL,4,316.74,162.8
+N-117,Acero Inoxidable,XL,6,1681.13,221.81
+N-118,Compósito,L,3,1402.99,238.73
+N-119,Acero Inoxidable,XL,8,189.44,132.9
+N-120,Aluminio,XL,9,577.37,34.15
+N-121,Compósito,L,5,860.51,86.34
+N-122,Titanio,XL,4,381.61,91.36
+N-123,Grafeno,M,3,1293.85,233.62
+N-124,Compósito,S,4,1401.45,210.93
+N-125,Compósito,L,3,652.42,168.61
+N-126,Titanio,S,10,1774.52,108.95
+N-127,Compósito,XL,10,258.63,40.38
+N-128,Compósito,XL,6,1964.08,167.03
+N-129,Acero Inoxidable,XL,5,1475.7,158.03
+N-130,Acero Inoxidable,XL,10,1535.51,235.97
+N-131,Titanio,L,4,1578.7,76.96
+N-132,Aluminio,M,4,807.28,67.02
+N-133,Acero Inoxidable,XL,10,1879.81,238.6
+N-134,Grafeno,S,9,996.96,52.74
+N-135,Titanio,XL,4,320.01,64.67
+N-136,Aluminio,XL,3,1510.85,179.82
+N-137,Aluminio,S,4,942.18,138.76
+N-138,Grafeno,L,2,715.22,46.25
+N-139,Acero Inoxidable,M,8,1758.69,223.92
+N-140,Compósito,L,9,1234.75,44.72
+N-141,Acero Inoxidable,L,3,1320.0,230.91
+N-142,Titanio,L,7,1037.91,191.7
+N-143,Compósito,L,4,1796.91,193.18
+N-144,Titanio,XL,5,1621.45,146.82
+N-145,Compósito,XL,9,535.35,213.45
+N-146,Titanio,XL,2,1693.65,59.26
+N-147,Aluminio,S,6,511.15,27.5
+N-148,Titanio,M,2,291.96,119.39
+N-149,Titanio,L,6,1246.57,248.95
+N-150,Aluminio,L,5,501.61,28.72
+N-151,Grafeno,XL,10,1327.3,143.15
+N-152,Acero Inoxidable,L,5,1174.78,27.9
+N-153,Titanio,XL,3,1769.94,108.04
+N-154,Grafeno,M,9,1548.96,148.92
+N-155,Aluminio,S,3,1447.06,219.22
+N-156,Compósito,M,5,447.09,35.22
+N-157,Compósito,S,4,772.94,30.67
+N-158,Compósito,L,3,1630.44,84.1
+N-159,Acero Inoxidable,XL,10,1894.65,111.77
+N-160,Grafeno,XL,9,1915.13,139.16
+N-161,Compósito,L,7,878.67,100.66
+N-162,Compósito,L,4,130.73,172.86
+N-163,Aluminio,XL,2,914.97,101.46
+N-164,Compósito,M,5,234.73,43.72
+N-165,Aluminio,L,9,662.99,92.15
+N-166,Titanio,M,6,660.75,213.65
+N-167,Titanio,XL,4,725.37,21.55
+N-168,Compósito,L,7,288.85,29.97
+N-169,Acero Inoxidable,M,9,875.99,199.68
+N-170,Titanio,S,3,1695.46,62.81
+N-171,Aluminio,XL,7,325.46,46.82
+N-172,Aluminio,M,5,676.64,58.69
+N-173,Grafeno,M,8,507.13,134.15
+N-174,Acero Inoxidable,L,5,535.74,233.63
+N-175,Aluminio,M,8,1614.63,192.48
+N-176,Compósito,L,2,912.01,58.17
+N-177,Compósito,XL,5,1533.56,105.83
+N-178,Aluminio,L,6,1275.01,61.8
+N-179,Compósito,L,9,1817.03,127.02
+N-180,Acero Inoxidable,M,10,1879.23,66.57
+N-181,Acero Inoxidable,L,6,1966.94,152.31
+N-182,Titanio,XL,4,137.85,121.65
+N-183,Grafeno,L,6,454.33,87.98
+N-184,Compósito,L,3,821.95,221.59
+N-185,Grafeno,L,10,1544.72,92.64
+N-186,Grafeno,M,4,1790.56,202.41
+N-187,Titanio,M,10,882.69,106.12
+N-188,Grafeno,M,2,700.06,42.71
+N-189,Grafeno,XL,10,1122.02,164.53
+N-190,Aluminio,M,5,1800.11,49.67
+N-191,Compósito,S,3,507.32,15.97
+N-192,Grafeno,S,2,165.18,18.95
+N-193,Grafeno,M,3,1677.01,79.68
+N-194,Aluminio,XL,7,1999.17,94.34
+N-195,Grafeno,M,9,1313.45,150.33
+N-196,Aluminio,S,5,1157.74,65.97
+N-197,Compósito,M,6,1737.62,174.26
+N-198,Grafeno,XL,5,1761.6,31.23
+N-199,Titanio,L,2,457.31,156.78
+N-200,Grafeno,XL,7,654.93,220.38
+N-201,Compósito,L,6,1871.44,124.19
+N-202,Titanio,XL,5,386.64,52.92
+N-203,Titanio,M,3,1420.56,54.93
+N-204,Titanio,M,8,1408.43,56.55
+N-205,Acero Inoxidable,M,5,314.33,45.39
+N-206,Titanio,M,3,387.98,98.63
+N-207,Grafeno,S,8,1643.35,45.59
+N-208,Acero Inoxidable,M,4,158.62,98.69
+N-209,Aluminio,M,5,1979.27,203.15
+N-210,Titanio,XL,10,467.77,121.92
+N-211,Acero Inoxidable,M,3,1400.13,238.28
+N-212,Aluminio,L,4,1704.06,71.25
+N-213,Titanio,L,2,1900.45,83.51
+N-214,Titanio,L,9,321.66,76.92
+N-215,Compósito,L,7,233.9,65.4
+N-216,Compósito,M,3,1389.27,179.64
+N-217,Grafeno,L,3,1105.54,222.37
+N-218,Compósito,XL,10,1059.46,84.01
+N-219,Compósito,S,10,1733.63,217.51
+N-220,Grafeno,L,2,692.43,159.25
+N-221,Acero Inoxidable,M,3,1964.28,128.12
+N-222,Compósito,S,8,273.12,112.76
+N-223,Compósito,S,7,1562.91,67.68
+N-224,Aluminio,S,10,731.4,47.03
+N-225,Compósito,M,3,355.54,148.16
+N-226,Grafeno,S,7,759.79,105.71
+N-227,Titanio,S,10,1292.17,196.92
+N-228,Acero Inoxidable,XL,2,1332.79,245.0
+N-229,Grafeno,S,10,1984.22,143.11
+N-230,Grafeno,XL,6,1992.95,238.92
+N-231,Compósito,S,4,1762.48,143.15
+N-232,Grafeno,M,4,608.88,185.85
+N-233,Grafeno,L,4,180.01,67.95
+N-234,Grafeno,S,6,173.36,135.63
+N-235,Aluminio,M,6,1378.92,51.91
+N-236,Compósito,XL,8,1510.89,47.05
+N-237,Acero Inoxidable,S,9,943.0,222.75
+N-238,Titanio,S,2,530.98,56.17
+N-239,Aluminio,L,7,1476.25,79.05
+N-240,Titanio,M,3,549.37,29.23
+N-241,Compósito,L,6,549.47,17.08
+N-242,Acero Inoxidable,M,9,1310.57,196.7
+N-243,Aluminio,S,7,285.59,30.1
+N-244,Grafeno,XL,7,412.08,43.82
+N-245,Aluminio,L,2,804.97,109.15
+N-246,Acero Inoxidable,M,10,1166.26,249.01
+N-247,Aluminio,M,4,993.37,91.37
+N-248,Compósito,M,4,711.62,204.8
+N-249,Titanio,S,8,1767.79,229.51
+N-250,Acero Inoxidable,M,8,534.08,38.7
+N-251,Acero Inoxidable,S,6,732.97,149.88
+N-252,Grafeno,L,5,586.85,106.84
+N-253,Aluminio,L,4,157.83,65.31
+N-254,Titanio,XL,6,1574.37,121.63
+N-255,Acero Inoxidable,M,10,817.02,105.14
+N-256,Grafeno,S,5,578.43,87.89
+N-257,Titanio,S,3,1091.07,21.98
+N-258,Titanio,L,10,218.91,185.4
+N-259,Compósito,S,5,288.55,242.42
+N-260,Titanio,M,2,1021.64,182.12
+N-261,Aluminio,XL,3,709.08,121.39
+N-262,Titanio,M,6,569.18,69.88
+N-263,Grafeno,L,2,210.16,69.76
+N-264,Compósito,S,6,1389.9,218.0
+N-265,Titanio,XL,5,1127.92,46.54
+N-266,Grafeno,M,2,1762.57,88.24
+N-267,Grafeno,XL,3,1922.66,27.95
+N-268,Grafeno,M,2,1056.68,149.23
+N-269,Aluminio,XL,9,1962.86,105.42
+N-270,Acero Inoxidable,S,9,1087.73,145.93
+N-271,Aluminio,M,8,1969.54,68.27
+N-272,Compósito,M,6,289.74,107.58
+N-273,Titanio,XL,4,539.2,187.72
+N-274,Titanio,XL,4,473.97,83.73
+N-275,Aluminio,S,6,1712.53,68.14
+N-276,Grafeno,XL,8,1411.21,112.71
+N-277,Titanio,L,9,823.92,249.35
+N-278,Compósito,XL,4,1937.06,229.6
+N-279,Compósito,L,8,1284.95,168.88
+N-280,Compósito,L,7,933.7,94.68
+N-281,Grafeno,L,10,1852.15,232.55
+N-282,Acero Inoxidable,S,2,201.19,180.21
+N-283,Compósito,XL,4,1410.19,28.72
+N-284,Grafeno,L,6,1908.55,197.2
+N-285,Grafeno,XL,9,263.24,19.73
+N-286,Titanio,M,5,1830.13,198.24
+N-287,Titanio,L,9,556.27,89.85
+N-288,Acero Inoxidable,S,7,844.17,67.08
+N-289,Compósito,M,5,370.29,187.88
+N-290,Aluminio,L,10,311.22,136.39
+N-291,Grafeno,L,8,1463.23,226.49
+N-292,Aluminio,L,5,909.16,128.68
+N-293,Aluminio,L,3,1103.68,11.41
+N-294,Grafeno,M,5,729.33,181.09
+N-295,Grafeno,M,5,1989.42,108.22
+N-296,Grafeno,XL,8,1642.91,115.32
+N-297,Aluminio,S,9,1423.96,185.32
+N-298,Aluminio,M,4,1266.56,101.28
+N-299,Aluminio,M,3,918.71,23.83
+N-300,Titanio,M,2,848.84,136.39
+N-301,Titanio,S,4,571.26,122.99
+N-302,Compósito,M,6,1607.51,156.75
+N-303,Titanio,L,5,1528.03,77.43
+N-304,Grafeno,XL,10,1096.4,120.57
+N-305,Acero Inoxidable,L,7,1321.36,63.94
+N-306,Grafeno,M,9,459.82,230.99
+N-307,Grafeno,XL,2,201.47,180.52
+N-308,Compósito,S,10,870.26,167.87
+N-309,Aluminio,S,6,1649.94,39.24
+N-310,Titanio,M,4,501.8,198.52
+N-311,Grafeno,XL,7,1688.52,125.19
+N-312,Acero Inoxidable,M,4,344.2,32.3
+N-313,Grafeno,L,9,1420.56,194.8
+N-314,Titanio,XL,7,344.26,167.05
+N-315,Acero Inoxidable,XL,3,1404.9,96.21
+N-316,Aluminio,M,2,557.57,19.17
+N-317,Compósito,XL,8,589.75,229.33
+N-318,Compósito,L,5,1399.86,68.1
+N-319,Grafeno,M,8,329.74,99.53
+N-320,Acero Inoxidable,S,6,1241.47,96.66
+N-321,Compósito,S,3,1192.36,207.47
+N-322,Acero Inoxidable,L,2,314.55,132.82
+N-323,Titanio,XL,2,559.14,179.89
+N-324,Grafeno,XL,8,825.94,157.59
+N-325,Compósito,S,10,386.95,194.89
+N-326,Acero Inoxidable,XL,8,866.5,126.67
+N-327,Grafeno,M,5,198.79,13.71
+N-328,Aluminio,XL,8,230.0,67.92
+N-329,Compósito,L,8,1921.0,68.26
+N-330,Acero Inoxidable,XL,3,195.33,221.16
+N-331,Grafeno,L,4,799.78,161.15
+N-332,Aluminio,M,8,1346.99,219.9
+N-333,Titanio,S,10,448.14,249.15
+N-334,Compósito,M,7,1744.46,104.96
+N-335,Grafeno,M,10,795.36,90.85
+N-336,Titanio,S,9,723.45,34.71
+N-337,Compósito,L,6,1841.88,166.89
+N-338,Titanio,S,6,773.89,67.62
+N-339,Titanio,M,9,1487.47,229.27
+N-340,Acero Inoxidable,S,2,392.72,238.84
+N-341,Grafeno,L,7,572.13,86.21
+N-342,Acero Inoxidable,XL,6,283.0,131.39
+N-343,Grafeno,M,3,561.97,213.29
+N-344,Titanio,M,6,874.31,122.68
+N-345,Grafeno,XL,6,1971.9,203.57
+N-346,Titanio,XL,4,1662.22,81.89
+N-347,Compósito,S,7,142.32,232.89
+N-348,Titanio,XL,8,132.3,107.51
+N-349,Grafeno,M,4,360.55,108.71
+N-350,Aluminio,S,10,867.05,170.52
+N-351,Acero Inoxidable,S,7,303.58,156.61
+N-352,Grafeno,S,9,1529.99,76.22
+N-353,Acero Inoxidable,S,4,219.23,37.8
+N-354,Aluminio,S,9,1465.02,177.02
+N-355,Grafeno,L,2,1508.31,14.61
+N-356,Acero Inoxidable,M,10,708.66,25.1
+N-357,Grafeno,S,2,1089.28,93.65
+N-358,Titanio,S,9,1341.49,246.1
+N-359,Compósito,L,10,1025.41,62.97
+N-360,Compósito,M,6,1430.89,153.76
+N-361,Compósito,S,3,1281.59,187.07
+N-362,Grafeno,S,6,817.76,58.65
+N-363,Aluminio,L,4,1030.24,222.09
+N-364,Aluminio,L,10,869.39,108.7
+N-365,Grafeno,S,8,1495.78,59.83
+N-366,Compósito,S,7,1080.74,213.87
+N-367,Compósito,L,3,398.24,30.83
+N-368,Acero Inoxidable,M,9,980.14,83.65
+N-369,Titanio,XL,6,1635.35,25.22
+N-370,Aluminio,XL,4,1767.65,63.98
+N-371,Compósito,XL,5,1448.88,70.38
+N-372,Aluminio,S,8,1639.12,102.55
+N-373,Compósito,L,6,520.74,145.46
+N-374,Aluminio,S,9,530.07,67.27
+N-375,Titanio,M,7,196.61,66.7
+N-376,Aluminio,M,9,454.69,65.56
+N-377,Compósito,L,3,688.26,18.33
+N-378,Titanio,XL,3,148.44,213.56
+N-379,Titanio,XL,5,207.53,38.26
+N-380,Acero Inoxidable,S,7,1222.85,162.67
+N-381,Titanio,M,2,755.9,108.4
+N-382,Aluminio,L,3,1632.57,142.99
+N-383,Aluminio,S,6,1545.26,13.68
+N-384,Aluminio,XL,5,1193.25,54.63
+N-385,Aluminio,XL,5,1840.16,119.46
+N-386,Compósito,XL,6,1374.62,236.4
+N-387,Acero Inoxidable,S,4,532.78,153.84
+N-388,Compósito,M,9,783.3,71.79
+N-389,Grafeno,L,5,1157.01,44.63
+N-390,Acero Inoxidable,XL,6,1813.44,30.64
+N-391,Acero Inoxidable,S,9,526.5,43.14
+N-392,Titanio,L,7,1252.36,166.0
+N-393,Aluminio,S,3,1911.96,127.42
+N-394,Acero Inoxidable,M,10,147.77,47.08
+N-395,Aluminio,XL,7,1504.5,25.05
+N-396,Grafeno,L,2,450.97,26.48
+N-397,Grafeno,S,7,1873.26,110.22
+N-398,Titanio,XL,10,112.32,114.37
+N-399,Compósito,XL,2,1441.31,40.04
+N-400,Grafeno,M,3,1994.34,60.47
+N-401,Acero Inoxidable,XL,3,1256.73,100.45
+N-402,Titanio,M,4,1522.01,11.16
+N-403,Aluminio,L,9,1476.4,126.66
+N-404,Acero Inoxidable,S,7,663.16,49.81
+N-405,Grafeno,M,8,1089.54,139.69
+N-406,Grafeno,M,7,1347.82,124.18
+N-407,Grafeno,S,3,1929.59,112.33
+N-408,Aluminio,XL,10,1298.11,22.21
+N-409,Titanio,XL,4,1342.56,215.72
+N-410,Titanio,S,2,850.84,156.56
+N-411,Titanio,L,7,1720.79,201.01
+N-412,Acero Inoxidable,L,4,1535.99,141.27
+N-413,Titanio,M,10,480.21,65.15
+N-414,Grafeno,L,9,702.98,174.61
+N-415,Titanio,L,9,763.53,28.52
+N-416,Titanio,M,5,1102.53,189.67
+N-417,Compósito,S,5,1611.98,97.88
+N-418,Grafeno,M,5,393.35,27.55
+N-419,Acero Inoxidable,M,7,301.5,94.62
+N-420,Grafeno,M,9,1230.03,177.08
+N-421,Grafeno,L,9,817.93,124.37
+N-422,Aluminio,S,7,1103.35,14.02
+N-423,Aluminio,L,2,1552.33,108.28
+N-424,Compósito,S,2,407.16,127.78
+N-425,Titanio,XL,3,143.14,77.1
+N-426,Titanio,M,7,221.52,49.9
+N-427,Aluminio,XL,8,516.23,51.11
+N-428,Grafeno,S,10,1372.25,183.32
+N-429,Titanio,XL,5,749.67,77.26
+N-430,Grafeno,XL,6,1833.07,206.72
+N-431,Grafeno,XL,5,550.68,150.91
+N-432,Grafeno,S,6,846.9,127.84
+N-433,Grafeno,XL,7,353.4,71.44
+N-434,Grafeno,M,10,724.72,190.22
+N-435,Compósito,M,5,1571.59,87.11
+N-436,Acero Inoxidable,S,10,759.64,48.9
+N-437,Acero Inoxidable,L,10,927.05,39.14
+N-438,Acero Inoxidable,S,10,1253.54,89.01
+N-439,Grafeno,L,10,584.85,85.58
+N-440,Aluminio,S,4,1365.61,77.85
+N-441,Aluminio,S,7,656.2,190.01
+N-442,Aluminio,M,10,228.05,128.24
+N-443,Grafeno,L,7,1663.99,213.9
+N-444,Aluminio,L,10,1676.2,185.41
+N-445,Aluminio,M,8,1558.38,127.77
+N-446,Compósito,S,6,1040.94,191.72
+N-447,Aluminio,M,8,1064.29,199.14
+N-448,Aluminio,M,10,553.76,28.72
+N-449,Grafeno,M,4,1707.26,190.13
+N-450,Titanio,L,10,1139.38,110.91
+N-451,Grafeno,L,9,1737.9,78.43
+N-452,Acero Inoxidable,S,5,1656.38,209.06
+N-453,Aluminio,S,3,1987.48,103.11
+N-454,Acero Inoxidable,M,8,424.13,227.18
+N-455,Titanio,S,5,1286.54,239.69
+N-456,Compósito,S,7,1168.5,41.06
+N-457,Grafeno,XL,5,1418.43,114.38
+N-458,Titanio,S,5,1636.53,196.44
+N-459,Compósito,S,3,479.32,162.36
+N-460,Grafeno,S,7,648.68,114.52
+N-461,Titanio,XL,3,796.26,22.05
+N-462,Compósito,XL,10,1258.61,115.76
+N-463,Aluminio,M,2,1983.06,107.13
+N-464,Compósito,S,8,1190.41,20.74
+N-465,Compósito,S,7,793.57,148.51
+N-466,Aluminio,M,10,1699.38,80.31
+N-467,Compósito,XL,8,1025.81,69.96
+N-468,Aluminio,XL,6,1425.33,38.57
+N-469,Aluminio,XL,10,1493.6,64.33
+N-470,Titanio,XL,3,755.76,96.76
+N-471,Acero Inoxidable,M,9,791.72,137.08
+N-472,Acero Inoxidable,L,2,402.33,103.45
+N-473,Aluminio,L,10,204.42,207.67
+N-474,Compósito,S,9,513.21,106.73
+N-475,Acero Inoxidable,XL,7,485.61,232.72
+N-476,Acero Inoxidable,L,6,934.49,43.82
+N-477,Compósito,M,3,1446.57,104.96
+N-478,Compósito,M,2,1172.87,185.75
+N-479,Acero Inoxidable,M,6,300.59,100.49
+N-480,Aluminio,S,4,317.35,103.3
+N-481,Acero Inoxidable,M,4,1033.11,161.07
+N-482,Grafeno,L,6,1614.96,66.36
+N-483,Acero Inoxidable,S,9,1530.02,160.2
+N-484,Grafeno,L,2,564.88,81.68
+N-485,Grafeno,L,8,922.97,10.43
+N-486,Acero Inoxidable,XL,8,1337.57,42.68
+N-487,Grafeno,XL,3,519.27,141.72
+N-488,Aluminio,M,6,1231.06,56.48
+N-489,Aluminio,S,10,1374.4,97.81
+N-490,Grafeno,XL,10,932.88,210.95
+N-491,Compósito,M,2,819.18,206.07
+N-492,Titanio,M,9,1694.65,69.65
+N-493,Acero Inoxidable,M,2,796.99,26.4
+N-494,Acero Inoxidable,L,4,182.36,91.15
+N-495,Acero Inoxidable,XL,10,203.57,225.18
+N-496,Acero Inoxidable,XL,5,105.18,13.57
+N-497,Titanio,M,5,589.49,41.73
+N-498,Grafeno,S,8,1895.95,238.78
+N-499,Grafeno,L,6,1880.38,212.56
+N-500,Compósito,XL,10,873.11,239.7
+N-501,Aluminio,L,4,1498.23,215.36
+N-502,Grafeno,S,5,1688.99,61.0
+N-503,Acero Inoxidable,XL,5,558.85,16.05
+N-504,Aluminio,M,6,1272.45,75.07
+N-505,Aluminio,L,2,1813.24,212.86
+N-506,Acero Inoxidable,M,3,100.92,78.61
+N-507,Titanio,L,5,439.37,123.64
+N-508,Grafeno,XL,4,1446.14,104.17
+N-509,Titanio,L,5,1940.46,240.87
+N-510,Compósito,M,5,1920.26,119.85
+N-511,Compósito,S,9,1034.94,166.8
+N-512,Titanio,XL,10,879.92,52.09
+N-513,Aluminio,XL,6,1763.52,57.97
+N-514,Grafeno,XL,4,1168.45,102.65
+N-515,Titanio,S,4,718.71,68.2
+N-516,Acero Inoxidable,S,6,794.71,11.53
+N-517,Titanio,S,10,195.05,62.54
+N-518,Grafeno,S,2,1040.01,244.99
+N-519,Compósito,S,5,238.94,187.12
+N-520,Compósito,L,6,1083.49,81.94
+N-521,Titanio,S,7,1957.24,178.71
+N-522,Aluminio,M,4,250.74,120.17
+N-523,Acero Inoxidable,S,8,1307.52,117.06
+N-524,Aluminio,XL,10,513.8,108.64
+N-525,Aluminio,L,3,861.88,154.98
+N-526,Aluminio,L,3,1581.99,127.05
+N-527,Acero Inoxidable,XL,6,1776.5,81.53
+N-528,Grafeno,S,5,484.34,32.69
+N-529,Acero Inoxidable,L,8,552.23,242.88
+N-530,Aluminio,XL,10,1694.06,158.33
+N-531,Aluminio,M,8,351.74,169.64
+N-532,Aluminio,M,8,897.31,90.55
+N-533,Acero Inoxidable,L,2,1931.61,170.81
+N-534,Acero Inoxidable,XL,7,1230.17,159.14
+N-535,Aluminio,XL,8,944.78,39.54
+N-536,Aluminio,L,5,601.69,245.6
+N-537,Acero Inoxidable,S,6,362.49,200.24
+N-538,Grafeno,XL,7,1677.08,192.55
+N-539,Compósito,S,5,1944.22,85.73
+N-540,Compósito,XL,4,928.87,234.3
+N-541,Compósito,S,8,1160.71,133.88
+N-542,Grafeno,L,5,562.31,206.1
+N-543,Compósito,S,6,710.46,76.91
+N-544,Aluminio,S,4,1558.76,127.43
+N-545,Compósito,M,8,1372.22,168.67
+N-546,Acero Inoxidable,XL,8,100.62,204.02
+N-547,Titanio,XL,8,1969.6,213.45
+N-548,Acero Inoxidable,S,8,502.09,122.01
+N-549,Aluminio,M,6,424.55,198.02
+N-550,Titanio,S,9,810.38,177.9
+N-551,Compósito,M,3,1869.32,66.84
+N-552,Grafeno,M,8,222.48,59.21
+N-553,Compósito,S,9,1807.14,170.48
+N-554,Aluminio,S,3,893.34,15.92
+N-555,Grafeno,L,9,749.94,91.83
+N-556,Aluminio,M,7,771.38,140.59
+N-557,Aluminio,L,5,1596.8,147.22
+N-558,Acero Inoxidable,L,8,1580.0,213.15
+N-559,Titanio,M,8,1450.99,114.25
+N-560,Compósito,XL,9,912.21,162.26
+N-561,Aluminio,XL,5,442.89,188.11
+N-562,Grafeno,S,5,994.48,66.65
+N-563,Compósito,M,10,1775.57,157.11
+N-564,Compósito,M,5,1763.98,127.6
+N-565,Compósito,XL,5,1304.29,77.97
+N-566,Aluminio,M,7,1471.83,61.54
+N-567,Acero Inoxidable,S,8,697.55,29.09
+N-568,Compósito,S,10,377.58,170.53
+N-569,Aluminio,S,2,1979.41,236.42
+N-570,Acero Inoxidable,L,4,822.39,63.89
+N-571,Grafeno,XL,3,1945.79,50.58
+N-572,Aluminio,XL,8,102.1,197.17
+N-573,Aluminio,M,10,1842.99,184.85
+N-574,Titanio,S,9,626.62,120.54
+N-575,Compósito,S,6,685.56,193.09
+N-576,Grafeno,XL,3,1436.87,37.07
+N-577,Grafeno,L,2,1541.15,41.49
+N-578,Grafeno,XL,4,786.32,32.31
+N-579,Acero Inoxidable,S,4,439.94,96.08
+N-580,Titanio,S,2,771.63,64.18
+N-581,Aluminio,M,2,357.93,159.89
+N-582,Aluminio,S,10,1730.11,37.23
+N-583,Grafeno,XL,9,797.06,150.42
+N-584,Acero Inoxidable,M,7,781.56,132.93
+N-585,Titanio,XL,8,524.33,109.79
+N-586,Compósito,L,6,1703.66,134.02
+N-587,Grafeno,XL,5,214.07,135.42
+N-588,Titanio,S,4,1958.57,239.67
+N-589,Grafeno,XL,2,965.55,111.04
+N-590,Acero Inoxidable,L,8,1437.48,113.96
+N-591,Compósito,M,9,354.36,246.87
+N-592,Acero Inoxidable,XL,5,1735.95,95.43
+N-593,Aluminio,L,9,574.53,223.48
+N-594,Aluminio,S,5,420.11,84.6
+N-595,Acero Inoxidable,M,2,514.88,233.0
+N-596,Acero Inoxidable,M,10,1253.85,241.23
+N-597,Titanio,M,8,1931.43,25.34
+N-598,Aluminio,M,7,1582.81,153.36
+N-599,Grafeno,XL,7,1301.33,173.52
+N-600,Compósito,S,9,284.28,95.51
+N-601,Grafeno,L,3,1015.22,215.13
+N-602,Acero Inoxidable,XL,2,1074.99,21.76
+N-603,Titanio,S,2,1484.18,159.87
+N-604,Grafeno,S,10,377.24,146.77
+N-605,Titanio,M,8,1876.0,100.4
+N-606,Acero Inoxidable,XL,9,1703.53,142.6
+N-607,Grafeno,S,5,540.61,187.62
+N-608,Acero Inoxidable,S,2,1600.3,218.94
+N-609,Titanio,L,4,181.38,176.75
+N-610,Compósito,L,4,211.38,107.47
+N-611,Grafeno,M,7,769.54,29.07
+N-612,Titanio,XL,2,1335.64,195.11
+N-613,Grafeno,L,2,1808.05,96.44
+N-614,Compósito,XL,6,1720.41,11.81
+N-615,Grafeno,XL,4,1958.64,175.98
+N-616,Titanio,L,8,1711.58,74.72
+N-617,Acero Inoxidable,L,3,383.88,75.39
+N-618,Titanio,M,6,1093.01,170.63
+N-619,Aluminio,S,10,663.69,78.13
+N-620,Compósito,M,3,576.42,100.47
+N-621,Grafeno,L,9,1402.26,68.04
+N-622,Titanio,XL,9,1459.81,52.43
+N-623,Grafeno,XL,3,924.92,224.04
+N-624,Titanio,L,9,1924.9,96.84
+N-625,Compósito,L,9,115.19,25.86
+N-626,Compósito,M,3,1607.85,11.47
+N-627,Aluminio,M,4,1839.51,122.31
+N-628,Titanio,L,8,888.15,185.97
+N-629,Grafeno,S,8,1380.39,46.27
+N-630,Compósito,L,2,834.14,98.79
+N-631,Titanio,L,4,1875.32,30.73
+N-632,Grafeno,M,10,340.39,186.34
+N-633,Grafeno,M,5,476.42,51.44
+N-634,Acero Inoxidable,M,2,1790.07,74.31
+N-635,Acero Inoxidable,L,7,393.1,72.53
+N-636,Acero Inoxidable,XL,5,592.27,90.46
+N-637,Grafeno,S,6,1570.7,140.39
+N-638,Titanio,S,2,251.04,172.61
+N-639,Acero Inoxidable,XL,5,1346.29,36.33
+N-640,Aluminio,L,6,1215.75,111.94
+N-641,Titanio,M,10,1612.55,226.95
+N-642,Titanio,S,7,994.58,248.17
+N-643,Compósito,L,5,769.72,132.0
+N-644,Acero Inoxidable,M,10,757.46,182.03
+N-645,Aluminio,S,5,1072.96,176.61
+N-646,Grafeno,L,10,310.35,136.21
+N-647,Compósito,L,8,861.2,195.67
+N-648,Grafeno,XL,3,261.07,198.43
+N-649,Grafeno,S,10,1854.42,236.53
+N-650,Acero Inoxidable,XL,9,1940.42,19.48
+N-651,Compósito,M,2,1911.67,101.06
+N-652,Grafeno,L,10,766.02,78.97
+N-653,Aluminio,XL,6,540.12,73.35
+N-654,Acero Inoxidable,XL,7,369.5,215.5
+N-655,Grafeno,M,5,317.09,22.9
+N-656,Acero Inoxidable,M,9,879.12,20.89
+N-657,Aluminio,XL,4,606.86,102.5
+N-658,Titanio,S,6,820.54,77.56
+N-659,Acero Inoxidable,M,2,868.15,12.7
+N-660,Acero Inoxidable,XL,9,949.35,64.46
+N-661,Grafeno,S,9,806.28,176.52
+N-662,Compósito,XL,9,1569.06,62.17
+N-663,Titanio,L,2,278.6,12.38
+N-664,Grafeno,S,2,1265.97,15.19
+N-665,Acero Inoxidable,M,5,650.62,235.03
+N-666,Acero Inoxidable,S,8,1614.29,82.67
+N-667,Compósito,L,2,469.6,82.19
+N-668,Titanio,L,4,1034.33,28.22
+N-669,Acero Inoxidable,XL,4,250.9,204.37
+N-670,Grafeno,S,10,1038.01,76.86
+N-671,Titanio,L,6,1651.41,63.27
+N-672,Acero Inoxidable,L,9,1603.07,101.7
+N-673,Acero Inoxidable,S,3,1823.67,172.9
+N-674,Compósito,XL,2,100.41,90.88
+N-675,Acero Inoxidable,M,4,1531.92,105.1
+N-676,Aluminio,L,10,807.79,225.89
+N-677,Compósito,L,6,1496.66,81.86
+N-678,Compósito,M,2,316.82,114.34
+N-679,Grafeno,M,3,1180.17,157.45
+N-680,Aluminio,S,2,313.69,49.36
+N-681,Grafeno,XL,10,1094.22,175.3
+N-682,Compósito,M,6,1342.25,138.91
+N-683,Aluminio,S,4,733.31,118.65
+N-684,Compósito,S,9,1262.32,149.27
+N-685,Aluminio,XL,8,1760.64,234.64
+N-686,Compósito,L,8,463.68,226.25
+N-687,Grafeno,S,10,847.2,189.47
+N-688,Titanio,L,2,1642.9,20.02
+N-689,Acero Inoxidable,XL,8,1309.53,93.87
+N-690,Aluminio,XL,8,192.07,239.62
+N-691,Aluminio,XL,3,803.09,98.92
+N-692,Aluminio,S,9,844.5,23.63
+N-693,Titanio,L,9,563.41,51.18
+N-694,Compósito,XL,8,1921.52,219.49
+N-695,Acero Inoxidable,XL,5,285.43,96.78
+N-696,Compósito,M,10,1522.24,199.55
+N-697,Grafeno,L,4,480.98,188.15
+N-698,Aluminio,M,8,1605.27,19.83
+N-699,Grafeno,M,5,812.34,116.82
+N-700,Acero Inoxidable,S,8,1143.17,206.97
+N-701,Compósito,XL,6,1253.64,145.54
+N-702,Titanio,XL,3,1511.99,246.14
+N-703,Compósito,L,9,135.98,184.4
+N-704,Titanio,M,10,1458.37,119.5
+N-705,Compósito,XL,6,882.05,121.59
+N-706,Compósito,S,8,1196.24,116.37
+N-707,Acero Inoxidable,M,5,906.74,107.14
+N-708,Titanio,S,10,1113.35,164.92
+N-709,Acero Inoxidable,M,10,116.29,176.86
+N-710,Grafeno,XL,3,1493.54,23.51
+N-711,Compósito,L,8,561.58,15.53
+N-712,Titanio,L,10,751.39,228.33
+N-713,Titanio,XL,8,311.82,78.35
+N-714,Titanio,L,8,407.39,232.65
+N-715,Titanio,XL,4,1831.36,143.77
+N-716,Acero Inoxidable,S,8,1894.1,222.23
+N-717,Acero Inoxidable,L,9,1188.19,123.04
+N-718,Acero Inoxidable,M,2,133.64,121.89
+N-719,Aluminio,S,2,126.63,202.63
+N-720,Aluminio,L,9,1604.78,98.76
+N-721,Titanio,L,6,661.78,31.01
+N-722,Acero Inoxidable,L,2,418.4,116.84
+N-723,Acero Inoxidable,XL,5,1949.05,85.76
+N-724,Compósito,S,10,490.79,124.29
+N-725,Grafeno,S,3,1534.82,218.22
+N-726,Compósito,XL,2,1346.75,121.0
+N-727,Aluminio,S,8,1118.05,27.1
+N-728,Grafeno,S,5,1030.82,233.88
+N-729,Grafeno,S,2,1724.49,172.03
+N-730,Titanio,L,2,1806.57,11.02
+N-731,Compósito,L,6,651.42,140.84
+N-732,Aluminio,XL,2,1778.82,66.34
+N-733,Aluminio,S,4,317.07,160.01
+N-734,Aluminio,M,3,1895.68,58.53
+N-735,Grafeno,M,7,1437.25,209.59
+N-736,Grafeno,M,3,1554.69,104.92
+N-737,Compósito,XL,7,412.07,55.28
+N-738,Titanio,XL,6,308.59,63.85
+N-739,Aluminio,M,6,615.17,230.74
+N-740,Compósito,XL,8,1144.9,117.7
+N-741,Aluminio,L,5,1611.21,98.13
+N-742,Titanio,M,2,472.55,197.1
+N-743,Titanio,XL,4,728.21,232.26
+N-744,Titanio,L,5,254.37,213.01
+N-745,Acero Inoxidable,XL,5,1513.57,28.71
+N-746,Aluminio,M,8,1954.57,122.77
+N-747,Titanio,S,9,614.97,151.57
+N-748,Acero Inoxidable,XL,2,1721.92,86.98
+N-749,Aluminio,XL,6,441.99,153.0
+N-750,Titanio,M,4,1526.51,104.25
+N-751,Acero Inoxidable,L,4,867.13,108.99
+N-752,Titanio,XL,3,1256.34,64.04
+N-753,Compósito,XL,9,1994.27,11.35
+N-754,Titanio,S,4,1962.1,158.42
+N-755,Aluminio,L,5,153.85,214.5
+N-756,Aluminio,M,7,791.63,140.49
+N-757,Titanio,M,7,640.15,245.1
+N-758,Aluminio,L,7,898.38,133.32
+N-759,Aluminio,S,7,184.02,112.9
+N-760,Compósito,S,5,1106.94,128.53
+N-761,Aluminio,L,4,1482.71,54.28
+N-762,Compósito,S,2,568.26,217.27
+N-763,Compósito,S,9,278.04,10.19
+N-764,Titanio,S,5,1570.11,234.23
+N-765,Compósito,XL,7,738.25,211.29
+N-766,Grafeno,S,6,591.87,48.05
+N-767,Acero Inoxidable,XL,7,828.14,177.83
+N-768,Compósito,M,6,1704.82,98.91
+N-769,Grafeno,L,8,1646.35,109.16
+N-770,Titanio,M,3,766.79,143.28
+N-771,Compósito,S,9,1991.12,116.51
+N-772,Acero Inoxidable,S,5,1767.68,17.32
+N-773,Grafeno,S,6,1029.11,209.06
+N-774,Titanio,S,2,231.86,183.85
+N-775,Titanio,L,2,1586.81,48.23
+N-776,Aluminio,S,7,1348.98,46.37
+N-777,Titanio,M,5,765.42,87.13
+N-778,Acero Inoxidable,XL,8,265.6,11.74
+N-779,Acero Inoxidable,S,6,1702.62,195.83
+N-780,Grafeno,XL,3,402.7,156.8
+N-781,Grafeno,L,2,172.09,213.58
+N-782,Compósito,M,10,373.9,189.59
+N-783,Compósito,L,5,1505.32,244.19
+N-784,Titanio,S,2,1009.41,217.89
+N-785,Aluminio,S,9,1267.25,66.15
+N-786,Acero Inoxidable,XL,2,1355.7,190.33
+N-787,Aluminio,M,9,406.58,93.36
+N-788,Acero Inoxidable,M,6,1314.39,57.4
+N-789,Titanio,L,5,1727.04,85.25
+N-790,Compósito,S,7,577.07,181.48
+N-791,Aluminio,M,4,868.09,33.13
+N-792,Compósito,M,10,1000.14,186.06
+N-793,Grafeno,M,9,399.46,157.35
+N-794,Grafeno,S,6,1788.92,79.48
+N-795,Compósito,XL,4,487.04,221.85
+N-796,Titanio,S,5,1725.74,72.57
+N-797,Compósito,L,2,1603.29,247.12
+N-798,Aluminio,XL,5,1679.93,244.44
+N-799,Acero Inoxidable,S,5,499.95,198.93
+N-800,Titanio,L,7,871.23,200.25
+N-801,Grafeno,XL,6,1441.29,159.01
+N-802,Acero Inoxidable,L,2,472.69,236.59
+N-803,Grafeno,L,6,807.91,221.68
+N-804,Acero Inoxidable,S,8,1435.26,205.14
+N-805,Titanio,S,7,1395.29,41.49
+N-806,Grafeno,M,4,885.77,146.91
+N-807,Titanio,M,7,240.85,129.24
+N-808,Grafeno,XL,5,1881.13,97.91
+N-809,Titanio,S,7,1504.02,28.58
+N-810,Grafeno,L,6,1991.2,198.04
+N-811,Titanio,M,6,167.26,93.92
+N-812,Grafeno,S,10,1013.11,194.88
+N-813,Titanio,M,2,1092.17,231.34
+N-814,Titanio,L,3,1705.22,77.29
+N-815,Compósito,S,3,301.55,195.8
+N-816,Aluminio,XL,5,638.82,131.66
+N-817,Aluminio,L,2,1383.72,42.76
+N-818,Titanio,L,9,1965.56,29.93
+N-819,Compósito,M,6,665.86,170.55
+N-820,Grafeno,M,7,1779.88,73.72
+N-821,Compósito,XL,2,333.65,247.46
+N-822,Compósito,M,4,299.16,117.13
+N-823,Acero Inoxidable,XL,10,897.79,137.36
+N-824,Aluminio,S,3,872.74,81.89
+N-825,Compósito,XL,10,1457.68,195.32
+N-826,Compósito,L,8,1846.49,217.15
+N-827,Aluminio,M,3,1093.03,113.63
+N-828,Acero Inoxidable,XL,2,1013.11,168.2
+N-829,Aluminio,L,9,1245.62,158.64
+N-830,Grafeno,L,5,1354.42,22.97
+N-831,Grafeno,XL,6,481.22,96.51
+N-832,Acero Inoxidable,L,2,297.34,160.29
+N-833,Aluminio,M,6,858.41,131.4
+N-834,Compósito,S,3,1454.76,102.25
+N-835,Titanio,S,6,598.75,77.22
+N-836,Compósito,L,7,255.21,118.73
+N-837,Acero Inoxidable,S,6,1433.06,61.66
+N-838,Acero Inoxidable,XL,4,1883.84,122.19
+N-839,Titanio,M,3,376.4,61.26
+N-840,Aluminio,M,5,375.51,173.81
+N-841,Aluminio,S,3,599.9,47.68
+N-842,Titanio,S,5,1954.25,170.68
+N-843,Grafeno,M,2,353.89,156.85
+N-844,Compósito,L,8,1837.3,110.05
+N-845,Aluminio,L,3,127.81,226.27
+N-846,Titanio,S,3,292.48,235.39
+N-847,Aluminio,S,7,850.63,32.58
+N-848,Titanio,L,2,1080.36,131.63
+N-849,Grafeno,XL,5,1229.86,151.93
+N-850,Aluminio,XL,4,457.2,63.45
+N-851,Grafeno,M,8,630.45,172.9
+N-852,Aluminio,S,5,1281.4,45.6
+N-853,Aluminio,XL,7,1382.53,175.8
+N-854,Acero Inoxidable,S,6,1153.93,57.65
+N-855,Acero Inoxidable,S,7,873.41,74.23
+N-856,Compósito,L,5,422.64,146.74
+N-857,Aluminio,L,5,1535.32,12.06
+N-858,Acero Inoxidable,XL,7,1413.95,188.33
+N-859,Acero Inoxidable,XL,8,1596.32,234.11
+N-860,Aluminio,M,10,932.81,127.8
+N-861,Aluminio,M,8,1628.51,217.49
+N-862,Titanio,XL,9,259.37,76.71
+N-863,Aluminio,XL,5,618.99,43.08
+N-864,Titanio,XL,3,1550.22,98.71
+N-865,Aluminio,S,2,1562.46,226.69
+N-866,Titanio,M,9,386.76,105.66
+N-867,Acero Inoxidable,S,5,1748.56,99.18
+N-868,Grafeno,M,5,1004.15,115.13
+N-869,Aluminio,L,9,1275.07,26.68
+N-870,Aluminio,L,7,972.9,141.96
+N-871,Aluminio,M,3,1985.07,183.37
+N-872,Grafeno,L,7,1020.92,139.02
+N-873,Compósito,M,8,317.28,79.59
+N-874,Grafeno,M,6,550.55,230.02
+N-875,Compósito,XL,10,559.06,105.92
+N-876,Aluminio,M,8,764.95,171.55
+N-877,Titanio,XL,7,944.59,141.12
+N-878,Acero Inoxidable,M,2,548.31,123.67
+N-879,Titanio,L,10,153.92,153.14
+N-880,Compósito,XL,5,858.45,223.35
+N-881,Compósito,S,9,1567.7,239.22
+N-882,Aluminio,M,2,960.88,144.64
+N-883,Aluminio,L,9,366.07,104.89
+N-884,Acero Inoxidable,XL,10,1749.99,229.04
+N-885,Grafeno,M,8,821.86,135.05
+N-886,Acero Inoxidable,XL,6,985.02,180.67
+N-887,Acero Inoxidable,S,5,990.83,116.79
+N-888,Aluminio,S,7,1029.45,54.77
+N-889,Acero Inoxidable,M,9,1006.27,68.58
+N-890,Aluminio,L,10,252.22,41.17
+N-891,Grafeno,S,3,888.28,78.73
+N-892,Grafeno,S,9,1842.07,108.37
+N-893,Titanio,M,4,853.06,64.44
+N-894,Aluminio,S,7,1777.43,230.3
+N-895,Grafeno,S,2,1798.37,36.85
+N-896,Titanio,L,7,112.07,133.67
+N-897,Grafeno,M,7,1674.67,136.65
+N-898,Compósito,L,9,926.49,220.11
+N-899,Grafeno,M,3,255.52,153.78
+N-900,Titanio,XL,8,893.0,106.47
+N-901,Titanio,M,8,217.64,64.67
+N-902,Aluminio,L,8,1962.06,106.41
+N-903,Grafeno,S,6,1904.04,63.78
+N-904,Compósito,L,7,1405.51,89.92
+N-905,Compósito,S,7,1561.27,88.82
+N-906,Grafeno,XL,2,277.79,73.44
+N-907,Compósito,XL,6,1881.91,163.88
+N-908,Compósito,M,9,185.76,195.82
+N-909,Acero Inoxidable,L,7,1762.72,186.41
+N-910,Titanio,XL,9,1454.21,76.97
+N-911,Grafeno,XL,2,1307.03,218.42
+N-912,Compósito,M,4,1943.57,48.86
+N-913,Aluminio,XL,2,1878.15,159.38
+N-914,Titanio,XL,10,1529.88,170.65
+N-915,Aluminio,XL,3,861.04,78.22
+N-916,Compósito,M,8,1659.99,52.27
+N-917,Aluminio,S,2,1767.19,70.68
+N-918,Grafeno,M,6,1127.52,168.01
+N-919,Titanio,M,9,1282.63,191.09
+N-920,Aluminio,XL,8,1054.1,41.96
+N-921,Titanio,S,10,778.8,26.5
+N-922,Acero Inoxidable,S,4,823.54,21.04
+N-923,Compósito,XL,10,1232.08,62.68
+N-924,Acero Inoxidable,S,8,1480.96,193.78
+N-925,Compósito,XL,9,477.26,226.74
+N-926,Acero Inoxidable,M,7,273.79,188.34
+N-927,Acero Inoxidable,M,6,1445.09,101.6
+N-928,Compósito,S,2,1153.76,76.6
+N-929,Compósito,S,10,1290.08,15.21
+N-930,Titanio,L,10,306.93,174.51
+N-931,Compósito,L,4,1464.77,98.67
+N-932,Grafeno,XL,3,850.74,240.86
+N-933,Aluminio,S,4,1928.46,14.43
+N-934,Aluminio,L,10,543.23,226.45
+N-935,Aluminio,M,3,332.58,219.16
+N-936,Titanio,XL,10,932.09,60.82
+N-937,Compósito,XL,4,305.45,132.8
+N-938,Compósito,S,4,1727.46,80.48
+N-939,Aluminio,XL,4,319.56,112.58
+N-940,Aluminio,M,2,1507.24,119.03
+N-941,Grafeno,M,6,1594.39,151.86
+N-942,Grafeno,M,9,1112.07,113.0
+N-943,Acero Inoxidable,XL,7,1923.05,193.84
+N-944,Aluminio,XL,4,324.26,100.9
+N-945,Acero Inoxidable,S,3,778.08,17.12
+N-946,Acero Inoxidable,L,9,904.26,170.73
+N-947,Aluminio,L,3,183.49,57.72
+N-948,Compósito,XL,2,1927.28,114.12
+N-949,Compósito,XL,5,1768.06,103.28
+N-950,Grafeno,S,5,1447.08,129.69
+N-951,Compósito,XL,2,548.22,187.84
+N-952,Grafeno,L,4,365.16,115.39
+N-953,Grafeno,M,9,837.4,103.36
+N-954,Grafeno,S,3,1548.44,99.12
+N-955,Acero Inoxidable,XL,2,1697.15,230.0
+N-956,Titanio,L,10,1539.26,164.06
+N-957,Titanio,S,3,1441.04,225.17
+N-958,Acero Inoxidable,L,9,1489.45,86.59
+N-959,Acero Inoxidable,M,7,1620.19,227.1
+N-960,Grafeno,L,5,192.29,145.81
+N-961,Acero Inoxidable,S,8,1185.95,198.5
+N-962,Grafeno,XL,8,1463.31,205.82
+N-963,Titanio,M,6,300.1,42.7
+N-964,Titanio,XL,2,1342.09,111.08
+N-965,Compósito,XL,6,1391.98,165.84
+N-966,Grafeno,S,2,939.8,55.66
+N-967,Compósito,L,10,1349.16,191.27
+N-968,Compósito,S,10,444.05,38.38
+N-969,Compósito,S,5,1225.77,129.2
+N-970,Grafeno,XL,3,714.79,73.59
+N-971,Acero Inoxidable,M,8,669.29,113.19
+N-972,Titanio,XL,5,1825.92,114.61
+N-973,Compósito,L,3,1972.08,24.05
+N-974,Aluminio,S,10,1183.64,59.44
+N-975,Aluminio,XL,9,143.96,137.62
+N-976,Compósito,S,4,616.45,238.39
+N-977,Compósito,XL,4,1994.0,244.03
+N-978,Titanio,S,7,1823.3,84.35
+N-979,Titanio,L,4,794.36,151.15
+N-980,Grafeno,L,6,745.16,20.71
+N-981,Titanio,M,8,447.16,49.1
+N-982,Acero Inoxidable,M,5,1979.19,157.14
+N-983,Aluminio,S,5,372.9,160.11
+N-984,Compósito,M,8,1568.81,139.99
+N-985,Acero Inoxidable,L,5,1645.61,124.09
+N-986,Acero Inoxidable,M,6,1923.06,19.17
+N-987,Aluminio,L,9,461.53,51.38
+N-988,Aluminio,S,5,137.64,43.01
+N-989,Titanio,S,6,1731.93,138.31
+N-990,Acero Inoxidable,M,10,186.66,185.53
+N-991,Aluminio,S,9,1516.87,212.27
+N-992,Titanio,XL,10,1536.33,240.91
+N-993,Acero Inoxidable,XL,7,1427.26,153.27
+N-994,Grafeno,S,4,1492.09,178.47
+N-995,Grafeno,L,8,187.72,55.29
+N-996,Titanio,S,9,1681.28,66.8
+N-997,Grafeno,M,9,1020.47,147.91
+N-998,Titanio,S,6,1762.92,56.63
+N-999,Compósito,L,10,1251.68,142.33
