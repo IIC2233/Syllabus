@@ -5,7 +5,7 @@ import timeit
 import tracemalloc
 
 
-FLEXIBILIDAD_ADICIONAL = 1.1
+FLEXIBILIDAD_ADICIONAL = 1
 
 def timeout(seconds=10, error_message=None):
     def decorator(func):
