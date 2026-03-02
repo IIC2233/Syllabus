@@ -6,7 +6,7 @@
 
 | Nombre                   | Sección | Github       | Email              |
 | ------------------------ | ------- | ------------ | ------------------ |
-| Por Fijar                | 1       |              |                    |
+| Jaime Middleton          | 1       | @Jamidd      | jamiddleton@uc.cl  |
 | Pablo Araneda            | 2       | @StroveLight | pharaneda@uc.cl    |
 | Por Fijar                | 3       |              |                    |
 | Tamara Vidal             | 4       | @tama0903    | ttvidal@uc.cl      |
