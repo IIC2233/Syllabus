@@ -4,13 +4,13 @@
 
 ### Profesores
 
-| Nombre                   | Sección | Github       | Email              |
-| ------------------------ | ------- | ------------ | ------------------ |
-| Jaime Middleton          | 1       | @Jamidd      | jamiddleton@uc.cl  |
-| Pablo Araneda            | 2       | @StroveLight | pharaneda@uc.cl    |
-| Por Fijar                | 3       |              |                    |
-| Tamara Vidal             | 4       | @tama0903    | ttvidal@uc.cl      |
-| Daniela Concha           | 5       | @lily416     | daconcha@uc.cl     |
+| Nombre                   | Sección | Github       | Email               |
+| ------------------------ | ------- | ------------ | ------------------  |
+| Jaime Middleton          | 1       | @Jamidd      | jamiddleton@uc.cl   |
+| Pablo Araneda            | 2       | @StroveLight | pharaneda@uc.cl     |
+| Antonio López            | 3       | @antoniolopezlarra | alopez7@uc.cl |
+| Tamara Vidal             | 4       | @tama0903    | ttvidal@uc.cl       |
+| Daniela Concha           | 5       | @lily416     | daconcha@uc.cl      |
 
 ## Semestres Anteriores
 
