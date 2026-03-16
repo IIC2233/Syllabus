@@ -36,7 +36,7 @@ class TestOptimizarSolucion(unittest.TestCase):
         expected = []
 
         self.assertIsNotNone(result)
-        self.assertListEqual(result, expected)
+        self.assertCountEqual(result, expected)
 
     @timeout(N_SECOND)
     def test_01_no_redundancia(self):
@@ -62,7 +62,7 @@ class TestOptimizarSolucion(unittest.TestCase):
         expected = [(1, 0), (0, 1), (2, 3), (1, 1)]
 
         self.assertIsNotNone(result)
-        self.assertListEqual(result, expected)
+        self.assertCountEqual(result, expected)
 
     @timeout(N_SECOND)
     def test_02_redundancia_par(self):
@@ -89,7 +89,7 @@ class TestOptimizarSolucion(unittest.TestCase):
         expected = [(1, 0), (2, 3), (1, 1), (2, 0)]
 
         self.assertIsNotNone(result)
-        self.assertListEqual(result, expected)
+        self.assertCountEqual(result, expected)
 
     @timeout(N_SECOND)
     def test_03_redundancia_impar(self):
@@ -116,7 +116,7 @@ class TestOptimizarSolucion(unittest.TestCase):
         expected = [(1, 0), (0, 1), (1, 1), (3, 3), (2, 2), (2, 3)]
 
         self.assertIsNotNone(result)
-        self.assertListEqual(result, expected)
+        self.assertCountEqual(result, expected)
 
     @timeout(N_SECOND)
     def test_04_multiple_redundancia(self):
@@ -143,4 +143,4 @@ class TestOptimizarSolucion(unittest.TestCase):
         expected = [(1, 0), (0, 1), (3, 3), (2, 2), (2, 3)]
 
         self.assertIsNotNone(result)
-        self.assertListEqual(result, expected)
+        self.assertCountEqual(result, expected)

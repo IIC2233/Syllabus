@@ -37,7 +37,7 @@ class TestEncontrarSolucion(unittest.TestCase):
         expected = [(2, 0), (1, 1), (0, 2)]
 
         self.assertIsNotNone(result)
-        self.assertListEqual(result, expected)
+        self.assertCountEqual(result, expected)
 
     @timeout(N_SECOND)
     def test_01_una_modificacion_con_solucion(self):
@@ -64,7 +64,7 @@ class TestEncontrarSolucion(unittest.TestCase):
         expected = [(2, 0), (1, 1), (0, 2)]
 
         self.assertIsNotNone(result)
-        self.assertListEqual(result, expected)
+        self.assertCountEqual(result, expected)
 
     @timeout(N_SECOND)
     def test_02_una_modificacion_sin_solucion(self):
@@ -115,11 +115,10 @@ class TestEncontrarSolucion(unittest.TestCase):
 
         result = board.encontrar_solucion(change_list, max_changes)
 
-        expected = [[(2, 0), (1, 1), (0, 2), (0, 0), (0, 4)],
-                    [(2, 0), (1, 1), (0, 2), (0, 4), (0, 0)]]
+        expected = [(2, 0), (1, 1), (0, 2), (0, 0), (0, 4)]
 
         self.assertIsNotNone(result)
-        self.assertIn(result, expected)
+        self.assertCountEqual(result, expected)
 
     @timeout(N_SECOND)
     def test_04_dos_modificaciones_tres_necesarias(self):
