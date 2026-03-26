@@ -1,0 +1,7 @@
+nombre,tipo,pasaje_secreto
+Dipre,oficina,-
+DCContainer,oficina,Patio de ingenieria
+A7,sala de clases,-
+Sala de estudios,sala de clases,CAI
+CAI,patio,Sala de estudios
+Patio de ingenieria,patio,DCContainer
