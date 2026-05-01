@@ -1,0 +1,19 @@
+# Producción de juguetes - Carga de datos
+
+# S
+AVANZAR_PROD_S_0_PRODUCTORES = [(1, 10), (12, 5), (33, 12)]
+AVANZAR_PROD_S_0 = [(8, 1.0), (12, 3.0), (13, 2.0)]
+
+AVANZAR_PROD_S_1_PRODUCTORES = [(9, 10), (20, 0), (22, 3)]
+AVANZAR_PROD_S_1_MINUTOS = 8
+AVANZAR_PROD_S_1 = [(4, 2.0), (5, 2.0), (16, 32.0)]
+
+# M
+AVANZAR_PROD_M_0_PRODUCTORES = [(100, 20), (105, 2), (120, 4), (130, 0), (147, 1)]
+AVANZAR_PROD_M_0_MINUTOS = 12
+AVANZAR_PROD_M_0 = [(1, 6.0), (23, 2.0), (37, 30.0), (38, 18.0)]
+
+# L
+AVANZAR_PROD_L_0_PRODUCTORES = [(200, 0), (210, 1), (220, 2), (230, 3), (294, 4), (380, 0)]
+AVANZAR_PROD_L_0_MINUTOS = 400
+AVANZAR_PROD_L_0 = [(1, 34.0), (107, 22.0), (307, 30.0), (356, 4.0), (462, 23.0)]
