@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>dccsteam | Catálogo AY09</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;700&family=Rajdhani:wght@400;600;700&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="/app/styles.css" />
+</head>
+
+<body>
+  <div class="noise"></div>
+  <div class="orb orb-a"></div>
+  <div class="orb orb-b"></div>
+
+  <header class="topbar container">
+    <div class="brand">
+      <p class="brand-mini">AY09</p>
+      <h1>dccsteam</h1>
+      <p class="brand-subtitle">Catálogo interactivo conectado a todos los endpoints de la API</p>
+    </div>
+    <div class="config-card glass-card">
+      <h2>Conexión API</h2>
+      <label>
+        Base URL
+        <input id="base-url" type="text" value="http://localhost:5001" placeholder="http://localhost:5001" />
+      </label>
+      <label>
+        Token Authorization
+        <input id="auth-token" type="text" value="IIC2233" placeholder="IIC2233" />
+      </label>
+      <button id="btn-refresh" type="button" class="btn btn-primary">Recargar catálogo</button>
+    </div>
+  </header>
+
+  <main class="container storefront">
+    <section class="library glass-card">
+      <div class="section-head">
+        <h2>Tienda</h2>
+        <p id="library-meta">Cargando juegos...</p>
+      </div>
+
+      <article id="featured-detail" class="featured-detail">
+        <div id="featured-cover" class="featured-cover">
+          <h3 id="featured-title">Selecciona un juego</h3>
+        </div>
+        <div class="featured-content">
+          <p id="featured-description" class="featured-description">
+            Presiona "Detalle" en cualquier tarjeta para ver una vista ampliada del juego aquí.
+          </p>
+          <div id="featured-tags" class="tags"></div>
+          <div class="featured-stats">
+            <div>
+              <span>Rating</span>
+              <strong id="featured-rating">-</strong>
+            </div>
+            <div>
+              <span>Horas</span>
+              <strong id="featured-hours">-</strong>
+            </div>
+            <div>
+              <span>Precio</span>
+              <strong id="featured-price">-</strong>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <div class="genre-row">
+        <button id="genre-all" type="button" class="genre-pill active">Todos</button>
+        <div id="genre-list" class="genre-list"></div>
+      </div>
+
+      <div id="games-grid" class="games-grid"></div>
+    </section>
+
+    <aside class="control-panel">
+      <section class="glass-card control-section">
+        <h3>Filtro avanzado</h3>
+        <form id="form-filter" class="control-form">
+          <label>
+            Géneros (coma)
+            <input name="generos" type="text" placeholder="RPG,acción" />
+          </label>
+          <label>
+            Rating mínimo
+            <input name="rating" type="number" min="0" max="100" />
+          </label>
+          <label>
+            Horas mínimas
+            <input name="horas" type="number" min="0" />
+          </label>
+          <label>
+            Precio máximo
+            <input name="precio" type="number" min="0" />
+          </label>
+          <button type="submit" class="btn btn-primary">Aplicar GET /juegos/</button>
+        </form>
+      </section>
+
+      <section class="glass-card control-section">
+        <h3>Detalle juego</h3>
+        <form id="form-by-id" class="control-form">
+          <label>
+            ID o nombre
+            <input name="identifier" type="text" placeholder="3 o hades" required />
+          </label>
+          <button type="submit" class="btn">Consultar GET /juegos/&lt;id|nombre&gt;</button>
+        </form>
+      </section>
+
+      <section class="glass-card control-section">
+        <h3>Comparador</h3>
+        <form id="form-compare" class="control-form">
+          <label>
+            Juego 1 (id)
+            <input name="id1" type="number" min="1" required />
+          </label>
+          <label>
+            Juego 2 (id)
+            <input name="id2" type="number" min="1" required />
+          </label>
+          <button type="submit" class="btn">Comparar GET /comparar/&lt;id1&gt;/&lt;id2&gt;</button>
+        </form>
+        <div id="compare-winner" class="winner-box">Aún no hay comparación.</div>
+      </section>
+
+      <section class="glass-card control-section">
+        <h3>Admin endpoints</h3>
+        <details open>
+          <summary>POST /juegos</summary>
+          <form id="form-add" class="control-form">
+            <label>ID<input name="id" type="number" min="1" required /></label>
+            <label>Nombre<input name="nombre" type="text" required /></label>
+            <label>Géneros (coma)<input name="generos" type="text" placeholder="indie,aventura" required /></label>
+            <label>Rating<input name="rating" type="number" min="0" max="100" required /></label>
+            <label>Horas<input name="horas" type="number" min="0" required /></label>
+            <label>Precio<input name="precio" type="number" min="0" required /></label>
+            <button type="submit" class="btn btn-primary">Agregar juego</button>
+          </form>
+        </details>
+
+        <details>
+          <summary>PATCH /juegos/&lt;identifier&gt;</summary>
+          <form id="form-patch" class="control-form">
+            <label>ID o nombre<input name="identifier" type="text" required /></label>
+            <label>Rating<input name="rating" type="number" min="0" max="100" /></label>
+            <label>Horas<input name="horas" type="number" min="0" /></label>
+            <label>Precio<input name="precio" type="number" min="0" /></label>
+            <button type="submit" class="btn">Actualizar stats</button>
+          </form>
+        </details>
+
+        <details>
+          <summary>DELETE /juegos/&lt;identifier&gt;</summary>
+          <form id="form-delete" class="control-form">
+            <label>ID o nombre<input name="identifier" type="text" required /></label>
+            <button type="submit" class="btn btn-danger">Eliminar juego</button>
+          </form>
+        </details>
+      </section>
+
+      <section class="glass-card response-box">
+        <h3>Respuesta API</h3>
+        <div id="status" class="status">Esperando solicitud...</div>
+        <pre id="result">{}</pre>
+      </section>
+    </aside>
+  </main>
+
+  <script src="/app/app.js"></script>
+</body>
+
+</html>
