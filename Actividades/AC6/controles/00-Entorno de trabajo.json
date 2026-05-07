@@ -1,0 +1,30 @@
+{
+    "id_control": 0,
+    "materia": "Entorno de trabajo",
+    "preguntas": [
+        {
+            "enunciado": "¿Qué es GIT?",
+            "alternativas": 
+            [
+                "Un pájaro",
+                "Un avión",
+                "Una herramienta de control de versiones",
+                "Todas las anteriores",
+                "Ninguna de las anteriores"
+            ]
+        },
+        {
+            "enunciado": "¿Qué hace el comando cd en consola?",
+            "alternativas": 
+            [
+                "Mueve al usuario de posición entre carpetas",
+                "Abre el porta CD del computador",
+                "No se",
+                "Todas las anteriores",
+                "Ninguna de las anteriores"
+            ]
+        }
+    ],
+    "hora_inicio": "17:00",
+    "hora_fin": "17:20"
+}

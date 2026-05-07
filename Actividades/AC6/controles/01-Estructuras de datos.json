@@ -1,0 +1,30 @@
+{
+    "id_control": 1,
+    "materia": "Estructuras de datos",
+    "preguntas": [
+        {
+            "enunciado": "¿Qué es un diccionario?",
+            "alternativas": 
+            [
+                "Un libro que dice el significado de las cosas",
+                "Una lista pero mejor",
+                "Una EDD que permite buscar por llaves en vez de índices",
+                "Todas las anteriores",
+                "Ninguna de las anteriores"
+            ]
+        },
+        {
+            "enunciado": "¿Qué hace la unión entre sets?",
+            "alternativas": 
+            [
+                "Los une en matrimonio",
+                "Retorna un set con los elementos de ambos pero sin repetidos",
+                "Usa pegamento",
+                "Todas las anteriores",
+                "Ninguna de las anteriores"
+            ]
+        }
+    ],
+    "hora_inicio": "17:00",
+    "hora_fin": "17:20"
+}

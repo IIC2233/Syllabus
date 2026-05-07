@@ -1,0 +1,30 @@
+{
+    "id_control": 2,
+    "materia": "OOP avanzado",
+    "preguntas": [
+        {
+            "enunciado": "¿Qué significa que A herede de B?",
+            "alternativas": 
+            [
+                "A tiene todos los métodos y variables de clase de B",
+                "Si B muere, A se queda con sus pertenecias",
+                "B le pasa ropa a su hermano menor A",
+                "Todas las anteriores",
+                "Ninguna de las anteriores"
+            ]
+        },
+        {
+            "enunciado": "¿Qué es el problema del diamante?",
+            "alternativas": 
+            [
+                "Es algo hermoso y desconocido",
+                "Nada puede rayar un diamante",
+                "El diamante es caro solo por monopolios de producción",
+                "Todas las anteriores",
+                "Ninguna de las anteriores"
+            ]
+        }
+    ],
+    "hora_inicio": "17:00",
+    "hora_fin": "17:20"
+}
