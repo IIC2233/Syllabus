@@ -6,5 +6,5 @@
 
 | Fecha | Actualización |
 | ----- | ------------- |
-| 30/04 | Se sube la tarea al Syllabus. |
-
+| 30/04 | Se sube la tarea al Syllabus. 
+| 13/05 | Se aclara ignorar la carpeta sprites dentro del Enunciado.
