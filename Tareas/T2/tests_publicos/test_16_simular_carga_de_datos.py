@@ -48,7 +48,7 @@ class TestSimularXL(IICTest):
             sim.send("next")
         evento2 = tuple(sim.send("next"))
 
-        self.assertEqual((evento1[0][0], evento2[0][0]), ((18), (68)))
+        self.assertEqual((evento1[0][0], evento2[0][0]), ((18), (65)))
 
     @timeout(N_SEGUNDOS/2)
     def test_M(self):

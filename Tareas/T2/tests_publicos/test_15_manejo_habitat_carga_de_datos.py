@@ -84,7 +84,6 @@ def _crear_simulador_s():
         cargar_habitat_objeto(os.path.join(PATH_S, "habitat_objeto.csv")),
         cargar_objeto_recurso(os.path.join(PATH_S, "objeto_recurso.csv")),
         cargar_recurso_recurso(os.path.join(PATH_S, "recurso_recurso.csv")),
-        cargar_juguete_objeto(os.path.join(PATH_S, "juguete_objeto.csv")),
         cargar_periodo_dia(os.path.join(PATH_S, "periodo_dia.csv")),
     )
 
