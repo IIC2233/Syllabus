@@ -126,11 +126,11 @@ class TestHabitatCreablesCorrectitud(IICTest):
         jug_gen = (j for j in JUGUETES_BASE)
         jr_gen  = (jr for jr in JR_BASE)
         # Cadena: Juguete 1->Rec 10, Rec 10->Rec 1 (afinidad 1). Juguete 2->Rec 20, Rec 20->Rec 3 (afinidad 2)
-        rr_gen = (rr for rr in (RecursoRecurso(1, ((10, 1),), 1), RecursoRecurso(3, ((20, 1),), 2)))
+        rr_gen = (rr for rr in (RecursoRecurso(20, ((3, 1),), 2), RecursoRecurso(10, ((1, 1),), 1)))
         ho_gen  = (ho for ho in HO_BASE)
         # H1: O1x1, O2x2 | H2: O3x1
         # Objeto 1 requiere Rec 1; Objeto 2 requiere Rec 1; Objeto 3 requiere Rec 3
-        or_gen  = (_or for _or in (ObjetoRecurso(1, ((1, 1),)), ObjetoRecurso(2, ((1, 1),)), ObjetoRecurso(3, ((3, 1),)),))
+        or_gen  = (_or for _or in (ObjetoRecurso(1, ((10, 1),)), ObjetoRecurso(2, ((10, 1),)), ObjetoRecurso(3, ((20, 1),)),))
         recurso = make_cadena([(1, 3), (3, 1)])
         resultado = list(habitat_creables(jug_gen, jr_gen, rr_gen, or_gen, ho_gen, recurso))
         self.assertGreaterEqual(len(resultado), 2)
@@ -144,9 +144,9 @@ class TestHabitatCreablesCorrectitud(IICTest):
         """
         jug_gen = (j for j in JUGUETES_BASE)
         jr_gen  = (jr for jr in JR_BASE)
-        rr_gen = (rr for rr in (RecursoRecurso(1, ((10, 1),), 1), RecursoRecurso(3, ((20, 1),), 2)))
+        rr_gen = (rr for rr in (RecursoRecurso(20, ((3, 1),), 2), RecursoRecurso(10, ((1, 1),), 1)))
         ho_gen  = (ho for ho in HO_BASE)
-        or_gen  = (_or for _or in (ObjetoRecurso(1, ((1, 1),)), ObjetoRecurso(2, ((1, 1),)),))
+        or_gen  = (_or for _or in (ObjetoRecurso(1, ((10, 1),)), ObjetoRecurso(2, ((10, 1),)),))
         recurso = make_cadena([(1, 3), (3, 2)])
         resultado = list(habitat_creables(jug_gen, jr_gen, rr_gen, or_gen, ho_gen, recurso))
         self.assertGreater(len(resultado), 0)

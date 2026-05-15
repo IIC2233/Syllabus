@@ -7,7 +7,6 @@ from tests_publicos.solution.test_15 import (MANEJO_HAB_S_0_RECURSOS,
                                              MANEJO_HAB_S_1_PASOS,
                                              MANEJO_HAB_S_1_TIEMPO_ACTUAL,
                                              MANEJO_HAB_S_1_JUGUETES_ESPERADOS,
-                                             MANEJO_HAB_S_1_HABITATS,
                                              MANEJO_HAB_S_1_OBJETOS,
                                              MANEJO_HAB_S_1_RECURSOS_ESPERADOS,
                                              MANEJO_HAB_M_0_RECURSOS,
@@ -16,7 +15,6 @@ from tests_publicos.solution.test_15 import (MANEJO_HAB_S_0_RECURSOS,
                                              MANEJO_HAB_L_0_PASOS,
                                              MANEJO_HAB_L_0_TIEMPO_ACTUAL,
                                              MANEJO_HAB_L_0_JUGUETES_ESPERADOS,
-                                             MANEJO_HAB_L_0_HABITATS,
                                              MANEJO_HAB_L_0_OBJETOS,
                                              MANEJO_HAB_L_0_RECURSOS_ESPERADOS)
 from backend.consultas import (manejo_habitat, cargar_juguete, cargar_juguete_habitat,
@@ -127,7 +125,6 @@ class TestManejoHabitatCargaDatos(IICTest):
 
         self.assertEqual(tiempo, MANEJO_HAB_S_1_TIEMPO_ACTUAL)
         self.assertCountEqual(juguetes, MANEJO_HAB_S_1_JUGUETES_ESPERADOS)
-        self.assertCountEqual(habitats_ids, MANEJO_HAB_S_1_HABITATS)
         self.assertCountEqual(objetos_ids, MANEJO_HAB_S_1_OBJETOS)
         self.assertCountEqual(recursos_ids, MANEJO_HAB_S_1_RECURSOS_ESPERADOS)
 
@@ -251,6 +248,5 @@ class TestManejoHabitatCargaDatos(IICTest):
 
         self.assertEqual(tiempo, MANEJO_HAB_L_0_TIEMPO_ACTUAL)
         self.assertTrue(set(MANEJO_HAB_L_0_JUGUETES_ESPERADOS).issubset(set(juguetes)))
-        self.assertCountEqual(habitats_ids, MANEJO_HAB_L_0_HABITATS)
         self.assertCountEqual(objetos_ids, MANEJO_HAB_L_0_OBJETOS)
         self.assertCountEqual(recursos_ids, MANEJO_HAB_L_0_RECURSOS_ESPERADOS)

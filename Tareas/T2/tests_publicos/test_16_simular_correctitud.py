@@ -60,10 +60,10 @@ JO_COMPLEJO = [
     JugueteObjeto(3, 30),
 ]
 RR_COMPLEJO = [
-    RecursoRecurso(30, ((10, 1),), 1),
-    RecursoRecurso(40, ((20, 1),), 2),
-    RecursoRecurso(50, ((30, 1),), 1),
     RecursoRecurso(60, ((40, 1),), 2),
+    RecursoRecurso(50, ((30, 1),), 1),
+    RecursoRecurso(40, ((20, 1),), 2),
+    RecursoRecurso(30, ((10, 1),), 1),
 ]
 
 # Escenario: generadores vacíos (sin eventos)
