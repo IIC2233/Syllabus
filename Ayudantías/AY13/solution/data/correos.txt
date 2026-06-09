@@ -1,0 +1,8 @@
+2026-06-01 14:32 | ana@uc.cl -> bob@gmail.com | asunto: Ayuda con tarea
+2026-06-01 14:35 | bob@gmail.com -> carla@uc.cl | asunto: Re: Ayuda con tarea
+2026-06-01 14:40 | carla@uc.cl -> diego@outlook.com | asunto: Re: Re: Ayuda con tarea
+2026-06-01 15:00 | ana@uc.cl -> diego@outlook.com | asunto: Consulta urgente
+2026-06-01 15:15 | usuario_malo -> ana@uc.cl | asunto: esto no deberia pasar
+2026-06-01 15:20 | ana@uc.cl -> bob@gmail | asunto: correo invalido
+2026-06-01 15:25 |   laura@uc.cl   ->   marta@uc.cl   | asunto:   Reunion de equipo
+2026-06-01 15:30 | laura@uc.cl -> marta@uc.cl | asunto:
