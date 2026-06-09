@@ -7,4 +7,4 @@
 | Fecha | Actualización |
 | ----- | ------------- |
 | 04/06 | Se sube la tarea al Syllabus. |
-
+| 09/06 | Se actualiza el Enunciado, corrigiendo y clarificando el uso del token de autenticacion |
