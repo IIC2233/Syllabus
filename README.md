@@ -7,7 +7,7 @@
 | Nombre                   | Sección | Github             | Email              |
 | ------------------------ | ------- | ------------------ | ------------------ |
 | Jaime Middleton          | 1       | @Jamidd            | jamiddleton@uc.cl  |
-| Rocío Ladrón de Guevara  | 2       | @Rocioldg          |                    |
+| Rocío Ladrón de Guevara  | 2       | @Rocioldg          | rociohgj@uc.cl     |
 | Antonio López            | 3       | @antoniolopezlarra | alopez7@uc.cl      |
 | Tamara Vidal             | 4       | @tama0903          | ttvidal@uc.cl      |
 | Daniela Concha           | 5       | @lily416           | daconcha@uc.cl     |
