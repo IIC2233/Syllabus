@@ -1,0 +1,7 @@
+id,nombre,tipo,edad,salud,hambre,recinto
+1,Luna,mamifero,3,45,60,Bosque Norte
+2,Pudu,mamifero,5,90,15,Pradera Sur
+3,Zorro,mamifero,2,70,85,Bosque Norte
+4,Quique,mamifero,4,82,20,Pradera Sur
+5,Pepa,ave,2,70,30,Aviario Central
+6,Condor,ave,8,35,95,Aviario Central
