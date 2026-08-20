@@ -1,0 +1,21 @@
+Agregar al carro,20000000-0,Polera Gris S
+Agregar al carro,21123123-5,Bufanda rallada
+Agregar al carro,21123123-5,Polera Gris S
+Sacar del carro,18453533-4
+Cerrar sesion,20000000-0
+Agregar al carro,21123123-5,Polera Gris S
+Pagar,21123123-5
+Pagar,18453533-4
+Agregar al carro,18453533-4,Jeans Azul 42
+Agregar al carro,18453533-4,Jeans Azul 42
+Sacar del carro,18453533-4
+Agregar al carro,12345678-9,Zapatillas Blancas 40
+Agregar al carro,12345678-9,Zapatillas Blancas 40
+Cerrar sesion,12345678-9
+Pagar,12345678-9
+Agregar al carro,11111111-1,Producto Inexistente
+Agregar al carro,22222222-2,Polera Gris L
+Agregar al carro,22222222-2,Polera Gris L
+Agregar al carro,22222222-2,Polera Gris L
+Agregar al carro,22222222-2,Polera Gris L
+Pagar,22222222-2

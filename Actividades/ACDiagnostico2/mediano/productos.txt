@@ -1,0 +1,20 @@
+Polera Gris L,15800,3
+Polera Gris S,15800,1
+Bufanda rallada,28300,2
+Jeans Azul 42,34900,4
+Poleron Negro M,25900,2
+Gorro de lana,12900,3
+Zapatillas Blancas 40,45900,1
+Camisa Blanca M,21900,2
+Pantalon Beige 44,29900,3
+Calcetines deportivos,5900,5
+Chaqueta Azul L,42900,3
+Vestido Rojo M,37900,2
+Botines Negros 39,51900,2
+Sombrero Beige,16900,4
+Cinturon Cafe,11900,3
+Mochila Urbana,32900,2
+Polera Blanca M,14900,4
+Short Deportivo L,18900,3
+Falda Negra M,23900,2
+Guantes Negros,9900,5

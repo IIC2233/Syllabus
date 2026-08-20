@@ -1,0 +1,8 @@
+Agregar al carro,20000000-0,Polera Gris S
+Agregar al carro,21123123-5,Bufanda rallada
+Agregar al carro,21123123-5,Polera Gris S
+Sacar del carro,18453533-4
+Cerrar sesion,20000000-0
+Agregar al carro,21123123-5,Polera Gris S
+Pagar,21123123-5
+Pagar,18453533-4

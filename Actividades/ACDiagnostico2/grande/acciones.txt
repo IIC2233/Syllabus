@@ -1,0 +1,2000 @@
+Sacar del carro,55555555-5
+Agregar al carro,33333333-3,Polera Gris L
+Agregar al carro,44444444-4,Polera Gris S
+Agregar al carro,11111111-1,Polera Gris S
+Agregar al carro,44444444-4,Zapatillas Blancas 40
+Agregar al carro,33333333-3,Polera Blanca M
+Agregar al carro,99999999-9,Calcetines deportivos
+Sacar del carro,11111111-1
+Agregar al carro,88888888-8,Polera Gris S
+Agregar al carro,77777777-7,Jeans Azul 42
+Agregar al carro,22222222-2,Camisa Blanca M
+Agregar al carro,77777777-7,Camisa Blanca M
+Sacar del carro,44444444-4
+Agregar al carro,77777777-7,Polera Blanca M
+Sacar del carro,11111111-1
+Agregar al carro,22222222-2,Gorro de lana
+Agregar al carro,99999999-9,Poleron Negro M
+Cerrar sesion,88888888-8
+Agregar al carro,22222222-2,Polera Gris S
+Agregar al carro,22222222-2,Chaqueta Azul L
+Agregar al carro,55555555-5,Camisa Blanca M
+Sacar del carro,99999999-9
+Agregar al carro,77777777-7,Calcetines deportivos
+Sacar del carro,44444444-4
+Agregar al carro,55555555-5,Vestido Rojo M
+Agregar al carro,99999999-9,Polera Blanca M
+Sacar del carro,33333333-3
+Agregar al carro,44444444-4,Jeans Azul 42
+Agregar al carro,66666666-6,Gorro de lana
+Sacar del carro,44444444-4
+Sacar del carro,88888888-8
+Agregar al carro,44444444-4,Calcetines deportivos
+Agregar al carro,22222222-2,Calcetines deportivos
+Agregar al carro,22222222-2,Calcetines deportivos
+Agregar al carro,55555555-5,Polera Gris S
+Pagar,55555555-5
+Agregar al carro,44444444-4,Polera Gris S
+Sacar del carro,44444444-4
+Agregar al carro,88888888-8,Calcetines deportivos
+Agregar al carro,33333333-3,Camisa Blanca M
+Sacar del carro,99999999-9
+Sacar del carro,11111111-1
+Agregar al carro,55555555-5,Sombrero Beige
+Agregar al carro,22222222-2,Chaqueta Azul L
+Agregar al carro,55555555-5,Falda Negra M
+Sacar del carro,55555555-5
+Sacar del carro,33333333-3
+Agregar al carro,88888888-8,Sombrero Beige
+Agregar al carro,22222222-2,Guantes Negros
+Agregar al carro,22222222-2,Polera Blanca M
+Agregar al carro,99999999-9,Polera Blanca M
+Agregar al carro,44444444-4,Jeans Azul 42
+Agregar al carro,66666666-6,Poleron Negro M
+Agregar al carro,88888888-8,Sombrero Beige
+Cerrar sesion,77777777-7
+Sacar del carro,22222222-2
+Agregar al carro,22222222-2,Gorro de lana
+Agregar al carro,33333333-3,Polera Blanca M
+Sacar del carro,44444444-4
+Agregar al carro,11111111-1,Mochila Urbana
+Sacar del carro,77777777-7
+Sacar del carro,11111111-1
+Agregar al carro,88888888-8,Polera Blanca M
+Cerrar sesion,11111111-1
+Agregar al carro,88888888-8,Polera Gris L
+Agregar al carro,55555555-5,Mochila Urbana
+Sacar del carro,99999999-9
+Agregar al carro,66666666-6,Short Deportivo L
+Agregar al carro,88888888-8,Vestido Rojo M
+Sacar del carro,99999999-9
+Sacar del carro,22222222-2
+Sacar del carro,55555555-5
+Agregar al carro,99999999-9,Polera Gris S
+Agregar al carro,33333333-3,Calcetines deportivos
+Cerrar sesion,66666666-6
+Agregar al carro,66666666-6,Polera Gris S
+Agregar al carro,11111111-1,Gorro de lana
+Agregar al carro,77777777-7,Gorro de lana
+Sacar del carro,66666666-6
+Agregar al carro,22222222-2,Jeans Azul 42
+Agregar al carro,11111111-1,Bufanda rallada
+Sacar del carro,11111111-1
+Agregar al carro,33333333-3,Cinturon Cafe
+Agregar al carro,11111111-1,Chaqueta Azul L
+Agregar al carro,11111111-1,Cinturon Cafe
+Cerrar sesion,55555555-5
+Sacar del carro,11111111-1
+Agregar al carro,55555555-5,Polera Blanca M
+Agregar al carro,33333333-3,Calcetines deportivos
+Agregar al carro,22222222-2,Calcetines deportivos
+Agregar al carro,99999999-9,Polera Gris S
+Agregar al carro,99999999-9,Polera Gris S
+Sacar del carro,66666666-6
+Agregar al carro,55555555-5,Bufanda rallada
+Sacar del carro,66666666-6
+Agregar al carro,66666666-6,Gorro de lana
+Agregar al carro,99999999-9,Chaqueta Azul L
+Agregar al carro,22222222-2,Pantalon Beige 44
+Agregar al carro,77777777-7,Bufanda rallada
+Cerrar sesion,66666666-6
+Sacar del carro,88888888-8
+Agregar al carro,44444444-4,Mochila Urbana
+Sacar del carro,88888888-8
+Agregar al carro,11111111-1,Gorro de lana
+Pagar,88888888-8
+Agregar al carro,33333333-3,Polera Gris L
+Agregar al carro,33333333-3,Polera Gris S
+Pagar,77777777-7
+Sacar del carro,77777777-7
+Sacar del carro,55555555-5
+Agregar al carro,77777777-7,Poleron Negro M
+Sacar del carro,88888888-8
+Agregar al carro,11111111-1,Sombrero Beige
+Agregar al carro,22222222-2,Jeans Azul 42
+Agregar al carro,44444444-4,Botines Negros 39
+Agregar al carro,66666666-6,Vestido Rojo M
+Agregar al carro,44444444-4,Cinturon Cafe
+Agregar al carro,33333333-3,Pantalon Beige 44
+Agregar al carro,44444444-4,Polera Gris S
+Agregar al carro,77777777-7,Cinturon Cafe
+Agregar al carro,88888888-8,Jeans Azul 42
+Sacar del carro,33333333-3
+Sacar del carro,88888888-8
+Agregar al carro,88888888-8,Polera Gris S
+Pagar,77777777-7
+Agregar al carro,77777777-7,Camisa Blanca M
+Sacar del carro,44444444-4
+Agregar al carro,77777777-7,Calcetines deportivos
+Agregar al carro,88888888-8,Guantes Negros
+Agregar al carro,55555555-5,Chaqueta Azul L
+Agregar al carro,11111111-1,Polera Gris L
+Agregar al carro,33333333-3,Calcetines deportivos
+Agregar al carro,77777777-7,Jeans Azul 42
+Agregar al carro,22222222-2,Gorro de lana
+Agregar al carro,22222222-2,Chaqueta Azul L
+Agregar al carro,99999999-9,Cinturon Cafe
+Agregar al carro,22222222-2,Polera Gris S
+Agregar al carro,88888888-8,Mochila Urbana
+Agregar al carro,22222222-2,Polera Gris S
+Agregar al carro,77777777-7,Short Deportivo L
+Agregar al carro,99999999-9,Bufanda rallada
+Agregar al carro,99999999-9,Falda Negra M
+Agregar al carro,66666666-6,Vestido Rojo M
+Agregar al carro,88888888-8,Gorro de lana
+Agregar al carro,88888888-8,Cinturon Cafe
+Agregar al carro,99999999-9,Gorro de lana
+Sacar del carro,55555555-5
+Agregar al carro,33333333-3,Gorro de lana
+Sacar del carro,88888888-8
+Agregar al carro,11111111-1,Polera Blanca M
+Agregar al carro,11111111-1,Polera Blanca M
+Agregar al carro,11111111-1,Mochila Urbana
+Agregar al carro,33333333-3,Zapatillas Blancas 40
+Agregar al carro,99999999-9,Sombrero Beige
+Agregar al carro,33333333-3,Botines Negros 39
+Agregar al carro,11111111-1,Cinturon Cafe
+Sacar del carro,88888888-8
+Sacar del carro,33333333-3
+Agregar al carro,88888888-8,Botines Negros 39
+Pagar,99999999-9
+Agregar al carro,77777777-7,Jeans Azul 42
+Pagar,55555555-5
+Agregar al carro,66666666-6,Falda Negra M
+Pagar,88888888-8
+Agregar al carro,66666666-6,Jeans Azul 42
+Pagar,33333333-3
+Cerrar sesion,44444444-4
+Agregar al carro,11111111-1,Sombrero Beige
+Sacar del carro,88888888-8
+Agregar al carro,77777777-7,Gorro de lana
+Agregar al carro,55555555-5,Zapatillas Blancas 40
+Agregar al carro,55555555-5,Mochila Urbana
+Sacar del carro,88888888-8
+Sacar del carro,99999999-9
+Agregar al carro,55555555-5,Bufanda rallada
+Agregar al carro,99999999-9,Polera Gris L
+Agregar al carro,66666666-6,Calcetines deportivos
+Agregar al carro,44444444-4,Polera Gris S
+Agregar al carro,33333333-3,Jeans Azul 42
+Sacar del carro,66666666-6
+Sacar del carro,55555555-5
+Sacar del carro,77777777-7
+Agregar al carro,33333333-3,Chaqueta Azul L
+Agregar al carro,22222222-2,Jeans Azul 42
+Agregar al carro,11111111-1,Polera Gris S
+Sacar del carro,22222222-2
+Sacar del carro,77777777-7
+Agregar al carro,66666666-6,Vestido Rojo M
+Pagar,33333333-3
+Pagar,11111111-1
+Agregar al carro,88888888-8,Vestido Rojo M
+Agregar al carro,33333333-3,Camisa Blanca M
+Agregar al carro,99999999-9,Short Deportivo L
+Agregar al carro,44444444-4,Polera Gris L
+Agregar al carro,11111111-1,Polera Blanca M
+Agregar al carro,44444444-4,Calcetines deportivos
+Agregar al carro,11111111-1,Zapatillas Blancas 40
+Agregar al carro,55555555-5,Cinturon Cafe
+Agregar al carro,33333333-3,Polera Gris S
+Agregar al carro,99999999-9,Gorro de lana
+Sacar del carro,44444444-4
+Agregar al carro,99999999-9,Short Deportivo L
+Sacar del carro,55555555-5
+Agregar al carro,77777777-7,Pantalon Beige 44
+Agregar al carro,88888888-8,Polera Gris S
+Agregar al carro,22222222-2,Gorro de lana
+Pagar,55555555-5
+Agregar al carro,44444444-4,Polera Gris L
+Agregar al carro,55555555-5,Calcetines deportivos
+Agregar al carro,11111111-1,Short Deportivo L
+Cerrar sesion,88888888-8
+Agregar al carro,66666666-6,Polera Gris S
+Sacar del carro,11111111-1
+Agregar al carro,33333333-3,Poleron Negro M
+Agregar al carro,33333333-3,Jeans Azul 42
+Sacar del carro,11111111-1
+Sacar del carro,11111111-1
+Cerrar sesion,22222222-2
+Pagar,77777777-7
+Sacar del carro,33333333-3
+Pagar,77777777-7
+Cerrar sesion,11111111-1
+Agregar al carro,99999999-9,Chaqueta Azul L
+Agregar al carro,44444444-4,Falda Negra M
+Agregar al carro,88888888-8,Chaqueta Azul L
+Sacar del carro,99999999-9
+Agregar al carro,66666666-6,Short Deportivo L
+Sacar del carro,99999999-9
+Agregar al carro,88888888-8,Guantes Negros
+Agregar al carro,77777777-7,Jeans Azul 42
+Agregar al carro,88888888-8,Pantalon Beige 44
+Sacar del carro,44444444-4
+Agregar al carro,44444444-4,Chaqueta Azul L
+Sacar del carro,99999999-9
+Agregar al carro,44444444-4,Polera Gris S
+Agregar al carro,66666666-6,Short Deportivo L
+Agregar al carro,33333333-3,Sombrero Beige
+Sacar del carro,11111111-1
+Agregar al carro,22222222-2,Short Deportivo L
+Agregar al carro,66666666-6,Gorro de lana
+Agregar al carro,11111111-1,Cinturon Cafe
+Agregar al carro,66666666-6,Polera Gris L
+Agregar al carro,33333333-3,Polera Gris L
+Agregar al carro,88888888-8,Zapatillas Blancas 40
+Agregar al carro,55555555-5,Sombrero Beige
+Pagar,22222222-2
+Pagar,33333333-3
+Agregar al carro,33333333-3,Chaqueta Azul L
+Agregar al carro,66666666-6,Calcetines deportivos
+Agregar al carro,22222222-2,Calcetines deportivos
+Agregar al carro,33333333-3,Cinturon Cafe
+Sacar del carro,22222222-2
+Sacar del carro,55555555-5
+Pagar,77777777-7
+Agregar al carro,11111111-1,Cinturon Cafe
+Agregar al carro,77777777-7,Jeans Azul 42
+Cerrar sesion,55555555-5
+Agregar al carro,66666666-6,Cinturon Cafe
+Agregar al carro,77777777-7,Polera Gris S
+Sacar del carro,55555555-5
+Sacar del carro,44444444-4
+Agregar al carro,44444444-4,Jeans Azul 42
+Sacar del carro,44444444-4
+Agregar al carro,11111111-1,Jeans Azul 42
+Agregar al carro,22222222-2,Jeans Azul 42
+Agregar al carro,99999999-9,Poleron Negro M
+Sacar del carro,55555555-5
+Pagar,99999999-9
+Agregar al carro,33333333-3,Polera Gris S
+Agregar al carro,88888888-8,Bufanda rallada
+Agregar al carro,11111111-1,Pantalon Beige 44
+Sacar del carro,88888888-8
+Agregar al carro,88888888-8,Mochila Urbana
+Agregar al carro,66666666-6,Short Deportivo L
+Agregar al carro,88888888-8,Bufanda rallada
+Agregar al carro,55555555-5,Polera Blanca M
+Agregar al carro,11111111-1,Polera Gris S
+Sacar del carro,77777777-7
+Agregar al carro,99999999-9,Gorro de lana
+Pagar,44444444-4
+Sacar del carro,66666666-6
+Agregar al carro,33333333-3,Chaqueta Azul L
+Agregar al carro,77777777-7,Botines Negros 39
+Sacar del carro,55555555-5
+Sacar del carro,44444444-4
+Cerrar sesion,66666666-6
+Sacar del carro,99999999-9
+Pagar,77777777-7
+Agregar al carro,22222222-2,Poleron Negro M
+Agregar al carro,66666666-6,Vestido Rojo M
+Cerrar sesion,22222222-2
+Agregar al carro,99999999-9,Polera Gris S
+Pagar,88888888-8
+Agregar al carro,22222222-2,Short Deportivo L
+Agregar al carro,33333333-3,Camisa Blanca M
+Agregar al carro,66666666-6,Poleron Negro M
+Agregar al carro,55555555-5,Polera Gris L
+Pagar,22222222-2
+Agregar al carro,44444444-4,Bufanda rallada
+Agregar al carro,33333333-3,Bufanda rallada
+Agregar al carro,77777777-7,Jeans Azul 42
+Pagar,33333333-3
+Pagar,77777777-7
+Agregar al carro,99999999-9,Cinturon Cafe
+Sacar del carro,11111111-1
+Agregar al carro,66666666-6,Polera Gris S
+Agregar al carro,22222222-2,Pantalon Beige 44
+Cerrar sesion,22222222-2
+Agregar al carro,11111111-1,Short Deportivo L
+Agregar al carro,11111111-1,Polera Gris L
+Agregar al carro,77777777-7,Cinturon Cafe
+Sacar del carro,11111111-1
+Agregar al carro,44444444-4,Polera Blanca M
+Agregar al carro,55555555-5,Poleron Negro M
+Pagar,99999999-9
+Agregar al carro,55555555-5,Sombrero Beige
+Agregar al carro,11111111-1,Polera Gris L
+Sacar del carro,66666666-6
+Sacar del carro,55555555-5
+Agregar al carro,33333333-3,Cinturon Cafe
+Agregar al carro,77777777-7,Short Deportivo L
+Agregar al carro,88888888-8,Cinturon Cafe
+Agregar al carro,22222222-2,Polera Gris L
+Agregar al carro,77777777-7,Chaqueta Azul L
+Agregar al carro,99999999-9,Calcetines deportivos
+Agregar al carro,55555555-5,Poleron Negro M
+Agregar al carro,33333333-3,Polera Gris L
+Agregar al carro,11111111-1,Calcetines deportivos
+Cerrar sesion,22222222-2
+Agregar al carro,88888888-8,Calcetines deportivos
+Agregar al carro,11111111-1,Bufanda rallada
+Pagar,11111111-1
+Agregar al carro,99999999-9,Polera Gris S
+Sacar del carro,44444444-4
+Agregar al carro,44444444-4,Botines Negros 39
+Agregar al carro,55555555-5,Polera Gris S
+Agregar al carro,44444444-4,Vestido Rojo M
+Sacar del carro,77777777-7
+Agregar al carro,11111111-1,Short Deportivo L
+Agregar al carro,44444444-4,Poleron Negro M
+Sacar del carro,11111111-1
+Agregar al carro,66666666-6,Short Deportivo L
+Sacar del carro,22222222-2
+Sacar del carro,66666666-6
+Agregar al carro,22222222-2,Jeans Azul 42
+Sacar del carro,88888888-8
+Agregar al carro,88888888-8,Short Deportivo L
+Sacar del carro,99999999-9
+Cerrar sesion,88888888-8
+Agregar al carro,88888888-8,Polera Gris S
+Sacar del carro,77777777-7
+Agregar al carro,44444444-4,Camisa Blanca M
+Cerrar sesion,55555555-5
+Agregar al carro,22222222-2,Polera Gris S
+Agregar al carro,44444444-4,Polera Blanca M
+Agregar al carro,77777777-7,Botines Negros 39
+Agregar al carro,77777777-7,Polera Gris S
+Agregar al carro,55555555-5,Zapatillas Blancas 40
+Agregar al carro,55555555-5,Guantes Negros
+Agregar al carro,77777777-7,Pantalon Beige 44
+Sacar del carro,88888888-8
+Agregar al carro,99999999-9,Botines Negros 39
+Agregar al carro,99999999-9,Polera Gris S
+Agregar al carro,11111111-1,Polera Blanca M
+Agregar al carro,66666666-6,Cinturon Cafe
+Agregar al carro,77777777-7,Chaqueta Azul L
+Agregar al carro,55555555-5,Cinturon Cafe
+Agregar al carro,33333333-3,Polera Gris L
+Agregar al carro,66666666-6,Sombrero Beige
+Agregar al carro,11111111-1,Polera Blanca M
+Agregar al carro,66666666-6,Botines Negros 39
+Sacar del carro,66666666-6
+Agregar al carro,22222222-2,Jeans Azul 42
+Agregar al carro,55555555-5,Sombrero Beige
+Agregar al carro,22222222-2,Jeans Azul 42
+Agregar al carro,22222222-2,Jeans Azul 42
+Sacar del carro,88888888-8
+Agregar al carro,22222222-2,Botines Negros 39
+Agregar al carro,11111111-1,Polera Gris L
+Agregar al carro,22222222-2,Zapatillas Blancas 40
+Pagar,33333333-3
+Sacar del carro,11111111-1
+Agregar al carro,77777777-7,Pantalon Beige 44
+Agregar al carro,55555555-5,Polera Blanca M
+Agregar al carro,66666666-6,Polera Blanca M
+Agregar al carro,11111111-1,Falda Negra M
+Sacar del carro,88888888-8
+Agregar al carro,99999999-9,Polera Gris S
+Agregar al carro,33333333-3,Camisa Blanca M
+Sacar del carro,99999999-9
+Agregar al carro,11111111-1,Calcetines deportivos
+Agregar al carro,88888888-8,Camisa Blanca M
+Pagar,77777777-7
+Cerrar sesion,55555555-5
+Agregar al carro,66666666-6,Pantalon Beige 44
+Agregar al carro,88888888-8,Pantalon Beige 44
+Agregar al carro,66666666-6,Short Deportivo L
+Agregar al carro,55555555-5,Gorro de lana
+Sacar del carro,66666666-6
+Agregar al carro,77777777-7,Camisa Blanca M
+Cerrar sesion,22222222-2
+Sacar del carro,77777777-7
+Agregar al carro,11111111-1,Polera Blanca M
+Agregar al carro,88888888-8,Calcetines deportivos
+Sacar del carro,55555555-5
+Agregar al carro,44444444-4,Polera Gris S
+Agregar al carro,22222222-2,Polera Gris S
+Agregar al carro,77777777-7,Botines Negros 39
+Agregar al carro,22222222-2,Zapatillas Blancas 40
+Agregar al carro,55555555-5,Polera Gris S
+Agregar al carro,33333333-3,Calcetines deportivos
+Sacar del carro,22222222-2
+Agregar al carro,55555555-5,Poleron Negro M
+Agregar al carro,88888888-8,Bufanda rallada
+Agregar al carro,11111111-1,Gorro de lana
+Agregar al carro,33333333-3,Short Deportivo L
+Agregar al carro,55555555-5,Mochila Urbana
+Cerrar sesion,99999999-9
+Agregar al carro,55555555-5,Botines Negros 39
+Agregar al carro,99999999-9,Falda Negra M
+Agregar al carro,44444444-4,Cinturon Cafe
+Agregar al carro,33333333-3,Camisa Blanca M
+Agregar al carro,99999999-9,Pantalon Beige 44
+Agregar al carro,44444444-4,Polera Blanca M
+Agregar al carro,22222222-2,Pantalon Beige 44
+Agregar al carro,77777777-7,Polera Gris S
+Agregar al carro,55555555-5,Poleron Negro M
+Agregar al carro,11111111-1,Sombrero Beige
+Pagar,99999999-9
+Agregar al carro,11111111-1,Zapatillas Blancas 40
+Agregar al carro,99999999-9,Pantalon Beige 44
+Agregar al carro,22222222-2,Calcetines deportivos
+Sacar del carro,99999999-9
+Agregar al carro,77777777-7,Calcetines deportivos
+Agregar al carro,22222222-2,Botines Negros 39
+Agregar al carro,66666666-6,Zapatillas Blancas 40
+Sacar del carro,33333333-3
+Agregar al carro,55555555-5,Chaqueta Azul L
+Agregar al carro,99999999-9,Falda Negra M
+Pagar,77777777-7
+Agregar al carro,11111111-1,Camisa Blanca M
+Sacar del carro,55555555-5
+Agregar al carro,88888888-8,Polera Gris S
+Agregar al carro,44444444-4,Polera Blanca M
+Agregar al carro,55555555-5,Camisa Blanca M
+Agregar al carro,88888888-8,Short Deportivo L
+Agregar al carro,66666666-6,Chaqueta Azul L
+Agregar al carro,99999999-9,Vestido Rojo M
+Agregar al carro,22222222-2,Short Deportivo L
+Agregar al carro,99999999-9,Camisa Blanca M
+Sacar del carro,22222222-2
+Sacar del carro,11111111-1
+Sacar del carro,88888888-8
+Agregar al carro,66666666-6,Cinturon Cafe
+Agregar al carro,66666666-6,Pantalon Beige 44
+Agregar al carro,22222222-2,Poleron Negro M
+Agregar al carro,11111111-1,Polera Gris L
+Agregar al carro,44444444-4,Polera Gris S
+Pagar,99999999-9
+Sacar del carro,11111111-1
+Pagar,66666666-6
+Agregar al carro,55555555-5,Chaqueta Azul L
+Sacar del carro,66666666-6
+Pagar,55555555-5
+Agregar al carro,88888888-8,Polera Gris L
+Cerrar sesion,88888888-8
+Cerrar sesion,88888888-8
+Agregar al carro,88888888-8,Calcetines deportivos
+Pagar,88888888-8
+Agregar al carro,77777777-7,Bufanda rallada
+Agregar al carro,77777777-7,Cinturon Cafe
+Pagar,11111111-1
+Agregar al carro,22222222-2,Short Deportivo L
+Pagar,66666666-6
+Sacar del carro,44444444-4
+Agregar al carro,33333333-3,Polera Gris S
+Agregar al carro,99999999-9,Jeans Azul 42
+Agregar al carro,44444444-4,Poleron Negro M
+Agregar al carro,44444444-4,Polera Gris S
+Pagar,99999999-9
+Agregar al carro,77777777-7,Polera Gris L
+Agregar al carro,77777777-7,Poleron Negro M
+Sacar del carro,44444444-4
+Agregar al carro,55555555-5,Cinturon Cafe
+Sacar del carro,11111111-1
+Agregar al carro,66666666-6,Cinturon Cafe
+Pagar,77777777-7
+Pagar,22222222-2
+Agregar al carro,66666666-6,Pantalon Beige 44
+Agregar al carro,22222222-2,Pantalon Beige 44
+Sacar del carro,22222222-2
+Agregar al carro,66666666-6,Polera Blanca M
+Agregar al carro,77777777-7,Vestido Rojo M
+Agregar al carro,88888888-8,Polera Gris S
+Agregar al carro,77777777-7,Gorro de lana
+Agregar al carro,33333333-3,Polera Gris L
+Agregar al carro,11111111-1,Polera Gris L
+Agregar al carro,66666666-6,Chaqueta Azul L
+Agregar al carro,33333333-3,Jeans Azul 42
+Pagar,99999999-9
+Pagar,99999999-9
+Agregar al carro,77777777-7,Polera Gris L
+Sacar del carro,44444444-4
+Sacar del carro,99999999-9
+Pagar,33333333-3
+Cerrar sesion,22222222-2
+Agregar al carro,22222222-2,Bufanda rallada
+Cerrar sesion,55555555-5
+Cerrar sesion,55555555-5
+Agregar al carro,66666666-6,Polera Blanca M
+Agregar al carro,22222222-2,Polera Blanca M
+Agregar al carro,99999999-9,Poleron Negro M
+Agregar al carro,88888888-8,Polera Gris S
+Agregar al carro,33333333-3,Calcetines deportivos
+Sacar del carro,11111111-1
+Agregar al carro,99999999-9,Sombrero Beige
+Agregar al carro,22222222-2,Bufanda rallada
+Pagar,33333333-3
+Agregar al carro,55555555-5,Pantalon Beige 44
+Agregar al carro,66666666-6,Falda Negra M
+Agregar al carro,33333333-3,Mochila Urbana
+Agregar al carro,66666666-6,Cinturon Cafe
+Agregar al carro,66666666-6,Gorro de lana
+Sacar del carro,33333333-3
+Agregar al carro,44444444-4,Polera Gris S
+Agregar al carro,66666666-6,Polera Gris S
+Agregar al carro,77777777-7,Pantalon Beige 44
+Agregar al carro,11111111-1,Chaqueta Azul L
+Agregar al carro,99999999-9,Falda Negra M
+Agregar al carro,88888888-8,Cinturon Cafe
+Agregar al carro,99999999-9,Polera Blanca M
+Agregar al carro,22222222-2,Calcetines deportivos
+Agregar al carro,44444444-4,Botines Negros 39
+Agregar al carro,99999999-9,Sombrero Beige
+Agregar al carro,44444444-4,Jeans Azul 42
+Agregar al carro,33333333-3,Short Deportivo L
+Agregar al carro,99999999-9,Gorro de lana
+Agregar al carro,99999999-9,Botines Negros 39
+Sacar del carro,99999999-9
+Agregar al carro,66666666-6,Jeans Azul 42
+Agregar al carro,33333333-3,Chaqueta Azul L
+Agregar al carro,22222222-2,Polera Blanca M
+Agregar al carro,99999999-9,Poleron Negro M
+Agregar al carro,11111111-1,Polera Gris S
+Sacar del carro,33333333-3
+Sacar del carro,22222222-2
+Agregar al carro,77777777-7,Polera Blanca M
+Sacar del carro,99999999-9
+Agregar al carro,44444444-4,Cinturon Cafe
+Agregar al carro,22222222-2,Camisa Blanca M
+Agregar al carro,99999999-9,Zapatillas Blancas 40
+Agregar al carro,33333333-3,Calcetines deportivos
+Agregar al carro,66666666-6,Zapatillas Blancas 40
+Agregar al carro,33333333-3,Polera Gris S
+Cerrar sesion,66666666-6
+Agregar al carro,66666666-6,Cinturon Cafe
+Sacar del carro,22222222-2
+Agregar al carro,33333333-3,Jeans Azul 42
+Agregar al carro,66666666-6,Short Deportivo L
+Agregar al carro,22222222-2,Mochila Urbana
+Agregar al carro,22222222-2,Jeans Azul 42
+Agregar al carro,77777777-7,Calcetines deportivos
+Pagar,33333333-3
+Sacar del carro,99999999-9
+Agregar al carro,88888888-8,Camisa Blanca M
+Sacar del carro,11111111-1
+Agregar al carro,11111111-1,Gorro de lana
+Agregar al carro,77777777-7,Camisa Blanca M
+Agregar al carro,77777777-7,Bufanda rallada
+Agregar al carro,77777777-7,Pantalon Beige 44
+Agregar al carro,77777777-7,Short Deportivo L
+Agregar al carro,99999999-9,Calcetines deportivos
+Agregar al carro,11111111-1,Short Deportivo L
+Cerrar sesion,22222222-2
+Agregar al carro,77777777-7,Pantalon Beige 44
+Agregar al carro,11111111-1,Poleron Negro M
+Cerrar sesion,66666666-6
+Agregar al carro,77777777-7,Cinturon Cafe
+Sacar del carro,99999999-9
+Agregar al carro,88888888-8,Calcetines deportivos
+Agregar al carro,55555555-5,Botines Negros 39
+Agregar al carro,33333333-3,Chaqueta Azul L
+Agregar al carro,55555555-5,Cinturon Cafe
+Agregar al carro,55555555-5,Cinturon Cafe
+Agregar al carro,22222222-2,Falda Negra M
+Agregar al carro,55555555-5,Polera Gris S
+Sacar del carro,99999999-9
+Agregar al carro,88888888-8,Polera Gris S
+Sacar del carro,55555555-5
+Agregar al carro,33333333-3,Jeans Azul 42
+Agregar al carro,66666666-6,Short Deportivo L
+Agregar al carro,99999999-9,Polera Gris S
+Agregar al carro,55555555-5,Vestido Rojo M
+Pagar,88888888-8
+Pagar,77777777-7
+Agregar al carro,55555555-5,Botines Negros 39
+Sacar del carro,88888888-8
+Agregar al carro,99999999-9,Camisa Blanca M
+Agregar al carro,99999999-9,Falda Negra M
+Sacar del carro,44444444-4
+Pagar,88888888-8
+Agregar al carro,33333333-3,Sombrero Beige
+Sacar del carro,77777777-7
+Agregar al carro,88888888-8,Gorro de lana
+Agregar al carro,44444444-4,Mochila Urbana
+Sacar del carro,11111111-1
+Agregar al carro,33333333-3,Polera Gris S
+Pagar,33333333-3
+Agregar al carro,77777777-7,Short Deportivo L
+Agregar al carro,33333333-3,Gorro de lana
+Agregar al carro,88888888-8,Calcetines deportivos
+Agregar al carro,66666666-6,Jeans Azul 42
+Agregar al carro,99999999-9,Polera Gris S
+Agregar al carro,11111111-1,Polera Gris S
+Agregar al carro,99999999-9,Gorro de lana
+Agregar al carro,99999999-9,Gorro de lana
+Agregar al carro,11111111-1,Jeans Azul 42
+Agregar al carro,55555555-5,Polera Blanca M
+Agregar al carro,99999999-9,Pantalon Beige 44
+Agregar al carro,77777777-7,Camisa Blanca M
+Cerrar sesion,44444444-4
+Agregar al carro,55555555-5,Calcetines deportivos
+Agregar al carro,33333333-3,Gorro de lana
+Sacar del carro,22222222-2
+Agregar al carro,22222222-2,Polera Gris S
+Agregar al carro,44444444-4,Short Deportivo L
+Sacar del carro,77777777-7
+Sacar del carro,77777777-7
+Sacar del carro,44444444-4
+Agregar al carro,11111111-1,Camisa Blanca M
+Sacar del carro,44444444-4
+Pagar,44444444-4
+Agregar al carro,77777777-7,Polera Gris L
+Agregar al carro,66666666-6,Polera Gris L
+Pagar,99999999-9
+Cerrar sesion,88888888-8
+Agregar al carro,22222222-2,Calcetines deportivos
+Sacar del carro,44444444-4
+Pagar,44444444-4
+Agregar al carro,88888888-8,Polera Gris S
+Agregar al carro,44444444-4,Polera Gris S
+Agregar al carro,77777777-7,Polera Gris S
+Sacar del carro,66666666-6
+Agregar al carro,44444444-4,Sombrero Beige
+Agregar al carro,55555555-5,Mochila Urbana
+Agregar al carro,77777777-7,Short Deportivo L
+Agregar al carro,99999999-9,Calcetines deportivos
+Agregar al carro,33333333-3,Calcetines deportivos
+Sacar del carro,55555555-5
+Agregar al carro,66666666-6,Polera Gris L
+Agregar al carro,88888888-8,Calcetines deportivos
+Sacar del carro,11111111-1
+Agregar al carro,55555555-5,Polera Gris S
+Agregar al carro,33333333-3,Guantes Negros
+Agregar al carro,22222222-2,Polera Gris S
+Agregar al carro,11111111-1,Pantalon Beige 44
+Sacar del carro,44444444-4
+Agregar al carro,77777777-7,Cinturon Cafe
+Agregar al carro,88888888-8,Mochila Urbana
+Pagar,33333333-3
+Agregar al carro,77777777-7,Polera Gris S
+Sacar del carro,99999999-9
+Sacar del carro,11111111-1
+Agregar al carro,33333333-3,Polera Blanca M
+Agregar al carro,33333333-3,Sombrero Beige
+Agregar al carro,55555555-5,Jeans Azul 42
+Agregar al carro,44444444-4,Botines Negros 39
+Agregar al carro,11111111-1,Bufanda rallada
+Agregar al carro,11111111-1,Poleron Negro M
+Pagar,22222222-2
+Cerrar sesion,22222222-2
+Agregar al carro,66666666-6,Chaqueta Azul L
+Agregar al carro,55555555-5,Cinturon Cafe
+Sacar del carro,11111111-1
+Agregar al carro,44444444-4,Calcetines deportivos
+Sacar del carro,33333333-3
+Pagar,11111111-1
+Agregar al carro,33333333-3,Cinturon Cafe
+Agregar al carro,99999999-9,Poleron Negro M
+Sacar del carro,22222222-2
+Agregar al carro,33333333-3,Sombrero Beige
+Pagar,22222222-2
+Agregar al carro,99999999-9,Calcetines deportivos
+Agregar al carro,55555555-5,Pantalon Beige 44
+Sacar del carro,33333333-3
+Agregar al carro,99999999-9,Pantalon Beige 44
+Agregar al carro,88888888-8,Botines Negros 39
+Sacar del carro,11111111-1
+Sacar del carro,88888888-8
+Agregar al carro,88888888-8,Guantes Negros
+Agregar al carro,66666666-6,Polera Gris S
+Agregar al carro,77777777-7,Polera Gris S
+Agregar al carro,99999999-9,Vestido Rojo M
+Agregar al carro,77777777-7,Polera Gris S
+Agregar al carro,55555555-5,Botines Negros 39
+Sacar del carro,55555555-5
+Sacar del carro,99999999-9
+Agregar al carro,22222222-2,Gorro de lana
+Agregar al carro,99999999-9,Vestido Rojo M
+Agregar al carro,99999999-9,Jeans Azul 42
+Sacar del carro,99999999-9
+Sacar del carro,88888888-8
+Agregar al carro,11111111-1,Camisa Blanca M
+Sacar del carro,55555555-5
+Agregar al carro,44444444-4,Camisa Blanca M
+Agregar al carro,77777777-7,Polera Gris L
+Agregar al carro,11111111-1,Botines Negros 39
+Agregar al carro,88888888-8,Zapatillas Blancas 40
+Agregar al carro,88888888-8,Jeans Azul 42
+Agregar al carro,33333333-3,Polera Gris L
+Sacar del carro,88888888-8
+Agregar al carro,44444444-4,Guantes Negros
+Agregar al carro,77777777-7,Polera Gris S
+Agregar al carro,99999999-9,Gorro de lana
+Sacar del carro,77777777-7
+Sacar del carro,55555555-5
+Agregar al carro,99999999-9,Polera Gris S
+Sacar del carro,88888888-8
+Cerrar sesion,99999999-9
+Sacar del carro,55555555-5
+Pagar,55555555-5
+Agregar al carro,44444444-4,Polera Gris S
+Agregar al carro,99999999-9,Polera Gris S
+Agregar al carro,99999999-9,Botines Negros 39
+Agregar al carro,55555555-5,Calcetines deportivos
+Agregar al carro,55555555-5,Polera Gris S
+Sacar del carro,77777777-7
+Agregar al carro,22222222-2,Guantes Negros
+Agregar al carro,33333333-3,Mochila Urbana
+Pagar,77777777-7
+Agregar al carro,55555555-5,Polera Blanca M
+Agregar al carro,33333333-3,Polera Blanca M
+Sacar del carro,11111111-1
+Agregar al carro,99999999-9,Polera Gris S
+Agregar al carro,44444444-4,Polera Gris S
+Pagar,99999999-9
+Agregar al carro,33333333-3,Polera Blanca M
+Agregar al carro,44444444-4,Short Deportivo L
+Pagar,55555555-5
+Sacar del carro,55555555-5
+Agregar al carro,77777777-7,Polera Gris S
+Agregar al carro,44444444-4,Short Deportivo L
+Agregar al carro,66666666-6,Poleron Negro M
+Sacar del carro,33333333-3
+Agregar al carro,88888888-8,Falda Negra M
+Agregar al carro,66666666-6,Polera Gris L
+Agregar al carro,33333333-3,Cinturon Cafe
+Pagar,44444444-4
+Pagar,77777777-7
+Sacar del carro,77777777-7
+Agregar al carro,33333333-3,Cinturon Cafe
+Sacar del carro,66666666-6
+Agregar al carro,33333333-3,Calcetines deportivos
+Sacar del carro,33333333-3
+Cerrar sesion,44444444-4
+Agregar al carro,33333333-3,Polera Gris L
+Sacar del carro,99999999-9
+Sacar del carro,66666666-6
+Agregar al carro,99999999-9,Botines Negros 39
+Agregar al carro,55555555-5,Cinturon Cafe
+Sacar del carro,99999999-9
+Agregar al carro,22222222-2,Bufanda rallada
+Sacar del carro,77777777-7
+Agregar al carro,11111111-1,Falda Negra M
+Agregar al carro,33333333-3,Polera Blanca M
+Agregar al carro,55555555-5,Cinturon Cafe
+Agregar al carro,99999999-9,Sombrero Beige
+Agregar al carro,77777777-7,Pantalon Beige 44
+Agregar al carro,11111111-1,Zapatillas Blancas 40
+Agregar al carro,44444444-4,Polera Blanca M
+Agregar al carro,99999999-9,Polera Blanca M
+Sacar del carro,11111111-1
+Sacar del carro,66666666-6
+Agregar al carro,44444444-4,Jeans Azul 42
+Agregar al carro,88888888-8,Polera Gris S
+Agregar al carro,77777777-7,Polera Gris S
+Agregar al carro,88888888-8,Chaqueta Azul L
+Sacar del carro,33333333-3
+Agregar al carro,11111111-1,Polera Gris S
+Agregar al carro,99999999-9,Chaqueta Azul L
+Agregar al carro,99999999-9,Polera Blanca M
+Sacar del carro,88888888-8
+Agregar al carro,88888888-8,Polera Blanca M
+Agregar al carro,66666666-6,Cinturon Cafe
+Cerrar sesion,66666666-6
+Agregar al carro,33333333-3,Gorro de lana
+Sacar del carro,99999999-9
+Agregar al carro,99999999-9,Jeans Azul 42
+Agregar al carro,44444444-4,Gorro de lana
+Pagar,66666666-6
+Pagar,11111111-1
+Sacar del carro,77777777-7
+Agregar al carro,11111111-1,Falda Negra M
+Agregar al carro,77777777-7,Guantes Negros
+Agregar al carro,99999999-9,Zapatillas Blancas 40
+Agregar al carro,55555555-5,Polera Blanca M
+Sacar del carro,33333333-3
+Agregar al carro,88888888-8,Calcetines deportivos
+Agregar al carro,55555555-5,Polera Gris S
+Sacar del carro,66666666-6
+Pagar,55555555-5
+Agregar al carro,44444444-4,Calcetines deportivos
+Agregar al carro,99999999-9,Vestido Rojo M
+Agregar al carro,44444444-4,Guantes Negros
+Sacar del carro,33333333-3
+Sacar del carro,77777777-7
+Pagar,55555555-5
+Agregar al carro,44444444-4,Polera Gris S
+Agregar al carro,11111111-1,Calcetines deportivos
+Sacar del carro,55555555-5
+Sacar del carro,88888888-8
+Agregar al carro,55555555-5,Botines Negros 39
+Sacar del carro,66666666-6
+Sacar del carro,44444444-4
+Pagar,55555555-5
+Agregar al carro,44444444-4,Botines Negros 39
+Agregar al carro,11111111-1,Mochila Urbana
+Agregar al carro,99999999-9,Cinturon Cafe
+Sacar del carro,99999999-9
+Sacar del carro,66666666-6
+Agregar al carro,66666666-6,Vestido Rojo M
+Sacar del carro,11111111-1
+Pagar,55555555-5
+Agregar al carro,33333333-3,Polera Gris S
+Agregar al carro,77777777-7,Vestido Rojo M
+Agregar al carro,77777777-7,Camisa Blanca M
+Cerrar sesion,22222222-2
+Agregar al carro,55555555-5,Polera Blanca M
+Agregar al carro,11111111-1,Polera Gris S
+Agregar al carro,77777777-7,Calcetines deportivos
+Sacar del carro,33333333-3
+Agregar al carro,44444444-4,Chaqueta Azul L
+Agregar al carro,55555555-5,Polera Gris S
+Agregar al carro,22222222-2,Cinturon Cafe
+Agregar al carro,55555555-5,Bufanda rallada
+Agregar al carro,44444444-4,Cinturon Cafe
+Agregar al carro,66666666-6,Sombrero Beige
+Agregar al carro,77777777-7,Short Deportivo L
+Agregar al carro,44444444-4,Sombrero Beige
+Cerrar sesion,22222222-2
+Agregar al carro,33333333-3,Short Deportivo L
+Cerrar sesion,88888888-8
+Sacar del carro,33333333-3
+Agregar al carro,11111111-1,Botines Negros 39
+Agregar al carro,88888888-8,Camisa Blanca M
+Agregar al carro,11111111-1,Jeans Azul 42
+Sacar del carro,66666666-6
+Agregar al carro,11111111-1,Polera Gris S
+Sacar del carro,33333333-3
+Agregar al carro,66666666-6,Jeans Azul 42
+Agregar al carro,99999999-9,Polera Gris S
+Agregar al carro,33333333-3,Polera Gris S
+Agregar al carro,99999999-9,Mochila Urbana
+Agregar al carro,99999999-9,Polera Gris L
+Agregar al carro,33333333-3,Jeans Azul 42
+Agregar al carro,77777777-7,Botines Negros 39
+Agregar al carro,99999999-9,Polera Gris L
+Agregar al carro,88888888-8,Polera Blanca M
+Agregar al carro,11111111-1,Jeans Azul 42
+Sacar del carro,99999999-9
+Cerrar sesion,77777777-7
+Agregar al carro,88888888-8,Jeans Azul 42
+Agregar al carro,99999999-9,Polera Gris S
+Agregar al carro,77777777-7,Vestido Rojo M
+Agregar al carro,88888888-8,Cinturon Cafe
+Agregar al carro,55555555-5,Sombrero Beige
+Agregar al carro,22222222-2,Bufanda rallada
+Agregar al carro,55555555-5,Cinturon Cafe
+Agregar al carro,77777777-7,Poleron Negro M
+Agregar al carro,77777777-7,Camisa Blanca M
+Agregar al carro,11111111-1,Pantalon Beige 44
+Cerrar sesion,99999999-9
+Agregar al carro,44444444-4,Pantalon Beige 44
+Agregar al carro,22222222-2,Camisa Blanca M
+Agregar al carro,88888888-8,Chaqueta Azul L
+Sacar del carro,55555555-5
+Agregar al carro,44444444-4,Polera Blanca M
+Agregar al carro,88888888-8,Calcetines deportivos
+Pagar,77777777-7
+Agregar al carro,66666666-6,Polera Gris S
+Sacar del carro,66666666-6
+Sacar del carro,44444444-4
+Agregar al carro,88888888-8,Sombrero Beige
+Agregar al carro,99999999-9,Pantalon Beige 44
+Pagar,99999999-9
+Sacar del carro,66666666-6
+Agregar al carro,44444444-4,Gorro de lana
+Agregar al carro,33333333-3,Polera Gris S
+Agregar al carro,88888888-8,Polera Gris L
+Cerrar sesion,44444444-4
+Agregar al carro,77777777-7,Cinturon Cafe
+Agregar al carro,33333333-3,Polera Gris S
+Agregar al carro,11111111-1,Chaqueta Azul L
+Agregar al carro,22222222-2,Cinturon Cafe
+Sacar del carro,33333333-3
+Sacar del carro,44444444-4
+Pagar,66666666-6
+Agregar al carro,99999999-9,Camisa Blanca M
+Sacar del carro,22222222-2
+Sacar del carro,88888888-8
+Sacar del carro,66666666-6
+Agregar al carro,33333333-3,Polera Blanca M
+Agregar al carro,11111111-1,Vestido Rojo M
+Agregar al carro,22222222-2,Jeans Azul 42
+Agregar al carro,22222222-2,Gorro de lana
+Agregar al carro,66666666-6,Gorro de lana
+Agregar al carro,44444444-4,Polera Gris S
+Sacar del carro,11111111-1
+Agregar al carro,55555555-5,Mochila Urbana
+Agregar al carro,55555555-5,Short Deportivo L
+Agregar al carro,44444444-4,Gorro de lana
+Agregar al carro,22222222-2,Camisa Blanca M
+Agregar al carro,99999999-9,Chaqueta Azul L
+Agregar al carro,88888888-8,Vestido Rojo M
+Agregar al carro,33333333-3,Calcetines deportivos
+Agregar al carro,99999999-9,Camisa Blanca M
+Sacar del carro,22222222-2
+Sacar del carro,99999999-9
+Sacar del carro,33333333-3
+Agregar al carro,22222222-2,Cinturon Cafe
+Agregar al carro,99999999-9,Zapatillas Blancas 40
+Agregar al carro,33333333-3,Bufanda rallada
+Sacar del carro,33333333-3
+Agregar al carro,33333333-3,Short Deportivo L
+Agregar al carro,77777777-7,Polera Gris S
+Agregar al carro,77777777-7,Jeans Azul 42
+Sacar del carro,55555555-5
+Sacar del carro,55555555-5
+Sacar del carro,66666666-6
+Pagar,77777777-7
+Agregar al carro,22222222-2,Zapatillas Blancas 40
+Sacar del carro,44444444-4
+Sacar del carro,55555555-5
+Agregar al carro,33333333-3,Bufanda rallada
+Agregar al carro,77777777-7,Poleron Negro M
+Cerrar sesion,77777777-7
+Agregar al carro,44444444-4,Bufanda rallada
+Agregar al carro,55555555-5,Short Deportivo L
+Agregar al carro,11111111-1,Pantalon Beige 44
+Agregar al carro,22222222-2,Guantes Negros
+Agregar al carro,22222222-2,Polera Gris L
+Agregar al carro,66666666-6,Pantalon Beige 44
+Agregar al carro,22222222-2,Pantalon Beige 44
+Agregar al carro,77777777-7,Polera Gris L
+Pagar,88888888-8
+Sacar del carro,88888888-8
+Cerrar sesion,88888888-8
+Pagar,88888888-8
+Sacar del carro,33333333-3
+Cerrar sesion,77777777-7
+Agregar al carro,22222222-2,Poleron Negro M
+Agregar al carro,22222222-2,Botines Negros 39
+Agregar al carro,77777777-7,Polera Gris S
+Agregar al carro,77777777-7,Guantes Negros
+Agregar al carro,22222222-2,Polera Gris S
+Agregar al carro,55555555-5,Calcetines deportivos
+Agregar al carro,88888888-8,Mochila Urbana
+Pagar,44444444-4
+Agregar al carro,22222222-2,Falda Negra M
+Agregar al carro,11111111-1,Polera Gris L
+Cerrar sesion,44444444-4
+Agregar al carro,55555555-5,Camisa Blanca M
+Agregar al carro,22222222-2,Pantalon Beige 44
+Agregar al carro,44444444-4,Polera Gris S
+Agregar al carro,55555555-5,Polera Gris S
+Sacar del carro,88888888-8
+Agregar al carro,66666666-6,Guantes Negros
+Sacar del carro,44444444-4
+Agregar al carro,88888888-8,Falda Negra M
+Agregar al carro,55555555-5,Polera Gris L
+Agregar al carro,33333333-3,Polera Blanca M
+Agregar al carro,22222222-2,Calcetines deportivos
+Agregar al carro,44444444-4,Guantes Negros
+Agregar al carro,44444444-4,Camisa Blanca M
+Agregar al carro,44444444-4,Bufanda rallada
+Cerrar sesion,77777777-7
+Agregar al carro,44444444-4,Falda Negra M
+Agregar al carro,22222222-2,Polera Gris S
+Agregar al carro,22222222-2,Falda Negra M
+Agregar al carro,99999999-9,Jeans Azul 42
+Agregar al carro,88888888-8,Polera Gris S
+Agregar al carro,99999999-9,Botines Negros 39
+Sacar del carro,66666666-6
+Agregar al carro,99999999-9,Polera Gris S
+Agregar al carro,33333333-3,Camisa Blanca M
+Pagar,44444444-4
+Agregar al carro,44444444-4,Polera Gris L
+Sacar del carro,11111111-1
+Agregar al carro,55555555-5,Short Deportivo L
+Pagar,22222222-2
+Agregar al carro,55555555-5,Sombrero Beige
+Sacar del carro,99999999-9
+Agregar al carro,33333333-3,Polera Gris S
+Agregar al carro,88888888-8,Calcetines deportivos
+Agregar al carro,22222222-2,Vestido Rojo M
+Sacar del carro,77777777-7
+Agregar al carro,33333333-3,Polera Gris S
+Agregar al carro,22222222-2,Pantalon Beige 44
+Agregar al carro,22222222-2,Calcetines deportivos
+Sacar del carro,66666666-6
+Agregar al carro,11111111-1,Guantes Negros
+Agregar al carro,22222222-2,Short Deportivo L
+Agregar al carro,88888888-8,Polera Blanca M
+Agregar al carro,88888888-8,Vestido Rojo M
+Agregar al carro,77777777-7,Polera Blanca M
+Sacar del carro,77777777-7
+Agregar al carro,66666666-6,Falda Negra M
+Agregar al carro,11111111-1,Bufanda rallada
+Agregar al carro,55555555-5,Falda Negra M
+Agregar al carro,66666666-6,Cinturon Cafe
+Agregar al carro,55555555-5,Sombrero Beige
+Pagar,88888888-8
+Sacar del carro,66666666-6
+Pagar,44444444-4
+Agregar al carro,99999999-9,Chaqueta Azul L
+Agregar al carro,66666666-6,Vestido Rojo M
+Sacar del carro,33333333-3
+Sacar del carro,44444444-4
+Sacar del carro,88888888-8
+Agregar al carro,22222222-2,Sombrero Beige
+Sacar del carro,99999999-9
+Cerrar sesion,55555555-5
+Agregar al carro,22222222-2,Falda Negra M
+Pagar,55555555-5
+Agregar al carro,66666666-6,Jeans Azul 42
+Agregar al carro,33333333-3,Camisa Blanca M
+Sacar del carro,22222222-2
+Agregar al carro,66666666-6,Gorro de lana
+Sacar del carro,55555555-5
+Agregar al carro,44444444-4,Bufanda rallada
+Agregar al carro,88888888-8,Poleron Negro M
+Agregar al carro,22222222-2,Falda Negra M
+Agregar al carro,22222222-2,Poleron Negro M
+Sacar del carro,66666666-6
+Agregar al carro,44444444-4,Poleron Negro M
+Agregar al carro,99999999-9,Guantes Negros
+Agregar al carro,11111111-1,Mochila Urbana
+Agregar al carro,22222222-2,Sombrero Beige
+Agregar al carro,11111111-1,Gorro de lana
+Agregar al carro,33333333-3,Pantalon Beige 44
+Agregar al carro,33333333-3,Sombrero Beige
+Cerrar sesion,44444444-4
+Agregar al carro,22222222-2,Poleron Negro M
+Agregar al carro,55555555-5,Botines Negros 39
+Sacar del carro,99999999-9
+Agregar al carro,33333333-3,Poleron Negro M
+Sacar del carro,11111111-1
+Agregar al carro,99999999-9,Calcetines deportivos
+Agregar al carro,88888888-8,Chaqueta Azul L
+Cerrar sesion,55555555-5
+Agregar al carro,44444444-4,Zapatillas Blancas 40
+Agregar al carro,88888888-8,Polera Blanca M
+Agregar al carro,77777777-7,Falda Negra M
+Agregar al carro,22222222-2,Bufanda rallada
+Agregar al carro,99999999-9,Zapatillas Blancas 40
+Sacar del carro,22222222-2
+Agregar al carro,22222222-2,Polera Blanca M
+Sacar del carro,33333333-3
+Sacar del carro,22222222-2
+Sacar del carro,99999999-9
+Agregar al carro,33333333-3,Cinturon Cafe
+Sacar del carro,77777777-7
+Agregar al carro,55555555-5,Polera Gris S
+Sacar del carro,77777777-7
+Sacar del carro,22222222-2
+Sacar del carro,11111111-1
+Cerrar sesion,44444444-4
+Agregar al carro,99999999-9,Polera Gris S
+Sacar del carro,99999999-9
+Agregar al carro,88888888-8,Gorro de lana
+Agregar al carro,77777777-7,Botines Negros 39
+Agregar al carro,88888888-8,Guantes Negros
+Pagar,77777777-7
+Agregar al carro,77777777-7,Mochila Urbana
+Sacar del carro,55555555-5
+Agregar al carro,77777777-7,Mochila Urbana
+Sacar del carro,88888888-8
+Agregar al carro,88888888-8,Pantalon Beige 44
+Agregar al carro,33333333-3,Chaqueta Azul L
+Sacar del carro,44444444-4
+Sacar del carro,33333333-3
+Agregar al carro,66666666-6,Guantes Negros
+Agregar al carro,11111111-1,Calcetines deportivos
+Sacar del carro,44444444-4
+Agregar al carro,55555555-5,Polera Gris L
+Agregar al carro,44444444-4,Polera Gris L
+Agregar al carro,11111111-1,Polera Blanca M
+Agregar al carro,44444444-4,Chaqueta Azul L
+Agregar al carro,22222222-2,Poleron Negro M
+Agregar al carro,55555555-5,Botines Negros 39
+Sacar del carro,88888888-8
+Agregar al carro,11111111-1,Jeans Azul 42
+Agregar al carro,11111111-1,Chaqueta Azul L
+Sacar del carro,11111111-1
+Agregar al carro,44444444-4,Pantalon Beige 44
+Agregar al carro,22222222-2,Guantes Negros
+Agregar al carro,11111111-1,Pantalon Beige 44
+Agregar al carro,11111111-1,Camisa Blanca M
+Agregar al carro,22222222-2,Chaqueta Azul L
+Agregar al carro,77777777-7,Calcetines deportivos
+Agregar al carro,99999999-9,Zapatillas Blancas 40
+Agregar al carro,22222222-2,Zapatillas Blancas 40
+Agregar al carro,99999999-9,Camisa Blanca M
+Agregar al carro,44444444-4,Pantalon Beige 44
+Agregar al carro,66666666-6,Camisa Blanca M
+Agregar al carro,44444444-4,Pantalon Beige 44
+Pagar,77777777-7
+Agregar al carro,44444444-4,Mochila Urbana
+Agregar al carro,22222222-2,Botines Negros 39
+Agregar al carro,88888888-8,Cinturon Cafe
+Agregar al carro,88888888-8,Calcetines deportivos
+Agregar al carro,66666666-6,Poleron Negro M
+Agregar al carro,44444444-4,Bufanda rallada
+Agregar al carro,33333333-3,Cinturon Cafe
+Agregar al carro,44444444-4,Sombrero Beige
+Sacar del carro,88888888-8
+Sacar del carro,88888888-8
+Agregar al carro,55555555-5,Botines Negros 39
+Agregar al carro,77777777-7,Vestido Rojo M
+Agregar al carro,66666666-6,Polera Blanca M
+Agregar al carro,77777777-7,Short Deportivo L
+Agregar al carro,55555555-5,Zapatillas Blancas 40
+Sacar del carro,99999999-9
+Agregar al carro,55555555-5,Polera Blanca M
+Agregar al carro,55555555-5,Botines Negros 39
+Agregar al carro,99999999-9,Guantes Negros
+Sacar del carro,88888888-8
+Agregar al carro,88888888-8,Poleron Negro M
+Agregar al carro,22222222-2,Mochila Urbana
+Agregar al carro,77777777-7,Zapatillas Blancas 40
+Agregar al carro,55555555-5,Polera Gris S
+Pagar,99999999-9
+Sacar del carro,11111111-1
+Agregar al carro,55555555-5,Jeans Azul 42
+Agregar al carro,88888888-8,Polera Gris L
+Agregar al carro,44444444-4,Sombrero Beige
+Sacar del carro,44444444-4
+Agregar al carro,33333333-3,Jeans Azul 42
+Agregar al carro,55555555-5,Pantalon Beige 44
+Agregar al carro,77777777-7,Gorro de lana
+Cerrar sesion,33333333-3
+Agregar al carro,44444444-4,Chaqueta Azul L
+Agregar al carro,99999999-9,Guantes Negros
+Agregar al carro,99999999-9,Guantes Negros
+Agregar al carro,44444444-4,Bufanda rallada
+Agregar al carro,44444444-4,Vestido Rojo M
+Agregar al carro,22222222-2,Polera Gris L
+Agregar al carro,77777777-7,Poleron Negro M
+Sacar del carro,11111111-1
+Agregar al carro,33333333-3,Camisa Blanca M
+Agregar al carro,44444444-4,Short Deportivo L
+Sacar del carro,55555555-5
+Agregar al carro,33333333-3,Zapatillas Blancas 40
+Agregar al carro,55555555-5,Pantalon Beige 44
+Agregar al carro,22222222-2,Polera Blanca M
+Agregar al carro,55555555-5,Zapatillas Blancas 40
+Sacar del carro,66666666-6
+Pagar,88888888-8
+Agregar al carro,99999999-9,Gorro de lana
+Agregar al carro,66666666-6,Cinturon Cafe
+Sacar del carro,99999999-9
+Agregar al carro,99999999-9,Gorro de lana
+Agregar al carro,22222222-2,Sombrero Beige
+Cerrar sesion,33333333-3
+Agregar al carro,11111111-1,Short Deportivo L
+Sacar del carro,77777777-7
+Agregar al carro,44444444-4,Gorro de lana
+Agregar al carro,11111111-1,Jeans Azul 42
+Agregar al carro,77777777-7,Pantalon Beige 44
+Agregar al carro,55555555-5,Polera Gris S
+Agregar al carro,55555555-5,Botines Negros 39
+Pagar,77777777-7
+Agregar al carro,55555555-5,Camisa Blanca M
+Cerrar sesion,11111111-1
+Agregar al carro,33333333-3,Zapatillas Blancas 40
+Agregar al carro,88888888-8,Bufanda rallada
+Agregar al carro,22222222-2,Camisa Blanca M
+Agregar al carro,11111111-1,Cinturon Cafe
+Agregar al carro,11111111-1,Zapatillas Blancas 40
+Agregar al carro,66666666-6,Camisa Blanca M
+Agregar al carro,33333333-3,Cinturon Cafe
+Cerrar sesion,44444444-4
+Agregar al carro,11111111-1,Botines Negros 39
+Sacar del carro,77777777-7
+Agregar al carro,11111111-1,Guantes Negros
+Sacar del carro,99999999-9
+Agregar al carro,33333333-3,Vestido Rojo M
+Cerrar sesion,88888888-8
+Agregar al carro,44444444-4,Botines Negros 39
+Sacar del carro,55555555-5
+Sacar del carro,11111111-1
+Sacar del carro,77777777-7
+Agregar al carro,33333333-3,Polera Blanca M
+Agregar al carro,99999999-9,Guantes Negros
+Sacar del carro,44444444-4
+Pagar,88888888-8
+Sacar del carro,77777777-7
+Agregar al carro,44444444-4,Mochila Urbana
+Agregar al carro,11111111-1,Falda Negra M
+Sacar del carro,88888888-8
+Sacar del carro,66666666-6
+Agregar al carro,66666666-6,Bufanda rallada
+Sacar del carro,88888888-8
+Agregar al carro,44444444-4,Polera Gris S
+Agregar al carro,99999999-9,Jeans Azul 42
+Sacar del carro,88888888-8
+Sacar del carro,33333333-3
+Agregar al carro,22222222-2,Botines Negros 39
+Agregar al carro,33333333-3,Gorro de lana
+Agregar al carro,88888888-8,Guantes Negros
+Agregar al carro,33333333-3,Guantes Negros
+Agregar al carro,66666666-6,Vestido Rojo M
+Agregar al carro,33333333-3,Polera Blanca M
+Agregar al carro,22222222-2,Short Deportivo L
+Agregar al carro,66666666-6,Falda Negra M
+Agregar al carro,44444444-4,Guantes Negros
+Agregar al carro,99999999-9,Short Deportivo L
+Agregar al carro,11111111-1,Polera Blanca M
+Agregar al carro,11111111-1,Camisa Blanca M
+Agregar al carro,33333333-3,Cinturon Cafe
+Agregar al carro,99999999-9,Polera Gris L
+Agregar al carro,33333333-3,Poleron Negro M
+Agregar al carro,55555555-5,Vestido Rojo M
+Pagar,22222222-2
+Agregar al carro,99999999-9,Pantalon Beige 44
+Sacar del carro,66666666-6
+Agregar al carro,22222222-2,Cinturon Cafe
+Agregar al carro,88888888-8,Jeans Azul 42
+Agregar al carro,66666666-6,Short Deportivo L
+Agregar al carro,22222222-2,Pantalon Beige 44
+Agregar al carro,55555555-5,Poleron Negro M
+Agregar al carro,66666666-6,Vestido Rojo M
+Sacar del carro,99999999-9
+Agregar al carro,66666666-6,Botines Negros 39
+Pagar,22222222-2
+Agregar al carro,22222222-2,Polera Gris S
+Agregar al carro,55555555-5,Bufanda rallada
+Agregar al carro,77777777-7,Zapatillas Blancas 40
+Agregar al carro,77777777-7,Gorro de lana
+Agregar al carro,22222222-2,Bufanda rallada
+Agregar al carro,99999999-9,Poleron Negro M
+Agregar al carro,44444444-4,Guantes Negros
+Sacar del carro,66666666-6
+Cerrar sesion,44444444-4
+Agregar al carro,77777777-7,Pantalon Beige 44
+Pagar,66666666-6
+Agregar al carro,77777777-7,Chaqueta Azul L
+Agregar al carro,66666666-6,Polera Blanca M
+Agregar al carro,66666666-6,Zapatillas Blancas 40
+Agregar al carro,11111111-1,Mochila Urbana
+Pagar,11111111-1
+Agregar al carro,11111111-1,Botines Negros 39
+Agregar al carro,66666666-6,Gorro de lana
+Sacar del carro,44444444-4
+Agregar al carro,77777777-7,Chaqueta Azul L
+Agregar al carro,66666666-6,Zapatillas Blancas 40
+Agregar al carro,77777777-7,Cinturon Cafe
+Agregar al carro,88888888-8,Sombrero Beige
+Sacar del carro,66666666-6
+Agregar al carro,66666666-6,Sombrero Beige
+Pagar,11111111-1
+Agregar al carro,11111111-1,Cinturon Cafe
+Agregar al carro,88888888-8,Bufanda rallada
+Agregar al carro,11111111-1,Guantes Negros
+Agregar al carro,77777777-7,Pantalon Beige 44
+Sacar del carro,44444444-4
+Agregar al carro,44444444-4,Guantes Negros
+Agregar al carro,99999999-9,Sombrero Beige
+Agregar al carro,66666666-6,Polera Gris S
+Pagar,44444444-4
+Agregar al carro,88888888-8,Bufanda rallada
+Pagar,88888888-8
+Agregar al carro,22222222-2,Vestido Rojo M
+Sacar del carro,33333333-3
+Sacar del carro,99999999-9
+Agregar al carro,11111111-1,Short Deportivo L
+Agregar al carro,33333333-3,Mochila Urbana
+Agregar al carro,44444444-4,Vestido Rojo M
+Agregar al carro,88888888-8,Cinturon Cafe
+Agregar al carro,55555555-5,Polera Gris L
+Sacar del carro,44444444-4
+Agregar al carro,33333333-3,Calcetines deportivos
+Agregar al carro,11111111-1,Falda Negra M
+Agregar al carro,77777777-7,Polera Blanca M
+Agregar al carro,11111111-1,Falda Negra M
+Agregar al carro,88888888-8,Polera Gris S
+Agregar al carro,88888888-8,Cinturon Cafe
+Cerrar sesion,33333333-3
+Agregar al carro,22222222-2,Pantalon Beige 44
+Agregar al carro,66666666-6,Polera Gris S
+Agregar al carro,88888888-8,Polera Gris S
+Agregar al carro,33333333-3,Poleron Negro M
+Agregar al carro,55555555-5,Short Deportivo L
+Agregar al carro,55555555-5,Pantalon Beige 44
+Agregar al carro,33333333-3,Bufanda rallada
+Agregar al carro,88888888-8,Gorro de lana
+Pagar,77777777-7
+Agregar al carro,66666666-6,Vestido Rojo M
+Pagar,33333333-3
+Agregar al carro,44444444-4,Botines Negros 39
+Agregar al carro,33333333-3,Polera Gris L
+Agregar al carro,77777777-7,Polera Blanca M
+Agregar al carro,88888888-8,Gorro de lana
+Agregar al carro,11111111-1,Camisa Blanca M
+Agregar al carro,66666666-6,Jeans Azul 42
+Cerrar sesion,33333333-3
+Agregar al carro,11111111-1,Cinturon Cafe
+Agregar al carro,22222222-2,Polera Blanca M
+Agregar al carro,11111111-1,Jeans Azul 42
+Agregar al carro,77777777-7,Calcetines deportivos
+Sacar del carro,44444444-4
+Agregar al carro,55555555-5,Zapatillas Blancas 40
+Cerrar sesion,44444444-4
+Agregar al carro,22222222-2,Cinturon Cafe
+Cerrar sesion,44444444-4
+Agregar al carro,22222222-2,Chaqueta Azul L
+Agregar al carro,55555555-5,Chaqueta Azul L
+Sacar del carro,99999999-9
+Agregar al carro,33333333-3,Sombrero Beige
+Agregar al carro,11111111-1,Zapatillas Blancas 40
+Sacar del carro,44444444-4
+Agregar al carro,11111111-1,Falda Negra M
+Agregar al carro,99999999-9,Poleron Negro M
+Agregar al carro,11111111-1,Jeans Azul 42
+Cerrar sesion,33333333-3
+Sacar del carro,33333333-3
+Agregar al carro,11111111-1,Polera Gris L
+Agregar al carro,11111111-1,Vestido Rojo M
+Agregar al carro,44444444-4,Botines Negros 39
+Agregar al carro,44444444-4,Vestido Rojo M
+Agregar al carro,77777777-7,Jeans Azul 42
+Sacar del carro,22222222-2
+Sacar del carro,77777777-7
+Agregar al carro,44444444-4,Camisa Blanca M
+Agregar al carro,44444444-4,Polera Gris L
+Agregar al carro,55555555-5,Gorro de lana
+Agregar al carro,33333333-3,Gorro de lana
+Agregar al carro,55555555-5,Zapatillas Blancas 40
+Agregar al carro,77777777-7,Guantes Negros
+Sacar del carro,99999999-9
+Cerrar sesion,11111111-1
+Agregar al carro,11111111-1,Gorro de lana
+Agregar al carro,11111111-1,Polera Blanca M
+Cerrar sesion,44444444-4
+Sacar del carro,44444444-4
+Agregar al carro,66666666-6,Polera Gris L
+Agregar al carro,33333333-3,Vestido Rojo M
+Agregar al carro,33333333-3,Camisa Blanca M
+Agregar al carro,33333333-3,Vestido Rojo M
+Agregar al carro,55555555-5,Pantalon Beige 44
+Sacar del carro,88888888-8
+Agregar al carro,44444444-4,Falda Negra M
+Agregar al carro,11111111-1,Cinturon Cafe
+Agregar al carro,99999999-9,Mochila Urbana
+Sacar del carro,99999999-9
+Pagar,11111111-1
+Cerrar sesion,22222222-2
+Agregar al carro,88888888-8,Falda Negra M
+Sacar del carro,22222222-2
+Agregar al carro,66666666-6,Polera Blanca M
+Agregar al carro,99999999-9,Polera Blanca M
+Agregar al carro,33333333-3,Cinturon Cafe
+Agregar al carro,55555555-5,Polera Blanca M
+Agregar al carro,33333333-3,Falda Negra M
+Agregar al carro,44444444-4,Guantes Negros
+Agregar al carro,44444444-4,Botines Negros 39
+Sacar del carro,22222222-2
+Agregar al carro,22222222-2,Short Deportivo L
+Sacar del carro,22222222-2
+Agregar al carro,44444444-4,Camisa Blanca M
+Agregar al carro,55555555-5,Polera Gris L
+Agregar al carro,55555555-5,Zapatillas Blancas 40
+Agregar al carro,22222222-2,Bufanda rallada
+Agregar al carro,55555555-5,Polera Gris L
+Agregar al carro,33333333-3,Poleron Negro M
+Agregar al carro,44444444-4,Short Deportivo L
+Agregar al carro,44444444-4,Calcetines deportivos
+Agregar al carro,66666666-6,Falda Negra M
+Agregar al carro,66666666-6,Guantes Negros
+Agregar al carro,11111111-1,Gorro de lana
+Agregar al carro,66666666-6,Polera Gris S
+Sacar del carro,88888888-8
+Agregar al carro,66666666-6,Mochila Urbana
+Agregar al carro,11111111-1,Mochila Urbana
+Agregar al carro,11111111-1,Guantes Negros
+Sacar del carro,44444444-4
+Pagar,33333333-3
+Cerrar sesion,55555555-5
+Agregar al carro,55555555-5,Polera Gris S
+Agregar al carro,66666666-6,Bufanda rallada
+Agregar al carro,77777777-7,Pantalon Beige 44
+Agregar al carro,66666666-6,Pantalon Beige 44
+Agregar al carro,22222222-2,Sombrero Beige
+Agregar al carro,44444444-4,Guantes Negros
+Agregar al carro,55555555-5,Polera Gris L
+Agregar al carro,77777777-7,Poleron Negro M
+Cerrar sesion,11111111-1
+Agregar al carro,66666666-6,Botines Negros 39
+Agregar al carro,22222222-2,Vestido Rojo M
+Sacar del carro,55555555-5
+Agregar al carro,22222222-2,Vestido Rojo M
+Agregar al carro,33333333-3,Short Deportivo L
+Agregar al carro,55555555-5,Sombrero Beige
+Agregar al carro,33333333-3,Vestido Rojo M
+Sacar del carro,66666666-6
+Agregar al carro,99999999-9,Polera Blanca M
+Cerrar sesion,44444444-4
+Agregar al carro,77777777-7,Guantes Negros
+Sacar del carro,66666666-6
+Agregar al carro,44444444-4,Vestido Rojo M
+Sacar del carro,44444444-4
+Cerrar sesion,88888888-8
+Agregar al carro,11111111-1,Vestido Rojo M
+Agregar al carro,22222222-2,Mochila Urbana
+Sacar del carro,33333333-3
+Sacar del carro,77777777-7
+Pagar,88888888-8
+Cerrar sesion,99999999-9
+Agregar al carro,11111111-1,Guantes Negros
+Sacar del carro,44444444-4
+Agregar al carro,33333333-3,Polera Gris S
+Agregar al carro,22222222-2,Jeans Azul 42
+Agregar al carro,11111111-1,Polera Gris L
+Agregar al carro,88888888-8,Poleron Negro M
+Agregar al carro,77777777-7,Falda Negra M
+Agregar al carro,77777777-7,Polera Blanca M
+Agregar al carro,22222222-2,Bufanda rallada
+Agregar al carro,22222222-2,Falda Negra M
+Sacar del carro,33333333-3
+Agregar al carro,77777777-7,Zapatillas Blancas 40
+Agregar al carro,22222222-2,Camisa Blanca M
+Sacar del carro,22222222-2
+Agregar al carro,22222222-2,Bufanda rallada
+Agregar al carro,66666666-6,Polera Gris S
+Agregar al carro,88888888-8,Mochila Urbana
+Pagar,11111111-1
+Agregar al carro,44444444-4,Jeans Azul 42
+Agregar al carro,22222222-2,Camisa Blanca M
+Agregar al carro,99999999-9,Mochila Urbana
+Agregar al carro,44444444-4,Sombrero Beige
+Agregar al carro,99999999-9,Calcetines deportivos
+Pagar,88888888-8
+Agregar al carro,33333333-3,Polera Blanca M
+Agregar al carro,77777777-7,Falda Negra M
+Agregar al carro,33333333-3,Gorro de lana
+Agregar al carro,55555555-5,Cinturon Cafe
+Pagar,22222222-2
+Agregar al carro,88888888-8,Chaqueta Azul L
+Agregar al carro,88888888-8,Pantalon Beige 44
+Agregar al carro,77777777-7,Polera Gris L
+Agregar al carro,88888888-8,Polera Gris S
+Pagar,99999999-9
+Agregar al carro,44444444-4,Sombrero Beige
+Agregar al carro,88888888-8,Botines Negros 39
+Agregar al carro,99999999-9,Calcetines deportivos
+Cerrar sesion,44444444-4
+Agregar al carro,33333333-3,Vestido Rojo M
+Sacar del carro,11111111-1
+Agregar al carro,88888888-8,Polera Gris S
+Agregar al carro,44444444-4,Mochila Urbana
+Agregar al carro,77777777-7,Polera Gris S
+Agregar al carro,33333333-3,Zapatillas Blancas 40
+Agregar al carro,88888888-8,Short Deportivo L
+Agregar al carro,22222222-2,Camisa Blanca M
+Agregar al carro,44444444-4,Gorro de lana
+Agregar al carro,44444444-4,Vestido Rojo M
+Sacar del carro,99999999-9
+Agregar al carro,99999999-9,Vestido Rojo M
+Cerrar sesion,55555555-5
+Sacar del carro,99999999-9
+Sacar del carro,11111111-1
+Agregar al carro,55555555-5,Gorro de lana
+Agregar al carro,99999999-9,Cinturon Cafe
+Sacar del carro,99999999-9
+Sacar del carro,11111111-1
+Agregar al carro,22222222-2,Short Deportivo L
+Agregar al carro,99999999-9,Polera Blanca M
+Agregar al carro,77777777-7,Vestido Rojo M
+Agregar al carro,88888888-8,Bufanda rallada
+Agregar al carro,88888888-8,Botines Negros 39
+Agregar al carro,88888888-8,Zapatillas Blancas 40
+Pagar,55555555-5
+Pagar,66666666-6
+Pagar,88888888-8
+Agregar al carro,44444444-4,Guantes Negros
+Agregar al carro,77777777-7,Polera Blanca M
+Cerrar sesion,66666666-6
+Agregar al carro,66666666-6,Poleron Negro M
+Cerrar sesion,66666666-6
+Agregar al carro,11111111-1,Pantalon Beige 44
+Agregar al carro,11111111-1,Bufanda rallada
+Cerrar sesion,33333333-3
+Agregar al carro,55555555-5,Gorro de lana
+Agregar al carro,22222222-2,Calcetines deportivos
+Agregar al carro,99999999-9,Falda Negra M
+Agregar al carro,11111111-1,Jeans Azul 42
+Agregar al carro,99999999-9,Jeans Azul 42
+Agregar al carro,11111111-1,Chaqueta Azul L
+Agregar al carro,22222222-2,Chaqueta Azul L
+Pagar,44444444-4
+Agregar al carro,55555555-5,Falda Negra M
+Agregar al carro,11111111-1,Botines Negros 39
+Agregar al carro,77777777-7,Vestido Rojo M
+Agregar al carro,55555555-5,Pantalon Beige 44
+Sacar del carro,55555555-5
+Agregar al carro,88888888-8,Polera Gris L
+Agregar al carro,11111111-1,Bufanda rallada
+Agregar al carro,77777777-7,Sombrero Beige
+Agregar al carro,99999999-9,Polera Gris S
+Agregar al carro,33333333-3,Gorro de lana
+Agregar al carro,99999999-9,Polera Blanca M
+Pagar,66666666-6
+Agregar al carro,99999999-9,Sombrero Beige
+Agregar al carro,99999999-9,Chaqueta Azul L
+Sacar del carro,66666666-6
+Agregar al carro,88888888-8,Polera Blanca M
+Agregar al carro,44444444-4,Sombrero Beige
+Sacar del carro,22222222-2
+Agregar al carro,88888888-8,Vestido Rojo M
+Agregar al carro,55555555-5,Polera Blanca M
+Agregar al carro,44444444-4,Chaqueta Azul L
+Agregar al carro,33333333-3,Calcetines deportivos
+Agregar al carro,66666666-6,Falda Negra M
+Agregar al carro,77777777-7,Bufanda rallada
+Agregar al carro,22222222-2,Chaqueta Azul L
+Agregar al carro,77777777-7,Guantes Negros
+Agregar al carro,44444444-4,Polera Gris L
+Agregar al carro,66666666-6,Poleron Negro M
+Agregar al carro,44444444-4,Polera Gris L
+Pagar,55555555-5
+Agregar al carro,55555555-5,Botines Negros 39
+Sacar del carro,44444444-4
+Agregar al carro,11111111-1,Polera Blanca M
+Agregar al carro,11111111-1,Gorro de lana
+Sacar del carro,99999999-9
+Sacar del carro,77777777-7
+Agregar al carro,22222222-2,Poleron Negro M
+Agregar al carro,11111111-1,Sombrero Beige
+Sacar del carro,77777777-7
+Agregar al carro,11111111-1,Mochila Urbana
+Agregar al carro,88888888-8,Pantalon Beige 44
+Agregar al carro,77777777-7,Bufanda rallada
+Sacar del carro,77777777-7
+Sacar del carro,11111111-1
+Pagar,55555555-5
+Pagar,77777777-7
+Agregar al carro,77777777-7,Camisa Blanca M
+Agregar al carro,99999999-9,Botines Negros 39
+Agregar al carro,33333333-3,Mochila Urbana
+Pagar,33333333-3
+Agregar al carro,66666666-6,Jeans Azul 42
+Sacar del carro,66666666-6
+Agregar al carro,33333333-3,Polera Blanca M
+Agregar al carro,77777777-7,Short Deportivo L
+Sacar del carro,66666666-6
+Agregar al carro,33333333-3,Gorro de lana
+Agregar al carro,99999999-9,Mochila Urbana
+Agregar al carro,33333333-3,Falda Negra M
+Agregar al carro,66666666-6,Pantalon Beige 44
+Agregar al carro,99999999-9,Mochila Urbana
+Agregar al carro,22222222-2,Mochila Urbana
+Pagar,33333333-3
+Agregar al carro,55555555-5,Guantes Negros
+Agregar al carro,88888888-8,Vestido Rojo M
+Pagar,11111111-1
+Pagar,33333333-3
+Sacar del carro,55555555-5
+Agregar al carro,66666666-6,Falda Negra M
+Agregar al carro,22222222-2,Cinturon Cafe
+Agregar al carro,11111111-1,Short Deportivo L
+Agregar al carro,22222222-2,Polera Gris S
+Agregar al carro,22222222-2,Mochila Urbana
+Agregar al carro,99999999-9,Sombrero Beige
+Agregar al carro,66666666-6,Botines Negros 39
+Agregar al carro,22222222-2,Sombrero Beige
+Sacar del carro,44444444-4
+Sacar del carro,66666666-6
+Agregar al carro,55555555-5,Zapatillas Blancas 40
+Agregar al carro,11111111-1,Zapatillas Blancas 40
+Agregar al carro,44444444-4,Botines Negros 39
+Agregar al carro,77777777-7,Mochila Urbana
+Agregar al carro,99999999-9,Polera Blanca M
+Agregar al carro,11111111-1,Short Deportivo L
+Pagar,77777777-7
+Agregar al carro,33333333-3,Poleron Negro M
+Agregar al carro,66666666-6,Polera Blanca M
+Agregar al carro,33333333-3,Gorro de lana
+Agregar al carro,44444444-4,Pantalon Beige 44
+Agregar al carro,33333333-3,Jeans Azul 42
+Agregar al carro,88888888-8,Zapatillas Blancas 40
+Agregar al carro,66666666-6,Botines Negros 39
+Cerrar sesion,88888888-8
+Cerrar sesion,33333333-3
+Pagar,22222222-2
+Cerrar sesion,66666666-6
+Agregar al carro,55555555-5,Sombrero Beige
+Agregar al carro,55555555-5,Botines Negros 39
+Pagar,33333333-3
+Sacar del carro,66666666-6
+Agregar al carro,22222222-2,Botines Negros 39
+Sacar del carro,99999999-9
+Sacar del carro,77777777-7
+Agregar al carro,66666666-6,Vestido Rojo M
+Agregar al carro,33333333-3,Falda Negra M
+Pagar,22222222-2
+Agregar al carro,11111111-1,Bufanda rallada
+Agregar al carro,77777777-7,Polera Gris L
+Agregar al carro,55555555-5,Pantalon Beige 44
+Agregar al carro,88888888-8,Calcetines deportivos
+Agregar al carro,22222222-2,Polera Gris L
+Agregar al carro,33333333-3,Camisa Blanca M
+Agregar al carro,44444444-4,Chaqueta Azul L
+Agregar al carro,22222222-2,Chaqueta Azul L
+Agregar al carro,77777777-7,Cinturon Cafe
+Sacar del carro,44444444-4
+Agregar al carro,99999999-9,Gorro de lana
+Sacar del carro,55555555-5
+Sacar del carro,33333333-3
+Agregar al carro,77777777-7,Short Deportivo L
+Agregar al carro,44444444-4,Sombrero Beige
+Agregar al carro,11111111-1,Chaqueta Azul L
+Sacar del carro,33333333-3
+Agregar al carro,88888888-8,Pantalon Beige 44
+Agregar al carro,99999999-9,Gorro de lana
+Sacar del carro,88888888-8
+Sacar del carro,33333333-3
+Sacar del carro,44444444-4
+Agregar al carro,22222222-2,Sombrero Beige
+Agregar al carro,22222222-2,Falda Negra M
+Agregar al carro,77777777-7,Calcetines deportivos
+Agregar al carro,99999999-9,Zapatillas Blancas 40
+Agregar al carro,88888888-8,Polera Gris S
+Sacar del carro,11111111-1
+Agregar al carro,99999999-9,Pantalon Beige 44
+Sacar del carro,66666666-6
+Agregar al carro,99999999-9,Bufanda rallada
+Agregar al carro,33333333-3,Polera Gris S
+Agregar al carro,88888888-8,Botines Negros 39
+Sacar del carro,44444444-4
+Agregar al carro,22222222-2,Mochila Urbana
+Cerrar sesion,66666666-6
+Agregar al carro,99999999-9,Sombrero Beige
+Agregar al carro,33333333-3,Polera Blanca M
+Agregar al carro,33333333-3,Sombrero Beige
+Agregar al carro,33333333-3,Falda Negra M
+Sacar del carro,77777777-7
+Agregar al carro,55555555-5,Camisa Blanca M
+Agregar al carro,66666666-6,Bufanda rallada
+Agregar al carro,11111111-1,Botines Negros 39
+Pagar,66666666-6
+Agregar al carro,99999999-9,Mochila Urbana
+Agregar al carro,22222222-2,Botines Negros 39
+Sacar del carro,33333333-3
+Agregar al carro,22222222-2,Chaqueta Azul L
+Agregar al carro,88888888-8,Zapatillas Blancas 40
+Agregar al carro,33333333-3,Botines Negros 39
+Agregar al carro,22222222-2,Short Deportivo L
+Pagar,11111111-1
+Sacar del carro,88888888-8
+Sacar del carro,22222222-2
+Agregar al carro,33333333-3,Mochila Urbana
+Sacar del carro,99999999-9
+Sacar del carro,55555555-5
+Sacar del carro,66666666-6
+Sacar del carro,11111111-1
+Agregar al carro,22222222-2,Cinturon Cafe
+Agregar al carro,11111111-1,Camisa Blanca M
+Sacar del carro,33333333-3
+Agregar al carro,77777777-7,Cinturon Cafe
+Agregar al carro,33333333-3,Short Deportivo L
+Sacar del carro,44444444-4
+Cerrar sesion,33333333-3
+Agregar al carro,77777777-7,Guantes Negros
+Agregar al carro,77777777-7,Polera Gris S
+Agregar al carro,11111111-1,Camisa Blanca M
+Sacar del carro,99999999-9
+Agregar al carro,66666666-6,Zapatillas Blancas 40
+Agregar al carro,44444444-4,Calcetines deportivos
+Sacar del carro,77777777-7
+Sacar del carro,33333333-3
+Sacar del carro,33333333-3
+Agregar al carro,22222222-2,Polera Blanca M
+Agregar al carro,88888888-8,Calcetines deportivos
+Agregar al carro,77777777-7,Jeans Azul 42
+Agregar al carro,88888888-8,Vestido Rojo M
+Agregar al carro,55555555-5,Short Deportivo L
+Agregar al carro,33333333-3,Jeans Azul 42
+Agregar al carro,22222222-2,Guantes Negros
+Agregar al carro,22222222-2,Poleron Negro M
+Pagar,33333333-3
+Agregar al carro,99999999-9,Calcetines deportivos
+Agregar al carro,66666666-6,Cinturon Cafe
+Sacar del carro,77777777-7
+Sacar del carro,22222222-2
+Sacar del carro,66666666-6
+Agregar al carro,55555555-5,Gorro de lana
+Sacar del carro,33333333-3
+Agregar al carro,33333333-3,Polera Blanca M
+Agregar al carro,33333333-3,Mochila Urbana
+Sacar del carro,55555555-5
+Agregar al carro,11111111-1,Sombrero Beige
+Agregar al carro,44444444-4,Pantalon Beige 44
+Agregar al carro,88888888-8,Polera Gris S
+Agregar al carro,22222222-2,Polera Gris L
+Agregar al carro,77777777-7,Cinturon Cafe
+Agregar al carro,55555555-5,Sombrero Beige
+Agregar al carro,88888888-8,Zapatillas Blancas 40
+Agregar al carro,77777777-7,Poleron Negro M
+Agregar al carro,55555555-5,Gorro de lana
+Agregar al carro,22222222-2,Polera Blanca M
+Agregar al carro,44444444-4,Guantes Negros
+Agregar al carro,99999999-9,Poleron Negro M
+Agregar al carro,77777777-7,Gorro de lana
+Agregar al carro,22222222-2,Sombrero Beige
+Agregar al carro,88888888-8,Vestido Rojo M
+Agregar al carro,44444444-4,Guantes Negros
+Agregar al carro,77777777-7,Jeans Azul 42
+Sacar del carro,88888888-8
+Sacar del carro,88888888-8
+Sacar del carro,11111111-1
+Agregar al carro,55555555-5,Sombrero Beige
+Sacar del carro,77777777-7
+Agregar al carro,11111111-1,Botines Negros 39
+Agregar al carro,77777777-7,Falda Negra M
+Agregar al carro,77777777-7,Guantes Negros
+Sacar del carro,33333333-3
+Pagar,11111111-1
+Agregar al carro,44444444-4,Polera Blanca M
+Agregar al carro,77777777-7,Chaqueta Azul L
+Agregar al carro,66666666-6,Camisa Blanca M
+Agregar al carro,33333333-3,Sombrero Beige
+Pagar,66666666-6
+Pagar,99999999-9
+Agregar al carro,22222222-2,Polera Blanca M
+Agregar al carro,99999999-9,Short Deportivo L
+Agregar al carro,11111111-1,Cinturon Cafe
+Agregar al carro,33333333-3,Calcetines deportivos
+Agregar al carro,33333333-3,Gorro de lana
+Agregar al carro,44444444-4,Bufanda rallada
+Cerrar sesion,88888888-8
+Sacar del carro,55555555-5
+Sacar del carro,33333333-3
+Pagar,22222222-2
+Agregar al carro,11111111-1,Mochila Urbana
+Agregar al carro,22222222-2,Pantalon Beige 44
+Agregar al carro,77777777-7,Vestido Rojo M
+Agregar al carro,66666666-6,Guantes Negros
+Sacar del carro,88888888-8
+Sacar del carro,99999999-9
+Agregar al carro,66666666-6,Polera Blanca M
+Agregar al carro,88888888-8,Polera Gris L
+Sacar del carro,99999999-9
+Sacar del carro,88888888-8
+Agregar al carro,66666666-6,Mochila Urbana
+Agregar al carro,88888888-8,Botines Negros 39
+Agregar al carro,33333333-3,Zapatillas Blancas 40
+Agregar al carro,44444444-4,Pantalon Beige 44
+Agregar al carro,33333333-3,Camisa Blanca M
+Agregar al carro,66666666-6,Short Deportivo L
+Sacar del carro,77777777-7
+Agregar al carro,99999999-9,Guantes Negros
+Agregar al carro,99999999-9,Camisa Blanca M
+Sacar del carro,66666666-6
+Agregar al carro,33333333-3,Camisa Blanca M
+Agregar al carro,11111111-1,Polera Gris L
+Agregar al carro,66666666-6,Cinturon Cafe
+Sacar del carro,33333333-3
+Agregar al carro,44444444-4,Botines Negros 39
+Agregar al carro,33333333-3,Gorro de lana
+Agregar al carro,77777777-7,Zapatillas Blancas 40
+Agregar al carro,55555555-5,Polera Blanca M
+Cerrar sesion,11111111-1
+Sacar del carro,66666666-6
+Agregar al carro,22222222-2,Poleron Negro M
+Agregar al carro,77777777-7,Calcetines deportivos
+Pagar,22222222-2
+Agregar al carro,44444444-4,Polera Blanca M
+Agregar al carro,44444444-4,Zapatillas Blancas 40
+Pagar,44444444-4
+Sacar del carro,44444444-4
+Pagar,99999999-9
+Sacar del carro,66666666-6
+Agregar al carro,77777777-7,Polera Blanca M
+Sacar del carro,33333333-3
+Sacar del carro,88888888-8
+Agregar al carro,88888888-8,Polera Gris L
+Agregar al carro,77777777-7,Mochila Urbana
+Agregar al carro,99999999-9,Calcetines deportivos
+Agregar al carro,33333333-3,Poleron Negro M
+Agregar al carro,11111111-1,Mochila Urbana
+Pagar,33333333-3
+Agregar al carro,99999999-9,Polera Blanca M
+Cerrar sesion,88888888-8
+Agregar al carro,55555555-5,Chaqueta Azul L
+Agregar al carro,66666666-6,Camisa Blanca M
+Agregar al carro,88888888-8,Sombrero Beige
+Agregar al carro,33333333-3,Polera Gris L
+Pagar,11111111-1
+Pagar,11111111-1
+Agregar al carro,44444444-4,Short Deportivo L
+Pagar,44444444-4
+Agregar al carro,11111111-1,Cinturon Cafe
+Pagar,22222222-2
+Agregar al carro,44444444-4,Polera Gris L
+Agregar al carro,33333333-3,Polera Gris S
+Agregar al carro,66666666-6,Jeans Azul 42
+Agregar al carro,33333333-3,Botines Negros 39
+Agregar al carro,11111111-1,Polera Gris L
+Agregar al carro,33333333-3,Polera Gris S
+Cerrar sesion,33333333-3
+Agregar al carro,99999999-9,Camisa Blanca M
+Agregar al carro,44444444-4,Gorro de lana
+Sacar del carro,88888888-8
+Agregar al carro,44444444-4,Mochila Urbana
+Agregar al carro,55555555-5,Vestido Rojo M
+Sacar del carro,77777777-7
+Agregar al carro,55555555-5,Camisa Blanca M
+Agregar al carro,11111111-1,Mochila Urbana
+Agregar al carro,55555555-5,Chaqueta Azul L
+Agregar al carro,22222222-2,Vestido Rojo M
+Pagar,66666666-6
+Agregar al carro,55555555-5,Bufanda rallada
+Agregar al carro,77777777-7,Short Deportivo L
+Agregar al carro,33333333-3,Polera Gris L
+Agregar al carro,33333333-3,Bufanda rallada
+Agregar al carro,11111111-1,Bufanda rallada
+Sacar del carro,22222222-2
+Agregar al carro,77777777-7,Zapatillas Blancas 40
+Cerrar sesion,33333333-3
+Agregar al carro,99999999-9,Sombrero Beige
+Agregar al carro,11111111-1,Zapatillas Blancas 40
+Agregar al carro,55555555-5,Poleron Negro M
+Pagar,22222222-2
+Agregar al carro,55555555-5,Pantalon Beige 44
+Agregar al carro,77777777-7,Sombrero Beige
+Agregar al carro,11111111-1,Jeans Azul 42
+Agregar al carro,77777777-7,Sombrero Beige
+Agregar al carro,22222222-2,Sombrero Beige
+Sacar del carro,11111111-1
+Cerrar sesion,44444444-4
+Sacar del carro,33333333-3
+Agregar al carro,99999999-9,Guantes Negros
+Agregar al carro,11111111-1,Sombrero Beige
+Agregar al carro,11111111-1,Sombrero Beige
+Agregar al carro,11111111-1,Polera Gris S
+Agregar al carro,77777777-7,Vestido Rojo M
+Agregar al carro,22222222-2,Camisa Blanca M
+Agregar al carro,55555555-5,Polera Gris L
+Sacar del carro,88888888-8
+Agregar al carro,55555555-5,Polera Gris L
+Agregar al carro,88888888-8,Gorro de lana
+Agregar al carro,55555555-5,Calcetines deportivos
+Cerrar sesion,55555555-5
+Agregar al carro,66666666-6,Vestido Rojo M
+Agregar al carro,44444444-4,Poleron Negro M
+Agregar al carro,33333333-3,Poleron Negro M
+Agregar al carro,99999999-9,Jeans Azul 42
+Agregar al carro,66666666-6,Jeans Azul 42
+Agregar al carro,88888888-8,Calcetines deportivos
+Agregar al carro,99999999-9,Guantes Negros
+Sacar del carro,33333333-3
+Sacar del carro,33333333-3
+Sacar del carro,99999999-9
+Agregar al carro,33333333-3,Mochila Urbana
+Agregar al carro,88888888-8,Mochila Urbana
+Agregar al carro,66666666-6,Botines Negros 39
+Sacar del carro,55555555-5
+Agregar al carro,44444444-4,Polera Gris S
+Agregar al carro,88888888-8,Short Deportivo L
+Sacar del carro,22222222-2
+Agregar al carro,88888888-8,Camisa Blanca M
+Agregar al carro,99999999-9,Polera Gris L
+Agregar al carro,88888888-8,Polera Blanca M
+Agregar al carro,99999999-9,Jeans Azul 42
+Agregar al carro,99999999-9,Sombrero Beige
+Pagar,11111111-1
+Agregar al carro,88888888-8,Zapatillas Blancas 40
+Agregar al carro,44444444-4,Mochila Urbana
+Agregar al carro,88888888-8,Sombrero Beige
+Agregar al carro,99999999-9,Falda Negra M
+Sacar del carro,11111111-1
+Agregar al carro,33333333-3,Chaqueta Azul L
+Agregar al carro,88888888-8,Polera Gris L
+Agregar al carro,77777777-7,Jeans Azul 42
+Agregar al carro,77777777-7,Cinturon Cafe
+Agregar al carro,44444444-4,Zapatillas Blancas 40
+Agregar al carro,88888888-8,Camisa Blanca M
+Agregar al carro,33333333-3,Guantes Negros
+Agregar al carro,55555555-5,Calcetines deportivos
+Agregar al carro,66666666-6,Sombrero Beige
+Pagar,44444444-4
+Sacar del carro,44444444-4
+Agregar al carro,55555555-5,Zapatillas Blancas 40
+Pagar,44444444-4
+Pagar,44444444-4
+Agregar al carro,99999999-9,Polera Gris S
+Sacar del carro,44444444-4
+Agregar al carro,66666666-6,Zapatillas Blancas 40
+Agregar al carro,99999999-9,Botines Negros 39
+Agregar al carro,44444444-4,Guantes Negros
+Sacar del carro,33333333-3
+Agregar al carro,11111111-1,Polera Gris L
+Agregar al carro,66666666-6,Bufanda rallada
+Agregar al carro,77777777-7,Bufanda rallada
+Agregar al carro,11111111-1,Vestido Rojo M
+Agregar al carro,88888888-8,Short Deportivo L
+Agregar al carro,88888888-8,Bufanda rallada
+Pagar,77777777-7
+Cerrar sesion,99999999-9
+Agregar al carro,66666666-6,Jeans Azul 42
+Sacar del carro,77777777-7
+Agregar al carro,11111111-1,Polera Gris L
+Agregar al carro,55555555-5,Gorro de lana
+Agregar al carro,44444444-4,Cinturon Cafe
+Agregar al carro,33333333-3,Botines Negros 39
+Agregar al carro,44444444-4,Polera Blanca M
+Cerrar sesion,44444444-4
+Agregar al carro,88888888-8,Pantalon Beige 44
+Cerrar sesion,33333333-3
+Agregar al carro,77777777-7,Polera Blanca M
+Sacar del carro,66666666-6
+Agregar al carro,77777777-7,Camisa Blanca M
+Agregar al carro,22222222-2,Gorro de lana
+Pagar,33333333-3
+Sacar del carro,44444444-4
+Agregar al carro,99999999-9,Cinturon Cafe
+Agregar al carro,55555555-5,Gorro de lana
+Agregar al carro,66666666-6,Bufanda rallada
+Agregar al carro,66666666-6,Gorro de lana
+Agregar al carro,11111111-1,Chaqueta Azul L
+Agregar al carro,44444444-4,Zapatillas Blancas 40
+Agregar al carro,66666666-6,Falda Negra M
+Sacar del carro,88888888-8
+Sacar del carro,33333333-3
+Pagar,33333333-3
+Agregar al carro,88888888-8,Poleron Negro M
+Agregar al carro,11111111-1,Polera Gris S
+Agregar al carro,22222222-2,Camisa Blanca M
+Agregar al carro,44444444-4,Short Deportivo L
+Agregar al carro,99999999-9,Gorro de lana
+Agregar al carro,77777777-7,Botines Negros 39
+Agregar al carro,33333333-3,Zapatillas Blancas 40
+Pagar,33333333-3
+Agregar al carro,11111111-1,Falda Negra M
+Agregar al carro,77777777-7,Botines Negros 39
+Agregar al carro,77777777-7,Jeans Azul 42
+Agregar al carro,66666666-6,Cinturon Cafe
+Sacar del carro,44444444-4
+Agregar al carro,99999999-9,Gorro de lana
+Agregar al carro,55555555-5,Falda Negra M
+Agregar al carro,66666666-6,Gorro de lana
+Agregar al carro,55555555-5,Polera Gris L
+Agregar al carro,77777777-7,Jeans Azul 42
+Agregar al carro,88888888-8,Sombrero Beige
+Agregar al carro,66666666-6,Polera Gris S
+Agregar al carro,66666666-6,Polera Gris S
+Agregar al carro,66666666-6,Camisa Blanca M
+Agregar al carro,33333333-3,Falda Negra M
+Pagar,55555555-5
+Agregar al carro,22222222-2,Polera Gris S
+Agregar al carro,66666666-6,Mochila Urbana
+Agregar al carro,11111111-1,Cinturon Cafe
+Agregar al carro,11111111-1,Poleron Negro M
+Sacar del carro,33333333-3
+Pagar,44444444-4
+Agregar al carro,88888888-8,Pantalon Beige 44
+Agregar al carro,22222222-2,Zapatillas Blancas 40
+Sacar del carro,44444444-4
+Agregar al carro,55555555-5,Falda Negra M
+Agregar al carro,33333333-3,Poleron Negro M
+Agregar al carro,11111111-1,Poleron Negro M
+Agregar al carro,77777777-7,Zapatillas Blancas 40
+Sacar del carro,88888888-8
+Agregar al carro,33333333-3,Botines Negros 39
+Agregar al carro,66666666-6,Short Deportivo L
+Sacar del carro,77777777-7
+Agregar al carro,99999999-9,Polera Gris L
+Agregar al carro,33333333-3,Camisa Blanca M
+Sacar del carro,22222222-2
+Agregar al carro,11111111-1,Mochila Urbana
+Sacar del carro,11111111-1
+Agregar al carro,55555555-5,Polera Gris L
+Agregar al carro,77777777-7,Zapatillas Blancas 40
+Sacar del carro,33333333-3
+Sacar del carro,55555555-5
+Agregar al carro,44444444-4,Cinturon Cafe
+Agregar al carro,66666666-6,Polera Blanca M
+Pagar,33333333-3
+Agregar al carro,88888888-8,Jeans Azul 42
+Pagar,88888888-8
+Agregar al carro,88888888-8,Mochila Urbana
+Pagar,44444444-4
+Agregar al carro,77777777-7,Chaqueta Azul L
+Agregar al carro,55555555-5,Polera Blanca M
+Pagar,22222222-2
+Agregar al carro,77777777-7,Guantes Negros
+Pagar,22222222-2
+Agregar al carro,44444444-4,Jeans Azul 42
+Agregar al carro,33333333-3,Short Deportivo L
+Agregar al carro,22222222-2,Camisa Blanca M

@@ -1,0 +1,52 @@
+Agregar al carro,20000000-0,Polera Gris S
+Agregar al carro,21123123-5,Bufanda rallada
+Agregar al carro,21123123-5,Polera Gris S
+Sacar del carro,18453533-4
+Cerrar sesion,20000000-0
+Agregar al carro,21123123-5,Polera Gris S
+Pagar,21123123-5
+Pagar,18453533-4
+Agregar al carro,18453533-4,Jeans Azul 42
+Agregar al carro,18453533-4,Jeans Azul 42
+Sacar del carro,18453533-4
+Agregar al carro,12345678-9,Zapatillas Blancas 40
+Agregar al carro,12345678-9,Zapatillas Blancas 40
+Cerrar sesion,12345678-9
+Pagar,12345678-9
+Agregar al carro,11111111-1,Producto Inexistente
+Agregar al carro,22222222-2,Polera Gris L
+Agregar al carro,22222222-2,Polera Gris L
+Agregar al carro,22222222-2,Polera Gris L
+Agregar al carro,22222222-2,Polera Gris L
+Pagar,22222222-2
+Agregar al carro,33333333-3,Chaqueta Azul L
+Agregar al carro,33333333-3,Chaqueta Azul L
+Agregar al carro,44444444-4,Chaqueta Azul L
+Sacar del carro,33333333-3
+Agregar al carro,33333333-3,Chaqueta Azul L
+Pagar,33333333-3
+Agregar al carro,44444444-4,Chaqueta Azul L
+Agregar al carro,44444444-4,Chaqueta Azul L
+Pagar,44444444-4
+Agregar al carro,55555555-5,Vestido Rojo M
+Agregar al carro,55555555-5,Vestido Rojo M
+Agregar al carro,55555555-5,Vestido Rojo M
+Cerrar sesion,55555555-5
+Agregar al carro,55555555-5,Vestido Rojo M
+Pagar,55555555-5
+Agregar al carro,66666666-6,Botines Negros 39
+Agregar al carro,66666666-6,Botines Negros 39
+Agregar al carro,66666666-6,Botines Negros 39
+Sacar del carro,66666666-6
+Pagar,66666666-6
+Agregar al carro,77777777-7,Mochila Urbana
+Agregar al carro,77777777-7,Cinturon Cafe
+Pagar,77777777-7
+Agregar al carro,88888888-8,Sombrero Beige
+Cerrar sesion,88888888-8
+Agregar al carro,99999999-9,Producto Fantasma
+Pagar,99999999-9
+Agregar al carro,10101010-1,Guantes Negros
+Agregar al carro,10101010-1,Guantes Negros
+Sacar del carro,10101010-1
+Pagar,10101010-1
