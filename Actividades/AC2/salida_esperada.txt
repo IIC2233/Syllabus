@@ -1,0 +1,61 @@
+=== PARTE 1: agregar ===
+cabeza: Nodo[Caja('CJA-1042', 'Cereal integral', '4.2')]
+cola: Nodo[Caja('CJA-1188', 'Te en bolsitas', '0.4')]
+largo: 3
+
+=== PARTE 1: retirar_primera ===
+sale de la cinta: CJA-1042 | Cereal integral | 4.2 kg
+sale de la cinta: CJA-6412 | Fideos largos | 2.5 kg
+sale la última que queda: CJA-1188 | Te en bolsitas | 0.4 kg
+cabeza: None, cola: None, largo: 0
+IndexError: La cinta está vacía
+
+=== PARTE 2: recorrer la cinta ===
+CJA-7520 | Arroz grano largo | 18.0 kg
+CJA-2296 | Galletas surtidas | 7.3 kg
+CJA-5566 | Papel absorbente | 3.8 kg
+la cinta no se consume, sigue con largo 3
+
+=== PARTE 2: iteradores independientes ===
+primero avanza a: CJA-7520
+primero avanza a: CJA-2296
+segundo parte de nuevo en: CJA-7520
+
+=== PARTE 3: la máquina ===
+cajas en la cinta: 15
+CJA-1042: aprobada
+PKG-2001: Caja rechazada: código inválido
+CJA-2081: Caja rechazada: nombre vacío
+CJA-3150: Caja rechazada: peso no numérico
+CJA-4273: Caja rechazada: peso menor o igual a cero
+CJA-5304: Caja rechazada: peso sobre el máximo
+CJA-6412: aprobada
+CJA-7520: aprobada
+CJA-88: Caja rechazada: código inválido
+CJA-9137: Caja rechazada: peso menor o igual a cero
+CJA-1188: aprobada
+CJA-2296: aprobada
+CJA-3341: aprobada
+CJA-4455: Caja rechazada: peso no numérico
+CJA-5566: aprobada
+la cinta quedó vacía: True
+
+=== PARTE 4: consultas ===
+registros_por_resultado entrega un generator
+CJA-1042  | Aprobada  | -
+CJA-6412  | Aprobada  | -
+CJA-7520  | Aprobada  | -
+CJA-1188  | Aprobada  | -
+CJA-2296  | Aprobada  | -
+CJA-3341  | Aprobada  | -
+CJA-5566  | Aprobada  | -
+
+generar_reporte entrega un generator
+PKG-2001: código inválido
+CJA-2081: nombre vacío
+CJA-3150: peso no numérico
+CJA-4273: peso menor o igual a cero
+CJA-5304: peso sobre el máximo
+CJA-88: código inválido
+CJA-9137: peso menor o igual a cero
+CJA-4455: peso no numérico
