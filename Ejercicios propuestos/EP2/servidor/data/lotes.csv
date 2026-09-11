@@ -1,0 +1,61 @@
+id_lote,nombre,categoria,anio,precio_base,vendedor
+1,Reloj cucu con olor a cafe,Antiguedades,1894,10600,Bodega
+2,Mural de post-its de edicion limitada,Arte,1912,11300,Secretaria
+3,Mouse de bolita con una pata menos,Tecnologia,2020,11100,Bodega
+4,Pizarra firmado por nadie,Antiguedades,2001,7900,Laboratorio
+5,Coleccion de stickers con olor a cafe,Coleccionables,1999,18400,Bodega
+6,Lampara de lava con olor a cafe,Rarezas,1959,13100,Bodega
+7,Taza conmemorativa que suena solo de noche,Coleccionables,1954,2700,Ayudantia
+8,Maquina de escribir que nunca prendio,Antiguedades,1929,15900,Bodega
+9,Pizarra sin cucu,Antiguedades,1892,3500,Bodega
+10,Servidor sin cucu,Tecnologia,2020,17500,Ayudantia
+11,Reloj cucu de un semestre que no existio,Antiguedades,2018,14700,Bodega
+12,Maquina de escribir encontrado en el ascensor,Antiguedades,1973,14000,Laboratorio
+13,Coleccion de stickers de un semestre que no existio,Coleccionables,1901,8200,Secretaria
+14,Mouse de bolita encontrado en el ascensor,Tecnologia,1864,8600,Bodega
+15,Maquina de escribir con olor a cafe,Antiguedades,1989,1400,Ayudantia
+16,Poster de Python 2 que suena solo de noche,Coleccionables,1959,16300,Laboratorio
+17,Taza conmemorativa firmado por nadie,Coleccionables,1895,13400,Bodega
+18,Maquina de escribir que suena solo de noche,Antiguedades,1889,19500,Bodega
+19,Escultura de cables con garantia vencida,Arte,1934,2300,Secretaria
+20,Lampara de lava sin cucu,Rarezas,1953,7400,Laboratorio
+21,Reloj cucu firmado por nadie,Antiguedades,2019,13800,Secretaria
+22,Cafetera firmado por nadie,Rarezas,1919,12400,Bodega
+23,Lampara de lava con una pata menos,Rarezas,1924,11800,Ayudantia
+24,Reloj cucu sin cucu,Antiguedades,2010,2500,Laboratorio
+25,Retrato al oleo sin cucu,Arte,1982,1100,Laboratorio
+26,Escultura de cables heredado de un profesor,Arte,1967,8600,Secretaria
+27,Silla ergonomica de la sala de ayudantes,Rarezas,1926,10000,Ayudantia
+28,Lampara de lava que nunca prendio,Rarezas,1882,13100,Bodega
+29,Taza conmemorativa de un semestre que no existio,Coleccionables,1908,19100,Ayudantia
+30,Mouse de bolita con olor a cafe,Tecnologia,1904,13800,Secretaria
+31,Retrato al oleo heredado de un profesor,Arte,1958,17700,Laboratorio
+32,Coleccion de stickers con garantia vencida,Coleccionables,1984,18700,Ayudantia
+33,Pizarra que suena solo de noche,Antiguedades,1867,700,Ayudantia
+34,Maquina de escribir con garantia vencida,Antiguedades,1864,18900,Ayudantia
+35,Escultura de cables que nunca prendio,Arte,1992,6900,Laboratorio
+36,Coleccion de stickers con una pata menos,Coleccionables,1942,5300,Laboratorio
+37,Cafetera que nunca prendio,Rarezas,1951,7400,Secretaria
+38,Mural de post-its que nunca prendio,Arte,1955,8000,Laboratorio
+39,Servidor de un semestre que no existio,Tecnologia,1985,18900,Laboratorio
+40,Teclado mecanico que nunca prendio,Tecnologia,1898,12100,Laboratorio
+41,Mouse de bolita sin cucu,Tecnologia,1961,18000,Secretaria
+42,Teclado mecanico con olor a cafe,Tecnologia,1956,11100,Ayudantia
+43,Escultura de cables que suena solo de noche,Arte,2003,900,Laboratorio
+44,Pizarra con olor a cafe,Antiguedades,2021,10500,Bodega
+45,Mural de post-its con una pata menos,Arte,1953,5400,Ayudantia
+46,Reloj cucu de la sala de ayudantes,Antiguedades,1921,11600,Bodega
+47,Silla ergonomica de un semestre que no existio,Rarezas,1874,4500,Ayudantia
+48,Teclado mecanico de un semestre que no existio,Tecnologia,1951,4900,Laboratorio
+49,Maquina de escribir heredado de un profesor,Antiguedades,1864,6400,Ayudantia
+50,Taza conmemorativa con olor a cafe,Coleccionables,1945,4700,Bodega
+51,Servidor con olor a cafe,Tecnologia,1986,16100,Secretaria
+52,Coleccion de stickers que nunca prendio,Coleccionables,1977,12700,Bodega
+53,Silla ergonomica que nunca prendio,Rarezas,2008,11400,Secretaria
+54,Escultura de cables firmado por nadie,Arte,1995,12800,Bodega
+55,Mural de post-its con olor a cafe,Arte,1933,19900,Secretaria
+56,Poster de Python 2 firmado por nadie,Coleccionables,1945,17800,Laboratorio
+57,Teclado mecanico heredado de un profesor,Tecnologia,1871,18600,Ayudantia
+58,Teclado mecanico de edicion limitada,Tecnologia,1932,11900,Ayudantia
+59,Cafetera sin cucu,Rarezas,1960,9000,Laboratorio
+60,Teclado mecanico firmado por nadie,Tecnologia,1945,1400,Secretaria

@@ -1,0 +1,5 @@
+{
+    "host": "localhost",
+    "puerto": 8080,
+    "puerto_api": 5000
+}
