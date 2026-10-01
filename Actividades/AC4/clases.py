@@ -88,7 +88,7 @@ class Cocina:
             cocineros[i % len(cocineros)].asignar_pedido(pedido)
 
     def cerrar_cocina(self) -> None:
-        """Cierra la cocina para nuevos pedidos. NO MODIFICAR."""
+        """Cierra la cocina para nuevos pedidos"""
         log("COCINA", "*** SE CIERRA LA COCINA: no se toman más pedidos ***")
         # COMPLETAR Parte 2
 
