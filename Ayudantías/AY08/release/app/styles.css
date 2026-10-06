@@ -1,0 +1,474 @@
+:root {
+  --bg-1: #0a1018;
+  --bg-2: #111b28;
+  --ink: #e5edf6;
+  --ink-soft: #94a9be;
+  --line: rgba(150, 186, 221, 0.2);
+  --accent: #5db5ff;
+  --accent-soft: #88d2ff;
+  --danger: #ff687a;
+  --ok: #88f8ac;
+  --card-shadow: 0 20px 34px rgba(1, 8, 14, 0.45);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--ink);
+  font-family: "Rajdhani", sans-serif;
+  background:
+    radial-gradient(1000px 500px at 15% 0%, rgba(89, 170, 255, 0.2), transparent 60%),
+    radial-gradient(700px 380px at 90% 20%, rgba(84, 255, 219, 0.12), transparent 60%),
+    linear-gradient(180deg, var(--bg-1), var(--bg-2));
+}
+
+.container {
+  width: min(1300px, 94vw);
+  margin: 0 auto;
+}
+
+.noise {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.08;
+  z-index: 0;
+  background-image: radial-gradient(circle, #ffffff 1px, transparent 1px);
+  background-size: 3px 3px;
+}
+
+.orb {
+  position: fixed;
+  border-radius: 50%;
+  filter: blur(26px);
+  pointer-events: none;
+  z-index: 0;
+  animation: drift 11s ease-in-out infinite;
+}
+
+.orb-a {
+  width: 320px;
+  height: 320px;
+  background: rgba(63, 152, 230, 0.36);
+  top: -120px;
+  right: -40px;
+}
+
+.orb-b {
+  width: 290px;
+  height: 290px;
+  background: rgba(86, 229, 211, 0.23);
+  bottom: -120px;
+  left: -60px;
+  animation-direction: reverse;
+}
+
+.topbar,
+.storefront {
+  position: relative;
+  z-index: 1;
+}
+
+.topbar {
+  padding: 1.2rem 0;
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  gap: 1rem;
+}
+
+.brand {
+  align-self: center;
+}
+
+.brand-mini {
+  margin: 0;
+  color: var(--accent-soft);
+  letter-spacing: 0.2em;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.brand h1 {
+  margin: 0;
+  font-family: "Chakra Petch", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: clamp(2rem, 5vw, 4.2rem);
+}
+
+.brand-subtitle {
+  margin: 0.2rem 0 0;
+  color: var(--ink-soft);
+  font-size: 1.06rem;
+}
+
+.glass-card {
+  background: linear-gradient(160deg, rgba(14, 25, 38, 0.87), rgba(8, 16, 27, 0.86));
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  box-shadow: var(--card-shadow);
+  backdrop-filter: blur(4px);
+}
+
+.config-card {
+  padding: 1rem;
+  display: grid;
+  gap: 0.65rem;
+}
+
+.config-card h2,
+h2,
+h3 {
+  margin: 0;
+  font-family: "Chakra Petch", sans-serif;
+}
+
+label {
+  display: grid;
+  gap: 0.3rem;
+  color: var(--ink-soft);
+  font-size: 0.98rem;
+}
+
+input {
+  width: 100%;
+  border: 1px solid rgba(147, 182, 215, 0.3);
+  border-radius: 10px;
+  padding: 0.6rem 0.7rem;
+  color: var(--ink);
+  background: linear-gradient(180deg, #15212f, #0e1a27);
+  font: inherit;
+}
+
+input:focus {
+  outline: 2px solid rgba(101, 191, 255, 0.32);
+  border-color: var(--accent);
+}
+
+.btn {
+  border: 1px solid rgba(131, 202, 255, 0.42);
+  border-radius: 10px;
+  padding: 0.6rem 0.8rem;
+  font: 700 0.96rem "Rajdhani", sans-serif;
+  color: #ebf8ff;
+  background: linear-gradient(160deg, rgba(33, 103, 162, 0.9), rgba(23, 76, 124, 0.95));
+  cursor: pointer;
+  transition: transform 140ms ease, filter 140ms ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.06);
+}
+
+.btn-primary {
+  background: linear-gradient(160deg, rgba(41, 149, 241, 0.95), rgba(33, 95, 174, 0.95));
+}
+
+.btn-danger {
+  border-color: rgba(255, 149, 166, 0.5);
+  background: linear-gradient(160deg, rgba(232, 77, 98, 0.9), rgba(168, 33, 72, 0.95));
+}
+
+.storefront {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(300px, 1fr);
+  gap: 1rem;
+  padding-bottom: 1.4rem;
+}
+
+.library {
+  padding: 1rem;
+}
+
+.featured-detail {
+  border: 1px solid rgba(138, 188, 230, 0.34);
+  border-radius: 14px;
+  overflow: hidden;
+  margin-bottom: 0.9rem;
+  background: rgba(8, 18, 29, 0.84);
+}
+
+.featured-cover {
+  min-height: 170px;
+  padding: 1rem;
+  display: flex;
+  align-items: flex-end;
+  background: linear-gradient(145deg, #2d5c8e, #132741);
+}
+
+.featured-cover h3 {
+  font-size: clamp(1.2rem, 2vw, 1.8rem);
+  text-shadow: 0 8px 18px rgba(0, 0, 0, 0.68);
+}
+
+.featured-content {
+  padding: 0.85rem;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.featured-description {
+  margin: 0;
+  color: #c9dceb;
+}
+
+.featured-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.45rem;
+}
+
+.featured-stats div {
+  border: 1px solid rgba(130, 178, 217, 0.32);
+  border-radius: 10px;
+  padding: 0.45rem 0.6rem;
+  background: rgba(18, 33, 48, 0.76);
+  display: grid;
+  gap: 0.15rem;
+}
+
+.featured-stats span {
+  color: var(--ink-soft);
+  font-size: 0.84rem;
+}
+
+.featured-stats strong {
+  color: #eff8ff;
+  font-size: 1.05rem;
+}
+
+.section-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.7rem;
+}
+
+#library-meta {
+  margin: 0;
+  color: var(--ink-soft);
+}
+
+.genre-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.genre-list {
+  display: flex;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+}
+
+.genre-pill {
+  border: 1px solid rgba(127, 187, 235, 0.35);
+  border-radius: 999px;
+  padding: 0.36rem 0.8rem;
+  font: 600 0.86rem "Rajdhani", sans-serif;
+  color: #dcf3ff;
+  background: rgba(17, 41, 62, 0.86);
+  cursor: pointer;
+}
+
+.genre-pill.active {
+  background: linear-gradient(160deg, rgba(89, 196, 255, 0.27), rgba(39, 95, 140, 0.5));
+  border-color: rgba(157, 224, 255, 0.65);
+}
+
+.games-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 0.85rem;
+}
+
+.game-card {
+  position: relative;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid rgba(143, 193, 235, 0.3);
+  background: rgba(8, 17, 28, 0.9);
+  animation: reveal 400ms ease both;
+}
+
+.game-cover {
+  min-height: 120px;
+  padding: 0.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+
+.game-cover h4 {
+  margin: 0;
+  font-family: "Chakra Petch", sans-serif;
+  font-size: 1.08rem;
+  text-shadow: 0 8px 18px rgba(0, 0, 0, 0.75);
+}
+
+.game-meta {
+  padding: 0.75rem;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.tags {
+  display: flex;
+  gap: 0.3rem;
+  flex-wrap: wrap;
+}
+
+.tag {
+  background: rgba(123, 183, 231, 0.2);
+  border: 1px solid rgba(151, 201, 240, 0.4);
+  border-radius: 999px;
+  padding: 0.12rem 0.5rem;
+  font-size: 0.78rem;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.35rem;
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+}
+
+.price {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #b6ffde;
+}
+
+.card-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.4rem;
+}
+
+.card-actions .btn {
+  padding: 0.45rem;
+  font-size: 0.84rem;
+}
+
+.empty {
+  border: 1px dashed rgba(144, 191, 228, 0.35);
+  border-radius: 14px;
+  padding: 1rem;
+  text-align: center;
+  color: var(--ink-soft);
+}
+
+.control-panel {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.control-section,
+.response-box {
+  padding: 0.85rem;
+}
+
+.control-form {
+  margin-top: 0.5rem;
+  display: grid;
+  gap: 0.5rem;
+}
+
+details {
+  border-top: 1px solid rgba(148, 190, 225, 0.24);
+  padding-top: 0.55rem;
+  margin-top: 0.55rem;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: #d9eeff;
+}
+
+.winner-box {
+  margin-top: 0.7rem;
+  border: 1px solid rgba(132, 191, 228, 0.3);
+  border-radius: 12px;
+  padding: 0.55rem;
+  color: var(--ink-soft);
+  line-height: 1.35;
+}
+
+.status {
+  margin-top: 0.5rem;
+  margin-bottom: 0.45rem;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+
+.status.ok {
+  color: var(--ok);
+}
+
+.status.error {
+  color: #ff9aa9;
+}
+
+pre {
+  margin: 0;
+  max-height: 320px;
+  overflow: auto;
+  white-space: pre-wrap;
+  word-break: break-word;
+  border: 1px solid rgba(139, 184, 218, 0.34);
+  border-radius: 12px;
+  padding: 0.7rem;
+  background: rgba(11, 20, 31, 0.92);
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes drift {
+  0% {
+    transform: translateY(0) scale(1);
+  }
+  50% {
+    transform: translateY(-15px) scale(1.05);
+  }
+  100% {
+    transform: translateY(0) scale(1);
+  }
+}
+
+@media (max-width: 1050px) {
+  .topbar {
+    grid-template-columns: 1fr;
+  }
+
+  .storefront {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .featured-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .games-grid {
+    grid-template-columns: 1fr;
+  }
+}

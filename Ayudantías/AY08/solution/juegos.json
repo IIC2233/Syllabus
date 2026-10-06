@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "nombre": "counter_strike_2",
+    "generos": ["acción", "shooter"],
+    "stats": {
+      "rating": 72,
+      "horas_juego": 850,
+      "precio": 0
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "elden_ring",
+    "generos": ["RPG", "acción"],
+    "stats": {
+      "rating": 96,
+      "horas_juego": 140,
+      "precio": 35
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "hades",
+    "generos": ["roguelike", "acción"],
+    "stats": {
+      "rating": 93,
+      "horas_juego": 90,
+      "precio": 20
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "stardew_valley",
+    "generos": ["simulación", "RPG"],
+    "stats": {
+      "rating": 97,
+      "horas_juego": 200,
+      "precio": 12
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "cyberpunk_2077",
+    "generos": ["RPG", "acción"],
+    "stats": {
+      "rating": 86,
+      "horas_juego": 110,
+      "precio": 30
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "celeste",
+    "generos": ["plataformas", "indie"],
+    "stats": {
+      "rating": 94,
+      "horas_juego": 30,
+      "precio": 15
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "dota_2",
+    "generos": ["estrategia", "MOBA"],
+    "stats": {
+      "rating": 79,
+      "horas_juego": 1200,
+      "precio": 0
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "hollow_knight",
+    "generos": ["plataformas", "indie", "acción"],
+    "stats": {
+      "rating": 95,
+      "horas_juego": 55,
+      "precio": 10
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "terraria",
+    "generos": ["sandbox", "aventura"],
+    "stats": {
+      "rating": 98,
+      "horas_juego": 300,
+      "precio": 8
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "the_witcher_3",
+    "generos": ["RPG", "aventura"],
+    "stats": {
+      "rating": 95,
+      "horas_juego": 175,
+      "precio": 20
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "among_us",
+    "generos": ["multijugador", "indie"],
+    "stats": {
+      "rating": 80,
+      "horas_juego": 25,
+      "precio": 4
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "portal_2",
+    "generos": ["puzzles", "acción"],
+    "stats": {
+      "rating": 98,
+      "horas_juego": 18,
+      "precio": 10
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "darkest_dungeon",
+    "generos": ["roguelike", "RPG"],
+    "stats": {
+      "rating": 85,
+      "horas_juego": 80,
+      "precio": 18
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "minecraft",
+    "generos": ["sandbox", "aventura"],
+    "stats": {
+      "rating": 96,
+      "horas_juego": 500,
+      "precio": 27
+    }
+  },
+  {
+    "id": 15,
+    "nombre": "dead_cells",
+    "generos": ["roguelike", "acción", "plataformas"],
+    "stats": {
+      "rating": 91,
+      "horas_juego": 65,
+      "precio": 22
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "civilization_vi",
+    "generos": ["estrategia"],
+    "stats": {
+      "rating": 88,
+      "horas_juego": 400,
+      "precio": 25
+    }
+  },
+  {
+    "id": 17,
+    "nombre": "disco_elysium",
+    "generos": ["RPG", "indie"],
+    "stats": {
+      "rating": 97,
+      "horas_juego": 45,
+      "precio": 28
+    }
+  },
+  {
+    "id": 18,
+    "nombre": "doom_eternal",
+    "generos": ["acción", "shooter"],
+    "stats": {
+      "rating": 88,
+      "horas_juego": 22,
+      "precio": 25
+    }
+  },
+  {
+    "id": 19,
+    "nombre": "deep_rock_galactic",
+    "generos": ["acción", "shooter", "multijugador"],
+    "stats": {
+      "rating": 98,
+      "horas_juego": 120,
+      "precio": 25
+    }
+  },
+  {
+    "id": 20,
+    "nombre": "rimworld",
+    "generos": ["estrategia", "simulación"],
+    "stats": {
+      "rating": 97,
+      "horas_juego": 600,
+      "precio": 30
+    }
+  },
+  {
+    "id": 21,
+    "nombre": "sekiro",
+    "generos": ["acción", "RPG"],
+    "stats": {
+      "rating": 91,
+      "horas_juego": 50,
+      "precio": 35
+    }
+  },
+  {
+    "id": 22,
+    "nombre": "undertale",
+    "generos": ["RPG", "indie"],
+    "stats": {
+      "rating": 97,
+      "horas_juego": 12,
+      "precio": 8
+    }
+  },
+  {
+    "id": 23,
+    "nombre": "red_dead_redemption_2",
+    "generos": ["acción", "aventura"],
+    "stats": {
+      "rating": 93,
+      "horas_juego": 80,
+      "precio": 40
+    }
+  },
+  {
+    "id": 24,
+    "nombre": "factorio",
+    "generos": ["estrategia", "simulación"],
+    "stats": {
+      "rating": 98,
+      "horas_juego": 700,
+      "precio": 30
+    }
+  },
+  {
+    "id": 25,
+    "nombre": "half_life_alyx",
+    "generos": ["acción", "shooter"],
+    "stats": {
+      "rating": 98,
+      "horas_juego": 15,
+      "precio": 45
+    }
+  },
+  {
+    "id": 26,
+    "nombre": "baldurs_gate_3",
+    "generos": ["RPG", "estrategia"],
+    "stats": {
+      "rating": 99,
+      "horas_juego": 250,
+      "precio": 45
+    }
+  },
+  {
+    "id": 27,
+    "nombre": "valheim",
+    "generos": ["sandbox", "aventura", "multijugador"],
+    "stats": {
+      "rating": 90,
+      "horas_juego": 160,
+      "precio": 18
+    }
+  },
+  {
+    "id": 28,
+    "nombre": "dave_the_diver",
+    "generos": ["aventura", "simulación", "indie"],
+    "stats": {
+      "rating": 92,
+      "horas_juego": 35,
+      "precio": 20
+    }
+  },
+  {
+    "id": 29,
+    "nombre": "lethal_company",
+    "generos": ["multijugador", "indie", "horror"],
+    "stats": {
+      "rating": 95,
+      "horas_juego": 40,
+      "precio": 8
+    }
+  },
+  {
+    "id": 30,
+    "nombre": "team_fortress_2",
+    "generos": ["acción", "shooter", "multijugador"],
+    "stats": {
+      "rating": 83,
+      "horas_juego": 950,
+      "precio": 0
+    }
+  },
+  {
+    "id": 31,
+    "nombre": "cuphead",
+    "generos": ["acción", "plataformas", "indie"],
+    "stats": {
+      "rating": 90,
+      "horas_juego": 14,
+      "precio": 18
+    }
+  },
+  {
+    "id": 32,
+    "nombre": "monster_hunter_world",
+    "generos": ["acción", "RPG"],
+    "stats": {
+      "rating": 90,
+      "horas_juego": 200,
+      "precio": 30
+    }
+  },
+  {
+    "id": 33,
+    "nombre": "subnautica",
+    "generos": ["aventura", "sandbox"],
+    "stats": {
+      "rating": 93,
+      "horas_juego": 45,
+      "precio": 20
+    }
+  },
+  {
+    "id": 34,
+    "nombre": "path_of_exile",
+    "generos": ["RPG", "acción"],
+    "stats": {
+      "rating": 85,
+      "horas_juego": 380,
+      "precio": 0
+    }
+  },
+  {
+    "id": 35,
+    "nombre": "noita",
+    "generos": ["roguelike", "acción", "indie"],
+    "stats": {
+      "rating": 94,
+      "horas_juego": 95,
+      "precio": 15
+    }
+  }
+]
